@@ -362,6 +362,7 @@ footer {
 }
 nav {
     float: right;
+
 }
 nav ul li a {
     padding: 0px 20px;
@@ -369,6 +370,7 @@ nav ul li a {
     letter-spacing: 1px;
     font-weight: bold;
     color: white;
+    
 }
 nav ul li {
     display: inline-block;
