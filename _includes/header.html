@@ -12,12 +12,12 @@
                 <ul>
 
                     <li>
-                        <a href="../about.html" {% if page.url == "/index.html" %} class="hover" {% elsif page.url == "/about.html" %} class="active" {% else page.url == post in site,categories.work %} class="inactive" 
+                        <a href="../about.html" {% if page.url == "/index.html" %} class="hover" {% elsif page.url == "/about.html" %} style="color:#22D5D1 !important;" {% else page.url == post in site,categories.work %} class="inactive" 
  {% endif %}>about</a>
                     </li>
 
                     <li>
-                        <a href="/" {% if page.url == "/index.html" %} class="active" {% elsif page.url == "/about.html" %} class="post-link" {% endif %} {% for post in site.categories.work %} class="inactive" 
+                        <a href="/" {% if page.url == "/index.html" %} class="active" {% elsif page.url == "/about.html" %} class="hover" {% endif %} {% for post in site.categories.work %} class="inactive" 
  {% endfor %} > work</a>
                     </li>
 

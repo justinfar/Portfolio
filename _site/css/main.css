@@ -365,11 +365,12 @@ nav {
 
 }
 nav ul li a {
-    padding: 0px 20px;
+    padding: 0px 30px;
     font-variant: small-caps;
     letter-spacing: 1px;
     font-weight: bold;
     color: white;
+    width: 100%;
     
 }
 nav ul li {
@@ -563,8 +564,11 @@ there.
 /* Larger than phablet (also point when grid becomes active) */
 @media (max-width: 550px) {
 h2.header {
-    margin-top: 5px;
     color: white
+}
+
+header {
+    margin-bottom: 30px;
 }
 
 }

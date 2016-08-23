@@ -1,0 +1,92 @@
+html {
+  box-sizing: border-box; }
+
+*, *::after, *::before {
+  box-sizing: inherit; }
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: auto;
+  text-rendering: optimizeLegibility !important;
+  -webkit-font-smoothing: antialiased !important; }
+
+p, li {
+  color: blue;
+  font-family: KeplerStd;
+  font-weight: 300;
+  font-size: 1.5em;
+  color: #7c7c7c;
+  line-height: 1.6; }
+  p.plus, li.plus {
+    color: white;
+    font-size: 4em;
+    margin: 0px 40px; }
+
+ul {
+  padding-left: 20px; }
+
+li {
+  padding-left: 20px; }
+
+h1 {
+  font-family: ProximaNova;
+  font-size: 3.5em;
+  color: #303030;
+  margin-bottom: 0.25em; }
+
+section {
+  max-width: 750px;
+  margin-left: auto;
+  margin-right: auto;
+  margin: 70px auto;
+  padding: 0px 30px; }
+  section::after {
+    clear: both;
+    content: "";
+    display: block; }
+  section::after {
+    clear: both;
+    content: "";
+    display: block; }
+
+article {
+  float: left;
+  display: block;
+  margin-right: 2.35765%;
+  width: 100%;
+  margin: 20px 0px; }
+  article:last-child {
+    margin-right: 0; }
+
+hr {
+  background: #F19CC3;
+  height: 5px;
+  width: 50px;
+  border: 0;
+  margin: 20px 0;
+  float: left; }
+
+@font-face {
+  font-family: "KeplerStd";
+  font-weight: normal;
+  src: url("../fonts/Kepler-Std_26214.ttf"); }
+@font-face {
+  font-family: "ProximaNova";
+  font-weight: bold;
+  src: url("../fonts/proximanova-bold-webfont.ttf"); }
+footer {
+  background-color: #F19CC3;
+  height: 350px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center; }
+
+footer img {
+  display: inline-block;
+  margin: 0 auto;
+  max-width: 70%; }
+
+/*# sourceMappingURL=app.css.map */
