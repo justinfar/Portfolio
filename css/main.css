@@ -325,7 +325,7 @@ h3.title {
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
 header {
-    padding: 25px 0px 30px 0px;
+    margin: 50px 0px 50px 0px;
 }
 
 footer {
@@ -492,19 +492,18 @@ blockquote p {
     font-family: 'Circular';
     font-size: 2em;
 }
-blockquote:before {
-    color: #22D5D1;
-    content: '—';
-    font-size: 4em;
-    line-height: 0.1em;
-    vertical-align: -0.4em;
+
+blockquote{
+    border-left: 5px solid #22D5D1;
+    vertical-align: middle;
+    background: rgb(251, 251, 251);
 }
-blockquote:after {
-    color: #22D5D1;
-    content: '—';
-    font-size: 4em;
-    line-height: 0.1em;
-    vertical-align: -0.4em;
+
+blockquote h5 {
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 30px 0px;
+
 }
 /* Clearing
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
@@ -622,11 +621,11 @@ p.description {
     padding: 17px 40px 17px 40px;
     text-decoration: none;
     display: flex;
-    width: 240px;
+    width: 300px;
 }
 
 .btn:active {
-   box-shadow: 0 2px 0 #282831;
+    box-shadow: 0 2px 0 #282831;
     transform: translateY(3px);
 }
 
@@ -660,13 +659,13 @@ span {
     color: #22D5D1;
 }
 .btn:hover {
-    background-color: #282831;
+    background-color: white;
     text-decoration: none;
     transition: 0.25s;
     cursor: pointer;
 }
 .btn:hover > a#btn {
-    color: white;
+    color: #22D5D1;
 }
 .btn a {
     margin: 0 auto;
@@ -696,8 +695,6 @@ span {
     border-bottom: #F0F0F0;
     
 }
-
-
 
 ::selection {
     background-color: #22D5D1;
