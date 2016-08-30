@@ -1,16 +1,18 @@
 ---
 title: Takeaways from my first design internship at BRND WGN
-date: 2016-07-10 21:50:26 Z
+date: 2016-07-10 21:50:00 Z
 categories:
 - work
 tags:
 - lessons
 - internship
 - ux
-layout: post
 image: BRNDWGN.gif
 description: What I learnt being a wagoneer.
+layout: post
 ---
+
+Justin Farrugia
 
 For example, to add an HTML table to a Markdown article:
 
