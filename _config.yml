@@ -1,6 +1,6 @@
 ---
 title: Justin Farrugia | Designer
-timezone: UTC
+timezone: Europe/Amsterdam
 collections:
   posts:
     title: Posts
@@ -26,8 +26,8 @@ defaults:
     author: Justin Farrugia
     layout: post
 email: justinmfarrugia@gmail.com
-description: Justin Farrugia's personal portfolio containing work accompanied with
-  case studies.
+description: This is the portfolio of Justin Farrugia, a product designer based in
+  Malta.
 baseurl: 
 url: http://www.justinfarrugia.com
 markdown: kramdown
