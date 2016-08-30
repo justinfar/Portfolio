@@ -1,15 +1,15 @@
 ---
-layout: post
-title:  "Takeaways from my first design internship at BRND WGN" 
-date: 2016-07-10 21:50:26
-category: work
-image: BRNDWGN.gif
-description: "What I learnt being a wagoneer."
+title: Designing for the next generation
+date: 2016-07-10 21:50:26 Z
+categories:
+- work
 tags:
 - lessons
 - internship
 - ux
-
+layout: post
+image: Aboard_3.png
+description: Making sure kids get the 'social' in social networking.
 ---
 
 For example, to add an HTML table to a Markdown article:

@@ -1,14 +1,15 @@
 ---
-layout: post
-title:  "Building my portfolio, a personal exercise"
-date: 2016-07-10 21:50:26
-category: work
-image: Portfolio.png
-description: "This thing you're scrolling through took some effort you know."
+title: Miscellaneous
+date: 2016-07-10 21:50:26 Z
+categories:
+- work
 tags:
 - lessons
 - internship
 - ux
+layout: post
+image: Aboard_3.png
+description: Some client work and rejected concepts.
 ---
 
 For example, to add an HTML table to a Markdown article:

@@ -1,15 +1,15 @@
 ---
-layout: post
-title:  "Designing for the next generation"
-date: 2016-07-10 21:50:26
-category: work
-image: Aboard_3.png
-description: "Making sure kids get the 'social' in social networking."
+title: Building my portfolio, a personal exercise
+date: 2016-07-10 21:50:26 Z
+categories:
+- work
 tags:
 - lessons
 - internship
 - ux
-
+layout: post
+image: Portfolio.png
+description: This thing you're scrolling through took some effort you know.
 ---
 
 For example, to add an HTML table to a Markdown article:
