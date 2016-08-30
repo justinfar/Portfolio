@@ -28,7 +28,7 @@ defaults:
 email: justinmfarrugia@gmail.com
 description: Justin Farrugia's personal portfolio containing work accompanied with
   case studies.
-baseurl: ''
+baseurl: 
 url: http://www.justinfarrugia.com
 markdown: kramdown
 permalink: "/:title"
