@@ -6,7 +6,7 @@ category: work
 author: Justin Farrugia
 permalink: IndustrialMuseum
 image: DesignExercises.png
-description: "Applying what I've learnt to an archived project."
+description: "Blowing the dust off from an old project"
 tags:
 - web 
 - ui

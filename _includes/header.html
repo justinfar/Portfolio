@@ -2,10 +2,11 @@
 <header>
 
     <div class="container">
-        <header>
-            <!-- <a class="site-title" href="{{ site.baseurl }}/"> 
-               <div class="logo"> <img src="../img/logo.svg" alt="Justin Farrugia's logo"></div>
-            </a> -->
+
+            <a href="{{ site.baseurl }}/" {% if page.url == "/index.html" %} style="display:none;" {% else %} 
+            class="backhome" {% endif %}> 
+               back home
+            </a>
             
             <nav>
 
@@ -21,29 +22,17 @@
  {% endfor %} > work</a>
                     </li>
 
+                   <!--  <li>
+                        <a href="../about.html" {% if page.url == "/about.html" %} class="hover" style="color: " {% endif %}>about</a>
+                    </li>
+
+                    <li>
+                        <a href="/" {% if page.url == "/about.html" %} class="hover" {% endif %}>work</a>
+                    </li> -->
+
                 </ul>
 
-
-
-               <!--  {% for page in site.pages %}
-      page spe
-                {% assign current = page.title | downcase %}
-
-                    {% if page.title %}
-                    <li>
-                        <a href="{{ page.url | prepend: site.baseurl }}"> {{ page.title }}
-                        </a>
-                    </li>
-                    {% endif %}
-                    
-                 {% endfor %} -->
-
             </nav>
-
-
-        </header>
-        <nav>
-        </nav>
     </div>
 </header>
 

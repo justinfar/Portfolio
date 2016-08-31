@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Miscellaneous"
+title:  "Sideprojects"
 date: 2016-07-10 21:50:26
 category: work
 image: Aboard_3.png
-description: "Some client work and rejected concepts."
+description: "Some client work, rejected concepts and other fun stuff."
 tags:
 - lessons
 - internship

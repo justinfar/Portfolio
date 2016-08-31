@@ -3,7 +3,7 @@ layout: post
 title:  "Takeaways from my first design internship at BRND WGN" 
 date: 2016-07-10 21:50:26
 category: work
-image: BRNDWGN.gif
+image: BRNDWGN.png
 description: "What I learnt being a wagoneer."
 tags:
 - lessons

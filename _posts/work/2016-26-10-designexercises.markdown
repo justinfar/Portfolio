@@ -6,7 +6,7 @@ category: work
 author: Justin Farrugia
 permalink: DesignExercises
 image: DesignExercises.png
-description: "Building and taking on design exercises usually given in designer interviews."
+description: "Building and taking on design exercises usually given in design interviews."
 tags:
 - interaction
 - writing

@@ -1,25 +1,6 @@
 @import url(normalize.css);
-/* Table of contents
-––––––––––––––––––––––––––––––––––––––––––––––––––
-- Grid
-- Base Styles
-- Typography
-- Links
-- Buttons
-- Forms
-- Lists
-- Code
-- Tables
-- Spacing
-- Utilities
-- Clearing
-- Media Queries
 
-
-
-*/
-/* General
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
+/* Base */
 
 * {
     list-style: none;
@@ -30,9 +11,21 @@
     margin: 0;
     box-sizing: border-box;
 }
-/* Grid
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
-
+html {
+    font-size: 65%;
+    background-color: white;
+}
+body {
+    font-size: 1.5em;
+    /* currently ems cause chrome bug misinterpreting rems on body element */
+    
+    line-height: 1.7;
+    font-family: "Circular", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #2A2A34;
+    -ms-word-break: break-all;
+    word-break: break-all;
+    word-break: break-word;
+}
 .container {
     position: relative;
     width: 100%;
@@ -46,14 +39,14 @@
     float: left;
     box-sizing: border-box;
 }
-/* For devices larger than 400px */
-
-@media (min-width: 400px) {
-    .container {
-        width: 90%;
-        padding: 0;
-    }
+::selection {
+    background-color: #22D5D1;
+    opacity: .2;
+    color: white;
 }
+
+/* Modules */
+
 .toprect {
     width: 100%;
     padding-top: 850px;
@@ -62,14 +55,7 @@
     left: 0;
     z-index: -1;
     background-color: #282831;
-    /* W3C Markup, IE10 Release Preview */ 
-/*background-image: -webkit-linear-gradient(bottom, #485563 0%, #282831 100%);
-background-image: -o-linear-gradient(bottom, #485563 0%, #282831 100%);
-background-image: linear-gradient(to bottom, #485563 0%, #282831 100%);*/
     overflow: hidden;
-}
-nav ul li a.post {
-    color: #282831;
 }
 .toprect:after {
     content: "";
@@ -85,6 +71,41 @@ nav ul li a.post {
     -webkit-transform: rotate(-8deg);
     transform: rotate(-8deg);
 }
+
+/* Navigation */
+
+nav {
+    float: right;
+}
+nav ul li a {
+    padding: 0px 40px;
+    font-variant: small-caps;
+    letter-spacing: 1px;
+    font-weight: bold;
+    color: white;
+    width: 100%;  
+}
+nav ul li a.post {
+    color: #282831;
+}
+nav ul li {
+    display: inline-block;
+}
+nav ul li {
+    max-width: 50%;
+}
+
+a.backhome {
+    font-size: 1.2em;
+    font-variant: small-caps;
+    font-weight: bold;
+    letter-spacing: 1px;
+    text-align: center;
+}
+
+a.backhome:before {
+    content: '← ';
+}
 /* For devices larger than 550px */
 
 @media (min-width: 550px) {
@@ -95,9 +116,8 @@ nav ul li a.post {
     .columns:first-child {
         margin-left: 0;
     }
-    /* .columns:nth-child(n+1), .column:nth-child(2n) {
-      margin-left: 4%;
-    }*/
+
+/* Columns */
     
     .one.column,
     .one.columns {
@@ -146,7 +166,8 @@ nav ul li a.post {
     .one-half.column {
         width: 48%;
     }
-    /* Offsets */
+
+/* Offsets */
     
     .offset-by-one.column,
     .offset-by-one.columns {
@@ -205,29 +226,8 @@ nav ul li a.post {
         margin-left: 52%;
     }
 }
-/* Base Styles
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
-/* NOTE
-html is set to 62.5% so that all the REM measurements throughout Skeleton
-are based on 10px sizing. So basically 1.5rem = 15px :) */
 
-html {
-    font-size: 65%;
-    background-color: #282831;
-}
-body {
-    font-size: 1.5em;
-    /* currently ems cause chrome bug misinterpreting rems on body element */
-    
-    line-height: 1.7;
-    font-family: "Circular", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    color: #2A2A34;
-    -ms-word-break: break-all;
-    word-break: break-all;
-    word-break: break-word;
-}
-/* Typography
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
+/* Typography */
 
 h3,
 h4,
@@ -264,7 +264,6 @@ h6 {
     font-size: 1.5rem;
     line-height: 1.6;
 }
-/* Larger than phablet */
 
 @media (min-width: 550px) {
     h1 {
@@ -286,6 +285,9 @@ h6 {
         font-size: 1.5rem;
     }
 }
+
+/* Typography */
+
 p.intro {
     font-family: 'Circular', Helvetica, sans-serif;
     line-height: 2;
@@ -303,7 +305,7 @@ p {
 }
 
 h2.header {
-    color: white
+    color: white;
 }
 
 h3.title {
@@ -339,6 +341,7 @@ footer {
     text-align: center;
     padding: 60px 0px;
 }
+
 /*footer i:hover {
   color: white;
   transition: 0.15s;
@@ -359,25 +362,6 @@ footer {
 
 .logo {
     display: inline-block;
-}
-nav {
-    float: right;
-
-}
-nav ul li a {
-    padding: 0px 30px;
-    font-variant: small-caps;
-    letter-spacing: 1px;
-    font-weight: bold;
-    color: white;
-    width: 100%;
-    
-}
-nav ul li {
-    display: inline-block;
-}
-nav ul li {
-    max-width: 50%;
 }
 ul.socialicons {
     padding: 0px;
@@ -480,12 +464,23 @@ ul.socialicons li {
     font-size: 25px;
     margin: 0 auto;
 }
-a.readmore:after {
-    content: " →"
+a.readmore {
+    text-transform: uppercase;
+    letter-spacing: .1em;
+    font-size: .9em;
+    font-weight: bold;
+    border-bottom: 3px solid;
+    padding-bottom: 2px;
 }
+
+/*a.readmore:after {
+    content: " →";
+    font-weight: bold;
+}*/
+
 a.readmore:hover {
     color: #22D5D1;
-    transition: .25s;
+    transition: .15s;
 }
 
 blockquote {
@@ -532,6 +527,13 @@ there.
 */
 /* Larger than mobile */
 
+@media (min-width: 400px) {
+    .container {
+        width: 90%;
+        padding: 0;
+    }
+}
+
 @media (max-width: 500px) {
     div.logo {
         text-align: center;
@@ -539,6 +541,7 @@ there.
         width: 100%;
         text-align: center;
     }
+
     .box {
         padding: 20px !important;
     }
@@ -563,14 +566,19 @@ there.
 }
 /* Larger than phablet (also point when grid becomes active) */
 @media (max-width: 550px) {
-h2.header {
-    color: white
-}
+    a.backhome {
+    margin: 0 auto;
+    padding-bottom: 30px;
+    display: block;
+    transition: 0.2s;
+    }
 
-header {
-    margin-bottom: 30px;
-}
-
+    h2.header {
+        color: white
+    }
+    header {
+        margin-bottom: 30px;
+    }
 }
 
 @media (max-width: 825px) {
@@ -589,12 +597,15 @@ header {
         height: 160px;
     }
 }
+
 ul.post-list li:last-child > hr {
     display: none;
 }
+
 /* Larger than tablet */
 
 @media (min-width: 750px) {
+
     ul.socialicons li {
         display: inline-block;
         font-size: 25px;
@@ -609,6 +620,7 @@ ul.post-list li:last-child > hr {
         transition: 0.2s;
     }
 }
+
 .post-list {
     padding: 0px;
 }
@@ -637,6 +649,10 @@ p.description {
 
 a#btn {
     color: white;
+}
+
+a#btn#about {
+    font-family: 'Sentinel';
 }
 .tag,
 h5#postdesc {
@@ -694,7 +710,7 @@ span {
     /*    -webkit-box-shadow: 0px 8px 23px -7px rgba(0,0,0,0.28);
     -moz-box-shadow: 0px 8px 23px -7px rgba(0,0,0,0.28);
     box-shadow: 0px 8px 23px -7px rgba(0,0,0,0.28);*/
-    margin-bottom: 40px;
+    margin-bottom: 50px;
     padding: 20px 20px;
     background: #FFF;
     border-radius: 3px;
@@ -702,8 +718,4 @@ span {
     
 }
 
-::selection {
-    background-color: #22D5D1;
-    opacity: .2;
-    color: white;
-}
+
