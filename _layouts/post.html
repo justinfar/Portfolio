@@ -1,13 +1,11 @@
 ---
 layout: default
 ---
+
 <article>
 <div class="container">
- {% if page.image %}
-	<img src="/img/{{ page.image }}" style="width:100%; top: 0;" class="box">
-{% endif %}
 
-      <h2 class="post-title" itemprop="name headline">{{ page.title }}</h2><h5 id="postdesc">{{ page.description }}</h5>
+      <h1 class="title" itemprop="name headline">{{ page.title }}</h1>
 
   <div class="post-content" itemprop="articleBody">
     {{ content }}

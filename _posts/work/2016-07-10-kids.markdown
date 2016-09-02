@@ -1,82 +1,15 @@
-<!DOCTYPE html>
-<html>
 
-  <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  <title>Portfolio</title>
-  <meta name="description" content="&lt;!– —title: Building my portfolio, a personal exercisedate: 2015-07-10 21:50:26categories:- worktags:- portfolio- uxlayout: postimage: Portfolio.pngdescri...">
-  <link rel="stylesheet" href="/css/main.css">
-  <link rel="canonical" href="http://www.justinfarrugia.com/portfolio">
-  <script src="https://use.fontawesome.com/b53f5fe750.js"></script>
-  <link rel="alternate" type="application/rss+xml" title="Justin Farrugia | Designer" href="http://www.justinfarrugia.com/feed.xml">
-
-</head>
-
-
-  <body>
-
-    <!-- Capture and store a URL -->
-<header>
-
-    <div class="container">
-
-            <a href="/"  
-            class="backhome" > 
-               back home
-            </a>
-            
-            <nav>
-
-                <ul>
-
-                    <li>
-                        <a href="../about.html"  class="inactive" 
- >about</a>
-                    </li>
-
-                    <li>
-                        <a href="/"   class="inactive" 
-  > work</a>
-                    </li>
-
-                   <!--  <li>
-                        <a href="../about.html" >about</a>
-                    </li>
-
-                    <li>
-                        <a href="/" >work</a>
-                    </li> -->
-
-                </ul>
-
-            </nav>
-    </div>
-</header>
-
-
-
-    <div>
-      
-        <article>
-<div class="container">
-
-      <h1 class="title" itemprop="name headline">Portfolio</h1>
-
-  <div class="post-content" itemprop="articleBody">
-    <!-- ---
-title: Building my portfolio, a personal exercise
-date: 2015-07-10 21:50:26
+title: Designing for the next generation
+date: 2016-07-10 21:50:26 Z
 categories:
 - work
 tags:
-- portfolio
+- lessons
+- internship
 - ux
 layout: post
-image: Portfolio.png
-description: This thing you're scrolling through took some effort you know.
+image: Aboard_3.png
+description: Making sure kids get the 'social' in social networking.
 ---
 
 For example, to add an HTML table to a Markdown article:
@@ -568,35 +501,3 @@ into something like this:
 which will render in a browser as a clickable link to “address@example.com”.
 
 (This sort of entity-encoding trick will indeed fool many, if not most, address-harvesting bots, but it definitely won’t fool all of them. It’s better than nothing, but an address published in this way will probably eventually start receiving spam.)
- -->
-
-  </div>
-
-
-</div>
-</article>
-
-    </div>
-
-    <footer>
-    <div class="container">
-        <div class="twelve columns">
-            <div class="footerlogo"><a href="/"><img src="../img/Page 1.svg" alt="footer_logo"></a></div>
-            <a href="https://twitter.com/justinmfarrugia" id="twitter">@justinmfarrugia</a>
-            <ul class="socialicons">
-            <li><a href="https://twitter.com/justinmfarrugia"><i class="fa fa-twitter" ></i></a></li>
-            <li><a href="https://medium.com/@JustinFarrugia"><i class="fa fa-medium" ></i></a></li>
-            <li><a href="https://dribbble.com/justinfarrugia"><i class="fa fa-dribbble" ></i></a></li>
-            <li><a href="https://github.com/justinmarkfarrugia"><i class="fa fa-github" ></i></a></li>
-            <li><a href="mailto:justinmfarrugia@gmail.com"><i class="fa fa-envelope" ></i></a></li>
-        </ul>
-        </div>
-        
-    </div>
-</footer>
-
-
-
-  </body>
-
-</html>
