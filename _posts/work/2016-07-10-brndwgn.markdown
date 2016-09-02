@@ -1,6 +1,6 @@
 ---
-title:  "Takeaways from my first design internship at BRNDWGN"
-date: 2016-07-10 21:50:26
+title: Takeaways from my first design internship at BRNDWGN
+date: 2016-07-10 23:50:26 +02:00
 categories:
 - work
 tags:

@@ -1,3 +1,8 @@
+---
+title: Portfolio
+date: 2016-07-10 00:00:00 +02:00
+---
+
 <!-- ---
 title: Building my portfolio, a personal exercise
 date: 2015-07-10 21:50:26

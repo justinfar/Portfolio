@@ -1,24 +1,9 @@
 ---
-<<<<<<< HEAD:_posts/work/2016-08-16-miscellaneous.markdown
-layout: post
-title:  "Sideprojects"
-date: 2016-07-10 21:50:26
-category: work
-image: Aboard_3.png
-description: "Some client work, rejected concepts and other fun stuff."
-=======
-title: Miscellaneous
-date: 2016-07-10 21:50:26 Z
-categories:
-- work
->>>>>>> origin/master:_posts/work/2016-07-10-miscellaneous.markdown
+title: 2016 07 10 Miscellaneous
 tags:
 - lessons
 - internship
 - ux
-layout: post
-image: Aboard_3.png
-description: Some client work and rejected concepts.
 ---
 
 For example, to add an HTML table to a Markdown article:
