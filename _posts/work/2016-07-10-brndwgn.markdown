@@ -26,7 +26,7 @@ As a self-starter myself, I really respected her drive and commitment as well as
 
 <p class="description">A bit of a gimmick, but hey I had fun building it</p>
 
-Admittedly, that one-pager accompanied with a pretty boldly worded email took some courage. I mean it’s not like I knew these guys, I just heard the CEO (Hey Pete) speak at a local meetup and was like “Man these guys seem like they do great work”. Two days after finally pressing send, an  email from the Head of Creative showed up in my inbox. That fourth line was a bit heart-wrenching, but needless I visited the office to have a chat, and was offered an internship. 
+Admittedly, that one-pager accompanied with a pretty boldly worded email took some courage. I mean it’s not like I knew these guys, I just heard the CEO (Hey Pete) speak at a local meetup and was like “Man these guys seem like they do great work”. Two days after finally pressing send, an  email from the Head of Creative showed up in my inbox. That fourth line was a bit heart-wrenching, but nevertheless I visited the office to have a chat, and was offered an internship. 
 
 <img class="box" src="img/BRNDWGNemail.png" alt="A one-pager I built for my application at BRNDWGN">
 
