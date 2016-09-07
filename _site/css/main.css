@@ -257,16 +257,16 @@ h1 {
 h2 {
     font-size: 3.6rem;
     line-height: 1.25;
-    font-family: Sentinel;
+    font-family: Circular;
     font-weight: 500;
 }
 h3 {    font-size: 3.0rem;
 
     line-height: 1.3;
-    font-family: Sentinel;
+    font-family: Circular;
 }
 h4 {
-    font-family: Sentinel;
+    font-family: Circular;
     font-size: 2.4rem;
     line-height: 1.35;
 }
@@ -304,7 +304,7 @@ h1.title {
     padding: .5em;
     text-align: center;
     font-weight: lighter;
-    font-family: Sentinel;
+    font-family: Circular;
 }
 
 /* Typography */
@@ -332,7 +332,7 @@ h2.header {
 
 h3.title {
     margin-bottom: -2px;
-    font-family: Sentinel;
+    font-family: Circular;
 }
 
 @font-face {
@@ -340,11 +340,7 @@ h3.title {
     font-weight: 200;
     src: url(../fonts/lineto-circular-book.ttf);
 }
-@font-face {
-    font-family: Sentinel;
-    font-weight: 200;
-    src: url(../fonts/sentinel-book.ttf);
-}
+
 /* Header and Footer
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
@@ -681,7 +677,7 @@ a#btn {
 }
 
 a#btn#about {
-    font-family: 'Sentinel';
+    font-family: 'Circular';
 }
 .tag,
 h5#postdesc {
