@@ -1,8 +1,8 @@
----
+<!-- ---
 title: Kids
 date: 2016-07-10 00:00:00 +02:00
 ---
-
+ -->
 
 title: Designing for the next generation
 date: 2016-07-10 21:50:26 Z
