@@ -1,5 +1,5 @@
 ---
-title: Designing for my father 
+title: Designing for my father
 date: 2016-08-10 23:50:26 +02:00
 categories:
 - work
@@ -9,7 +9,7 @@ tags:
 - ux
 layout: post
 image: Aboard_3.png
-description: Designing and building my dad’s website 
+description: Designing and building my dad’s website
 ---
 
 When BRNDWGN had launched their internship program along with the redesign of their new site, I was telling myself day in day out that I was going to apply. I must have written about six drafts before I decided to remotely do anything. "What if?" was the question that always preceeded some pointless conclusion of why I should hold off from pressing send.

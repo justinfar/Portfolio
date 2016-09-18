@@ -1,5 +1,6 @@
 ---
-
+title: Jfupholstery
+date: 2016-07-10 00:00:00 +02:00
 ---
 
 title: Designing for my father 
