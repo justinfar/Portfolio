@@ -1,0 +1,97 @@
+*
+	padding: 0
+	margin: 0
+	box-sizing: border-box
+	-webkit-text-size-adjust: auto
+	text-rendering: optimizeLegibility !important
+	-webkit-font-smoothing: antialiased !important
+
+html
+	background-color: #F0F0F0
+
+p, li
+	color: blue
+	font-family: SFText
+	font-weight: 300
+	font-size: 1.2em
+	color: #7c7c7c
+	line-height: 1.6
+	letter-spacing: .05px
+
+	&.plus
+		color: white
+		font-size: 4em
+		margin: 0px 40px
+
+ul 
+	padding-left: 20px
+
+li
+	padding-left: 20px
+
+h1
+	font-family: SFtext
+	font-size: 3.5em
+	color: #303030
+	margin-bottom: .25em
+
+section
+	+clearfix
+	+outer-container(750px)
+	margin: 70px auto
+	padding: 0px 30px
+
+article
+	+span-columns(12)
+	margin: 20px 0px
+
+hr
+	background: #F19CC3
+	height: 5px
+	width: 50px
+	border: 0
+	margin: 20px 0
+	float: left
+
+@font-face
+	font-family: "SFtext"
+	src: url('../fonts/SFtext.otf')
+
+footer
+	background-color: #2e2e2e
+	height: 10px
+	margin: 0 auto
+	display: flex
+	align-items: center
+	justify-content: center
+
+footer img
+	display: inline-block
+	margin: 0 auto
+	max-width: 70%
+
+img.image	
+	margin: 0 auto
+	display: flex
+	align-items: center
+	justify-content: center
+	margin-bottom: -10px
+	width: 250px
+
+a
+	color: #2e2e2e
+	border-bottom: 2px solid #2e2e2e
+	padding-bottom: 2px
+	text-decoration: none
+
+a:hover 
+	border-bottom: 4px solid #2e2e2e
+	transition: .025s
+
+strong
+	color: #191d1f
+	opacity: 0.7
+
+*::selection, span
+	background-color: #FFE05D
+

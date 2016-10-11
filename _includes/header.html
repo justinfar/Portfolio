@@ -1,38 +1,24 @@
-<!-- Capture and store a URL -->
-<header>
+<header class="site-header">
+    <div class="wrapper">
+<!-- 
+    <nav class="site-nav row">
+        <ul>
+            <li><a href="/" {% if page.url == "/" %} class="active" {% endif %}>Home</a></li>
+            <li><a href="/blog.html" {% if page.url == "/blog.html" %} class="active" {% endif %}>Blog</a></li>
+        </ul>
+    </nav> -->
 
-    <div class="container">
 
-            <a href="{{ site.baseurl }}/" {% if page.url == "/index.html" %} style="display:none;" {% else %} 
-            class="backhome" {% endif %}> 
-               back
-            </a>
-            
-            <nav>
-
-                <ul>
-
-                    <li>
-                        <a href="../about.html" {% if page.url == "/index.html" %} class="hover" {% elsif page.url == "/about.html" %} style="color:#22D5D1 !important;" {% else page.url == post in site,categories.work %} class="inactive" 
- {% endif %}>about</a>
-                    </li>
-
-                    <li>
-                        <a href="/" {% if page.url == "/index.html" %} class="active" {% elsif page.url == "/about.html" %} class="hover" {% endif %} {% for post in site.categories.work %} class="inactive" 
- {% endfor %} > work</a>
-                    </li>
-
-                   <!--  <li>
-                        <a href="../about.html" {% if page.url == "/about.html" %} class="hover" style="color: " {% endif %}>about</a>
-                    </li>
-
-                    <li>
-                        <a href="/" {% if page.url == "/about.html" %} class="hover" {% endif %}>work</a>
-                    </li> -->
-
-                </ul>
-
-            </nav>
+        <nav class="site-nav row">
+            <div class="col-xs-6 start-xs">
+                <a href="{{ site.baseurl }}/" {% if page.url == "/" %} class="hidden" {% else %} class="backhome" {% endif %}> ← Back to Work</a>
+            </div>
+            <div class="col-xs-6 end-xs">
+                <a href="#" class="menu-icon end-lg end-sm">
+                    <a href="https://twitter.com/justinmfarrugia" class="twitter_nav">@justinmfarrugia</a>
+                </a>
+            </div>
+        </nav>
     </div>
 </header>
 
