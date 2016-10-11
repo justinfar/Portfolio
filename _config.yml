@@ -1,18 +1,22 @@
----
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
 title: Justin Farrugia | Designer
-<<<<<<< HEAD
 email: justinmfarrugia@gmail.com
 description: This is the portfolio of Justin Farrugia, a product designer based in Malta.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.justinfarrugia.com" # the base hostname & protocol for your site
+url: "http://justinfarrugia.com" # the base hostname & protocol for your site
 twitter_username: justinmfarrugia
 github_username:  justinmarkfarrugia
 permalink: "/:title"
 # Build settings
 markdown: kramdown
 
-=======
->>>>>>> 5a1a26cfdf401501c590447ccb6c56365ec29f39
 timezone: Europe/Amsterdam
 collections:
   posts:
@@ -38,12 +42,9 @@ defaults:
   values:
     author: Justin Farrugia
     layout: post
-email: justinmfarrugia@gmail.com
-description: This is the portfolio of Justin Farrugia, a product designer based in
-  Malta.
-baseurl: ''
-url: http://yourdomain.com
-twitter_username: justinmfarrugia
-github_username: justinmarkfarrugia
-permalink: "/:title"
-markdown: kramdown
+
+
+
+
+
+
