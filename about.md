@@ -1,8 +1,9 @@
 ---
-layout: postdefault
 title: Greetings web traveller!
-permalink: /about
+permalink: "/about"
+layout: postdefault
 ---
+
 <h1 class="post-title" style="margin-bottom: 30px">Greetings web traveller</h1>
 
 <article >

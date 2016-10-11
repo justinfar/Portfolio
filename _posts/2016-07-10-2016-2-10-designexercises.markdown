@@ -1,0 +1,40 @@
+---
+title: Practicing my problem solving chops
+date: 2016-07-10 23:50:26 +02:00
+categories:
+- work
+tags:
+- systems
+- identity
+- ux
+description: Taking on design exercises usually set in interviews, as personal challenges
+image: designexercises.png
+layout: post
+color: "#FFCB26"
+status: Passion project, more deets coming soon
+style: translateY(15px)
+---
+
+<style>
+  p > a {
+		color: #FFCB26;
+		padding-bottom: 5px;
+		border-bottom: 1px solid #FFCB26;
+	}
+
+	.box {
+		background-color: rgba(16, 133, 249, 0.1);
+		color: #FFCB26;
+		padding: 30px;
+		border: 3px solid #FFCB26;
+	}
+</style>
+
+<div class="box">
+	I try to document my projects in depth as case studies, so it takes awhile to get these up and running. If you'd like to see specific parts of this project, don't hesitate to <a href="mailto:justinmfarrugia@gmail.com" style="color: #FFCB26;
+		padding-bottom: 5px;
+		border-bottom: 3px solid #FFCB26;">contact me </a>.
+</div>
+
+<br>
+
