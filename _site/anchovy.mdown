@@ -5,13 +5,13 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Practicing my problem solving chops</title>
-  <meta name="description" content="">
+  <title>Critiquing your soft-launched product</title>
+  <meta name="description" content="This is the portfolio of Justin Farrugia, a product designer based in Malta.">
 
   <link rel="stylesheet" href="/css/main.css">
 <!--   <link rel="stylesheet" href="../css/main.css"> -->
   <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/flexboxgrid/6.3.1/flexboxgrid.min.css" type="text/css" >
-  <link rel="canonical" href="http://justinfarrugia.com/2016-2-10-designexercises">
+  <link rel="canonical" href="http://justinfarrugia.com/anchovy">
   <link rel="alternate" type="application/rss+xml" title="Justin Farrugia | Designer" href="http://justinfarrugia.com/feed.xml">
   <script src="https://use.fontawesome.com/1c8add0ba0.js"></script>
 </head>
@@ -44,59 +44,40 @@
 
         <div class="page-content">
             <div class="bodywrapper">
-                <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-    <header class="post-header">
-        <h1 class="post-title" itemprop="name headline">Practicing my problem solving chops</h1>
-        <p class="post-meta">
-            <time datetime="2016-07-10T23:50:26+02:00" itemprop="datePublished">Jul 10, 2016</time> • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">Justin Farrugia</span></span></p>
-    </header>
-    <div class="post-content" itemprop="articleBody">
-        <style>
+                <h1 class="post-title" style="margin-bottom: 30px">Critiquing your soft-launched product</h1>
 
-h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure {
-    margin-bottom: 15px !important; 
-    }
-
-	.box {
-		background-color: rgba(16, 133, 249, 0.1);
-		color: #FFCB26;
-		padding: 30px;
-		border: 3px solid #FFCB26;
-	}
-</style>
-
-<div class="box">
-	I try to document my projects in depth as case studies, so it takes awhile to get these up and running. If you'd like to see specific parts of this project, don't hesitate to <a href="mailto:justinmfarrugia@gmail.com" style="color: #FFCB26;
-		padding-bottom: 5px;
-		border-bottom: 3px solid #FFCB26;">contact me </a>.
+<article >
+     <div class="box">
+    I try to document my projects in depth as case studies, so it takes awhile to get these up and running. If you'd like to see specific parts of this project, don't hesitate to <a href="mailto:justinmfarrugia@gmail.com" style="color: #32BDC1;
+        padding-bottom: 5px;
+        border-bottom: 3px solid #32BDC1;">contact me </a>.
 </div>
+ 
+<p>I'm hoping that I can find a domain where I can put what I've learnt to the test and continue to pursue innovation for social good. I want to get my hands dirty and tackle problems that go beyond the usual applications sitting on our homescreen begging for our attention, tapping into our endless dopamine reserves.
+</p>
+<img class = "box" src="../img/Baby_Justin.jpg" alt="A younger version of Justin" 
+        style="-webkit-filter: grayscale(100%); /* Chrome, Safari, Opera */
+    filter: grayscale(100%);" >
+<p class="description">Always messing around with them computer thingies.</p>
 
-<p><br /></p>
+ <p>In essence, the thing that I do is to help people identify problems within a product so that we can work cohesively towards the creation of a personalized experience. I spend my time researching, talking to people and asking a bunch of questions so that I can fully immerse myself into the problem space. Once I feel I'm able to offer credible solutions I move on to prototyping and testing. I think I'd describe my approach as more instinct based rather than a template I can use as a fallback. I'd like to think that a process should be adaptive rather than prescriptive.
+</p>
+<blockquote>
+    <h5>
+        My admittidely sometimes child-like inquisitiveness forces me to be overly-introspective and ask why every single time. It helps, it really does.
+    </h5>
+    
+</blockquote>
+         
 
+<p>Even though I'm just starting out I've had to reinvent myself more than a few times. I believe however that if you can do that, then you can bring real value to a team. Some other things you might want to know are that I’m a self-confessed documentary junkie, an astronomy enthusiast and a huge Manchester United (soccer) fan. I also consider myself to be an introspective person (I guess) who often spends a lot of time thinking, but I fully embrace the ethos of moving fast and getting stuff done. Anywho, I think I've said enough about myself. What about you reader? What's your story? 
+<br>
+</p>
 
-    </div>
-    <section id="more-work" class="row" style="margin-bottom: 30px;">
-        <!-- 
-        <div class="col-lg-5 col-md-5 col-sm-5 col-xs-12 morework">
-            <a class="equalize" href="/brndwgn" title="Previous Post: Intentionality and Empathy: What I learnt from my first design internship">
-                <div>
-                    <h4 class="start-xs title"> ← Previous Project </h4>
-                    <h4 class="start-xs"> Intentionality and Empathy: What I learnt from my first design internship </h4>
-                </div>
-            </a>
-        </div> -->
-        
-        <div class="center-xs col-lg-8 col-md-8 col-sm-8 col-xs-10 morework" style="text-align: center; margin: 0 auto;">
-            <a class="equalize" href="/2016-2-10-opendispatch" title="next Post: Building a fleet management solution">
-                <div>
-                    <h4 class="center title" style="padding-bottom: 15px; border-bottom: 1px solid #f3f3f3;"> Next Project →</h4>
-                    <h4> Building a fleet management solution</h4>
-                </div>
-            </a>
-        </div>
-    </section>
+<br>
+<br>
+
 </article>
-
 
 
             </div>

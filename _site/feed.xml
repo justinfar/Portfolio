@@ -5,8 +5,8 @@
     <description>This is the portfolio of Justin Farrugia, a product designer based in Malta.</description>
     <link>http://justinfarrugia.com/</link>
     <atom:link href="http://justinfarrugia.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 12 Oct 2016 07:39:54 +0200</pubDate>
-    <lastBuildDate>Wed, 12 Oct 2016 07:39:54 +0200</lastBuildDate>
+    <pubDate>Wed, 12 Oct 2016 19:17:42 +0200</pubDate>
+    <lastBuildDate>Wed, 12 Oct 2016 19:17:42 +0200</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -241,11 +241,10 @@
       <item>
         <title>Practicing my problem solving chops</title>
         <description>&lt;style&gt;
-  p &gt; a {
-		color: #FFCB26;
-		padding-bottom: 5px;
-		border-bottom: 1px solid #FFCB26;
-	}
+
+h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure {
+    margin-bottom: 15px !important; 
+    }
 
 	.box {
 		background-color: rgba(16, 133, 249, 0.1);

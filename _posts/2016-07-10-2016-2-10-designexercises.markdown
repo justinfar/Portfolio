@@ -16,11 +16,10 @@ style: translateY(15px)
 ---
 
 <style>
-  p > a {
-		color: #FFCB26;
-		padding-bottom: 5px;
-		border-bottom: 1px solid #FFCB26;
-	}
+
+h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure {
+    margin-bottom: 15px !important; 
+    }
 
 	.box {
 		background-color: rgba(16, 133, 249, 0.1);
