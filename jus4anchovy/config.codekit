@@ -1716,17 +1716,6 @@
 		"shouldRunBless": 0,
 		"useLibsass": false
 		},
-	"\/img\/Artboard 2.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 14640,
-		"inputAbbreviatedPath": "\/img\/Artboard 2.png",
-		"outputAbbreviatedPath": "\/img\/Artboard 2.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/img\/Icon.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1734,28 +1723,6 @@
 		"initialSize": 35900,
 		"inputAbbreviatedPath": "\/img\/Icon.png",
 		"outputAbbreviatedPath": "\/img\/Icon.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/Logo.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 3987,
-		"inputAbbreviatedPath": "\/img\/Logo.png",
-		"outputAbbreviatedPath": "\/img\/Logo.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/Rock_white-compressor.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 886,
-		"inputAbbreviatedPath": "\/img\/Rock_white-compressor.png",
-		"outputAbbreviatedPath": "\/img\/Rock_white-compressor.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
