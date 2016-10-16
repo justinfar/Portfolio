@@ -1,17 +1,15 @@
 <header class="site-header">
     <div class="wrapper">
-<!-- 
+        <!-- 
     <nav class="site-nav row">
         <ul>
             <li><a href="/" {% if page.url == "/" %} class="active" {% endif %}>Home</a></li>
             <li><a href="/blog.html" {% if page.url == "/blog.html" %} class="active" {% endif %}>Blog</a></li>
         </ul>
     </nav> -->
-
-
         <nav class="site-nav row">
             <div class="col-xs-6 start-xs">
-                <a href="{{ site.baseurl }}/" {% if page.url == "/" %} class="hidden" {% else %} class="backhome" {% endif %}> ← Back to Work</a>
+                <a href="{{ site.baseurl }}/" {% if page.url=="/" %} class="hidden" {% else %} class="backhome" {% endif %}> ← Back to Work</a>
             </div>
             <div class="col-xs-6 end-xs">
                 <a href="#" class="menu-icon end-lg end-sm">

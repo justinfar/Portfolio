@@ -46,6 +46,8 @@ layout: postdefault
 
 <p>Let's say he lands on your page. One thing we both know is that the onboarding process is the lifeblood of any product. First impressions are what's going to make or break that window of opportunity that you get, for a potential lead to convert. So let's dig in.</p>
 
+<img src="img/hero_image.png" style="border: none;" alt="Hero Image">
+
 
 
 
