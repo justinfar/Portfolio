@@ -92,7 +92,7 @@ html {
      font-feature-settings: "kern";
 
       @include media-query($on-palm) {
-           // margin: 1.5rem 1rem;
+           // margin: 1.5rem .7rem;
         }
 }
 
