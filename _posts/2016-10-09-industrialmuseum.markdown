@@ -13,7 +13,7 @@ image: industrialmuseum.png
 layout: post
 color: "#605CA8"
 link: https://github.com/justinmarkfarrugia/industrialmuseum
-linkdesc: Visit the Github Repo
+linkdesc: Visit the Github Repo →
 style: translateY(15px)
 ---
 

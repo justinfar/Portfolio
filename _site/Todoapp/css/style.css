@@ -1,0 +1,276 @@
+@charset "UTF-8";
+
+html,body
+{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden; 
+    background:#EFF3F4;
+}
+
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+@font-face {
+    font-family: Akkurat;
+    src: url(../fonts/Akkurat-Normal.ttf);
+}
+
+body, input, button {
+  font-family:'Akkurat', sans-serif;
+}
+
+.plan {
+height: 60px;
+width: 100%;
+margin: 0 !important;
+/*position: fixed;*/
+background: #17C7FF;
+color: white;
+font-family: Akkurat;
+display: flex;
+align-items: center;
+justify-content: flex-start;
+}
+
+.plan.footer {
+  background: #454242 !important;
+  bottom: 0px;
+  margin: 0 !important;
+  position: absolute;
+}
+
+.plan p { 
+  padding:25px;
+  max-width: 70%;
+ }
+
+.noFill {
+  fill:none;
+}
+
+header {
+  width: 100%;
+  height: 55px;
+  top: 80px;
+  z-index: 5;
+  background: #F8FAFA;
+  border-radius: 2px;
+  box-shadow: 0px 2px 4px 0px rgba(0,0,0,0.02);
+  /*box-shadow: 0px 2px 4px 0px rgba(0,0,0,0.05);*/
+}
+
+header input {
+  height:55px;
+  float:left;
+  width: 100%;
+  color: #5D5D5D;
+  font-size: 15px;
+  font-weight:400;
+  text-indent:18px;
+  border-radius: 2px;
+  border:0px;
+  box-shadow:none;
+  outline:none;
+  -webkit-appearance:none;
+  -moz-appearance:none;
+}
+
+header input::-webkit-input-placeholder {
+  color: #5D5D5D;
+}
+
+header input:-moz-input-placeholder {
+  color: #5D5D5D;
+}
+
+header input::-moz-input-placeholder {
+  color: #5D5D5D;
+}
+
+header input:-ms-input-placeholder {
+  color: #5D5D5D;
+}
+
+header button {
+  width:55px;
+  height:55px;
+  position:absolute;
+  right: 0px;
+  margin-right: 17px;
+  z-index:2;
+  background:#17C7FF;
+  border:0px;
+  box-shadow:none;
+  outline:none;
+  cursor:pointer;
+  -webkit-appearance:none;
+  -moz-appearance:none;
+  border-top-right-radius: 2px;
+  border-bottom-right-radius: 2px;
+}
+
+header button svg {
+  width:16px;
+  height:16px;
+  position:absolute;
+  top:50%;
+  /*left:50%;*/
+  color: white;
+  margin: -8px 0 0 -8px;
+}
+
+header button svg .fill {
+  fill: white;
+}
+
+.container {
+  width:100%;
+  float:left;
+  padding:15px;
+}
+
+ul.todo {
+  width:100%;
+  float:left;
+}
+
+ul.todo li {
+  width: 100%;
+  min-height: 55px;
+  z-index: 5;
+  background: #FFF;
+  border-radius: 2px;
+  box-shadow: 0px 2px 4px 0px rgba(0,0,0,0.02);
+  font-family: Akkurat;
+  padding: 20px 18px 18px 18px;
+  color: #5D5D5D;
+}
+
+div.wrapper {
+  margin: 25px;
+}
+
+ul.todo li:last-of-type {
+  margin:0;
+}
+
+hr {
+  /* Rectangle 7: */
+background: #17C7FF !important;
+height: 2px;
+margin: 0px auto;
+border: none;
+width: 220px;
+}
+
+ul.todo li .buttons {
+  width:100px;
+  height:50px;/*
+  position:absolute;
+  top:0;*/
+  float: right;
+  right:0;
+}
+
+ul.todo li:last-child {
+  margin-bottom: 30px;
+}
+
+ul.todo li .buttons button {
+  width:50px;
+  height:50px;
+  float:left;
+  background:none;
+  position:relative;
+  border:0px;
+  box-shadow:none;
+  outline:none;
+  cursor:pointer;
+  -webkit-appearance:none;
+  -moz-appearance:none;
+}
+
+/*Border*/
+ul.todo li .buttons button:last-of-type:before {
+  content:'';
+  width:1px;
+  height:30px;
+  position:absolute;
+  top:-7px;
+  left:10px;
+  background:#edf0f1;
+}
+
+ul.todo li .buttons button svg {
+  width:22px;
+  height:22px;
+  position:absolute;
+  top:50%;
+  left:50%;
+  margin: -28px 0 0 0px;
+}
+
+ul.todo li .buttons button.complete svg {
+  border-radius:11px;
+  border:1.5px solid #17C7FF;
+  
+  transition:background 0.2s ease;
+}
+
+ul.todo#completed li .buttons button.complete svg {
+  background:#17C7FF;
+  border:0px;
+}
+
+ul.todo:not(#completed) li .buttons button.complete:hover svg {
+  background:#17C7FF;
+}
+
+ul.todo:not(#completed) li .buttons button.complete:hover svg .fill {
+  fill:#fff;
+}
+
+ul.todo#completed li .buttons button.complete svg .fill {
+  fill:#fff;
+}
+
+ul.todo li .buttons button svg .fill {
+  transition:fill 0.2s ease;
+}
+
+ul.todo li .buttons button.remove svg .fill {
+  fill:#c0cecb;
+}
+
+ul.todo li .buttons button.remove:hover svg .fill {
+  fill:#e85656;
+}
+
+ul.todo li .buttons button.complete svg .fill {
+  fill:#17C7FF;
+}
+
+ul.todo#completed:not(:empty) {
+  position:relative;
+  padding:30px 0 0 0;
+}
+
+
+
+/*ul.todo#completed:not(:empty):before {
+  content:'';
+  width:150px;
+  height:1px;
+  background:#d8e5e0;
+  position:absolute;
+  top:30px;
+  left:50%;
+  margin:0 0 0 -75px;
+}*/

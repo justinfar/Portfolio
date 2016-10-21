@@ -256,7 +256,7 @@ pre {
       padding-left: 15px; } }
   @media screen and (max-width: 600px) {
     .wrapper {
-      margin: 0rem 1rem; } }
+      margin: 0rem .55rem; } }
 
 .bodywrapper {
   max-width: -webkit-calc(720px - (30px * 2));

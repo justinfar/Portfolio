@@ -331,7 +331,7 @@ pre {
     }
 
      @include media-query($on-palm) {
-           margin: 0rem 1rem;
+           margin: 0rem .55rem;
         }
 }
 
