@@ -286,13 +286,13 @@ pre {
   height: 16px;
   vertical-align: middle; }
 
-ul.tags li {
+.tags li {
   padding: 2px 15px 2px 0px;
   position: relative;
   display: inline-block;
   font-variant: small-caps;
   font-size: 1.05rem; }
-  ul.tags li:before {
+  .tags li:before {
     content: "#";
     font-variant: small-caps;
     font-size: 0.84rem; }
