@@ -43,13 +43,6 @@ a.readmore {
     }
 }
 
-    // @include media-query($on-palm) {
-    //     position: absolute;
-    //     top: 5px;
-    //     margin: 0 auto;
-    //     // right: $spacing-unit / 2;
-    //     }
-
 @include media-query($on-palm) {
         position: absolute;
         top: 9px;

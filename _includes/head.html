@@ -2,12 +2,10 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
   <meta name="author" content="Justin Farrugia">
   <meta name="keywords" content="HTML,CSS,JavaScript,Design,UX Design,Product Design,Malta,Web Designer,Developer,Freelance">
-
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
 <!--   <link rel="stylesheet" href="../css/main.css"> -->
   <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/flexboxgrid/6.3.1/flexboxgrid.min.css" type="text/css" >

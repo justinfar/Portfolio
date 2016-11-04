@@ -29,15 +29,16 @@ Open Dispatch is a fleet management application designed to provide mobile teams
 <br>
 
 <img src="../img/OpenDispatch_Android.png" alt="Open Dispatch Android" style="border:none;">
-<p class="description">The Material Design Guidelines came in pretty handy</p>
 
-<br>
+<p class="description">From left to right: The jobs in progress list, the home feed, and the pre-inspection step which happens before users navigate the core functionalities of the app itself </p>
+
+
 <h3><span>How do we improve workforce productivity, whilst making communication with the backoffice more seamless?</span></h3>
-<br>
 
-This was an early goal-specific question that we had asked ourselves. Productivity is critical for a mobile workforce to operate at an optimal level. Moreso, if the backoffice team and the field agents were not communicating well, then that in itself would be another problem. 
+This was an early goal-oriented question that we had asked ourselves. Productivity is critical for a mobile workforce to operate at an optimal level. Moreso, if the backoffice team and the field agents were not communicating well, then that in itself would be another problem. 
 
 Thus, the more connected a workforce is to the business, the more productive they become. This problem is critical to solve because if a workforce is not productive, then not only may there be considerable revenue decrease from the business end, but also business customers might opt to switch supplier. 
+
 
 <h2>Approach</h2>
 
@@ -46,7 +47,9 @@ My lack of domain knowledge in this particular space meant that I needed to dive
 <strong>I didn't do this alone.</strong> I believe that the collective mind is better than the singular mind when it comes to collecting, understanding and then synthesizing research. Sharing every last scrap of information we could find with each other, was essential, as it kind of helped us prepare mentally for the ideation process.
 
 <h2>Getting to know our users </h2>
+I began the process by interviewing six participants to get an idea of how people use exisiting manifestations of fleet management software. Directly talking to people helped me understand the pain points they had, gather context as well as analyze some of their workflows.
 
+Findings showed me that 
 
 
 <h2></h2>
@@ -55,6 +58,10 @@ My lack of domain knowledge in this particular space meant that I needed to dive
 
 <h2>Solution</h2>
 We chose to leverage Google’s Material Design language because as a team we felt that it was more suitable for a product that’s meant to be used on multiple devices and platforms. It also gives us the comprehensiveness and flexibility we needed to be able to communicate depth and motion when necessary throughout the different elements and interactions we incorporated into the product. 
+
+<h2>Takeaways</h2>
+
+Taking a bit of a step back, one thing I'd mention is that the enterprise space isn't <i>sexy</i>. Pushing the value of design in an area with a lot of friction, whilst mostly being exposed to people designing in the consumer space who were getting much less resistance, was definitely challenging.
 
 
 

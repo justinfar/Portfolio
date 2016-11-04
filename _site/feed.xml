@@ -5,8 +5,8 @@
     <description>This is the portfolio of Justin Farrugia, a product designer based in Malta.</description>
     <link>http://www.justinfarrugia.com/</link>
     <atom:link href="http://www.justinfarrugia.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 30 Oct 2016 04:11:04 +0100</pubDate>
-    <lastBuildDate>Sun, 30 Oct 2016 04:11:04 +0100</lastBuildDate>
+    <pubDate>Thu, 03 Nov 2016 22:45:30 +0100</pubDate>
+    <lastBuildDate>Thu, 03 Nov 2016 22:45:30 +0100</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -216,13 +216,12 @@ h3&gt;span {
 &lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;../img/OpenDispatch_Android.png&quot; alt=&quot;Open Dispatch Android&quot; style=&quot;border:none;&quot; /&gt;&lt;/p&gt;
-&lt;p class=&quot;description&quot;&gt;The Material Design Guidelines came in pretty handy&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p class=&quot;description&quot;&gt;From left to right: The jobs in progress list, the home feed, and the pre-inspection step which happens before users navigate the core functionalities of the app itself &lt;/p&gt;
+
 &lt;h3&gt;&lt;span&gt;How do we improve workforce productivity, whilst making communication with the backoffice more seamless?&lt;/span&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;This was an early goal-specific question that we had asked ourselves. Productivity is critical for a mobile workforce to operate at an optimal level. Moreso, if the backoffice team and the field agents were not communicating well, then that in itself would be another problem.&lt;/p&gt;
+&lt;p&gt;This was an early goal-oriented question that we had asked ourselves. Productivity is critical for a mobile workforce to operate at an optimal level. Moreso, if the backoffice team and the field agents were not communicating well, then that in itself would be another problem.&lt;/p&gt;
 
 &lt;p&gt;Thus, the more connected a workforce is to the business, the more productive they become. This problem is critical to solve because if a workforce is not productive, then not only may there be considerable revenue decrease from the business end, but also business customers might opt to switch supplier.&lt;/p&gt;
 
@@ -233,6 +232,9 @@ h3&gt;span {
 &lt;p&gt;&lt;strong&gt;I didn’t do this alone.&lt;/strong&gt; I believe that the collective mind is better than the singular mind when it comes to collecting, understanding and then synthesizing research. Sharing every last scrap of information we could find with each other, was essential, as it kind of helped us prepare mentally for the ideation process.&lt;/p&gt;
 
 &lt;h2&gt;Getting to know our users &lt;/h2&gt;
+&lt;p&gt;I began the process by interviewing six participants to get an idea of how people use exisiting manifestations of fleet management software. Directly talking to people helped me understand the pain points they had, gather context as well as analyze some of their workflows.&lt;/p&gt;
+
+&lt;p&gt;Findings showed me that&lt;/p&gt;
 
 &lt;h2&gt;&lt;/h2&gt;
 &lt;h2&gt;&lt;/h2&gt;
@@ -240,6 +242,10 @@ h3&gt;span {
 
 &lt;h2&gt;Solution&lt;/h2&gt;
 &lt;p&gt;We chose to leverage Google’s Material Design language because as a team we felt that it was more suitable for a product that’s meant to be used on multiple devices and platforms. It also gives us the comprehensiveness and flexibility we needed to be able to communicate depth and motion when necessary throughout the different elements and interactions we incorporated into the product.&lt;/p&gt;
+
+&lt;h2&gt;Takeaways&lt;/h2&gt;
+
+&lt;p&gt;Taking a bit of a step back, one thing I’d mention is that the enterprise space isn’t &lt;i&gt;sexy&lt;/i&gt;. Pushing the value of design in an area with a lot of friction, whilst mostly being exposed to people designing in the consumer space who were getting much less resistance, was definitely challenging.&lt;/p&gt;
 
 </description>
         <pubDate>Sun, 10 Jul 2016 23:50:26 +0200</pubDate>
