@@ -5,8 +5,8 @@
     <description>This is the portfolio of Justin Farrugia, a product designer based in Malta.</description>
     <link>http://www.justinfarrugia.com/</link>
     <atom:link href="http://www.justinfarrugia.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 07 Nov 2016 11:41:38 +0100</pubDate>
-    <lastBuildDate>Mon, 07 Nov 2016 11:41:38 +0100</lastBuildDate>
+    <pubDate>Mon, 07 Nov 2016 11:51:12 +0100</pubDate>
+    <lastBuildDate>Mon, 07 Nov 2016 11:51:12 +0100</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -119,46 +119,6 @@
       </item>
     
       <item>
-        <title>It&#39;s not just the users: Being the only designer amongst a team of engineers</title>
-        <description>&lt;style&gt;
-  p &gt; a {
-		color: #D41C23;
-		padding-bottom: 5px;
-		border-bottom: 1px solid #D41C23;
-	}
-
-	.box {
-		background-color: rgba(212, 28, 35, 0.1);
-		color: #D41C23;
-		padding: 30px;
-		border: 3px solid #D41C23;
-	}
-&lt;/style&gt;
-
-&lt;div class=&quot;box&quot;&gt;
-	I try to document my projects in depth as case studies, so it takes awhile to get these up and running. If you&#39;d like to see specific parts of this project, don&#39;t hesitate to &lt;a href=&quot;mailto:justinmfarrugia@gmail.com&quot; style=&quot;color: #D41C23;
-		padding-bottom: 5px;
-		border-bottom: 3px solid #D41C23;&quot;&gt;contact me &lt;/a&gt;.
-&lt;/div&gt;
-
-&lt;p&gt;The product itself needed to be flexible enough to let administrators track as much or as little information as you needed, as well as dispatch jobs.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sun, 10 Jul 2016 23:50:26 +0200</pubDate>
-        <link>http://www.justinfarrugia.com/loqus</link>
-        <guid isPermaLink="true">http://www.justinfarrugia.com/loqus</guid>
-        
-        <category>internship</category>
-        
-        <category>uxengineer</category>
-        
-        
-        <category>work</category>
-        
-      </item>
-    
-      <item>
         <title>How a simple website turned into an entire system: Building my dad a presence.</title>
         <description>&lt;style&gt;
   p &gt; a {
@@ -234,7 +194,9 @@ h3&gt;span {
 &lt;h2&gt;Getting to know our users &lt;/h2&gt;
 &lt;p&gt;I began the process by interviewing six participants to get an idea of how people use exisiting manifestations of fleet management software. Directly talking to people helped me understand the pain points they had, gather context as well as analyze some of their workflows.&lt;/p&gt;
 
-&lt;p&gt;Findings showed me that&lt;/p&gt;
+&lt;!-- Findings showed me that
+There&#39;s this thing called &#39;code experience&#39; which is the equivalent of
+  empathy in the design world. --&gt;
 
 &lt;h2&gt;&lt;/h2&gt;
 &lt;h2&gt;&lt;/h2&gt;

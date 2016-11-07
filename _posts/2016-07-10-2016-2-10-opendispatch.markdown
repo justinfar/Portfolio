@@ -49,7 +49,9 @@ My lack of domain knowledge in this particular space meant that I needed to dive
 <h2>Getting to know our users </h2>
 I began the process by interviewing six participants to get an idea of how people use exisiting manifestations of fleet management software. Directly talking to people helped me understand the pain points they had, gather context as well as analyze some of their workflows.
 
-Findings showed me that 
+<!-- Findings showed me that
+There's this thing called 'code experience' which is the equivalent of
+  empathy in the design world. -->
 
 <h2></h2>
 <h2></h2>
