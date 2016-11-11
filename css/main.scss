@@ -56,6 +56,17 @@ $on-laptop:        800px;
     }
 }
 
+// @mixin color_class($color) {
+//     .#($color).color {
+//         color: $color;
+//         background-image: url("images/#{$color}.jpg");
+//     }
+// }
+
+// html {
+//     @include color_class(red);
+// }
+
 // ==================================================================
 // Typography | Calling self-hosted fonts
 @font-face {

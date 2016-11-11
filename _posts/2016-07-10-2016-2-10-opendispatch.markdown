@@ -14,13 +14,7 @@ color: "#02E16B"
 status: Me versus NDA
 ---
 
-<style>
-h3>span {
-		color: #02E16B;
-	}
-</style>
-
-This project took place between July 2016 and October 2016. I was an interaction designer making up a small team that consisted two senior engineers and an engineering intern. I was responsible for initial research, interaction design, visual design and front-end development. 
+This project took place between July 2016 and October 2016. I was a user experience designer making up a small team that consisted two senior engineers and an engineering intern. I was responsible for initial research, interaction design, visual design and front-end development. 
 
 Unfortunately, most of the work that will be shown here didn't get shipped due to reasons that I can't publicly disclose. What I can tell you however, is that this was one product that definitely needed some love.
 
@@ -28,12 +22,11 @@ Unfortunately, most of the work that will be shown here didn't get shipped due t
 Open Dispatch is a fleet management application designed to provide mobile teams such as technicians and drivers an intuitive and unobstructive experience with which to carry out their work. Fleet managers, back office managers and workshop operators are also able to view real-time updates of the progress made by field agents.
 <br>
 
-<img src="../img/OpenDispatch_Android.png" alt="Open Dispatch Android" style="border:none;">
+<img src="../img/opendispatch_overview.png" alt="Open Dispatch Overview" style="border:none; text-align: left;">
 
-<p class="description">From left to right: The jobs in progress list, the home feed, and the pre-inspection step which happens before users navigate the core functionalities of the app itself </p>
+<p class="description">An eagle's eye view of just a few of the final iterations that we had tested with a number of people. From Top to Bottom: Splashscreen, Sign-Up flow, Pre-Inspection Steps, Home, Jobs, Contacts</p>
 
-
-<h3><span>How do we improve workforce productivity, whilst making communication with the backoffice more seamless?</span></h3>
+<h2>How do make mobile workers' communication channels with the backoffice more seamless, and vice versa?</h2>
 
 This was an early goal-oriented question that we had asked ourselves. Productivity is critical for a mobile workforce to operate at an optimal level. Moreso, if the backoffice team and the field agents were not communicating well, then that in itself would be another problem. 
 
@@ -44,10 +37,19 @@ Thus, the more connected a workforce is to the business, the more productive the
 
 My lack of domain knowledge in this particular space meant that I needed to dive in, and immerse myself as thoroughly and as quickly as possible. Due to a very limited timeline, I had to resort to good old desk research. That basically translates to having twenty browser tabs open, research articles, blogs a plenty and whatever else I could get my hands on to inform both myself and the product decisions I would eventually make.
 
-<strong>I didn't do this alone.</strong> I believe that the collective mind is better than the singular mind when it comes to collecting, understanding and then synthesizing research. Sharing every last scrap of information we could find with each other, was essential, as it kind of helped us prepare mentally for the ideation process.
+I believed that the collective mind is better than the singular mind when it comes to collecting, understanding and then synthesizing research. Sharing every last scrap of information we could find with each other, was essential, as it kind of helped us prepare mentally for the ideation process.
 
 <h2>Getting to know our users </h2>
-I began the process by interviewing six participants to get an idea of how people use exisiting manifestations of fleet management software. Directly talking to people helped me understand the pain points they had, gather context as well as analyze some of their workflows.
+
+We also made it a point to talk to people before we committed to building anything.I began the process by interviewing six participants to get an idea of how people use exisiting manifestations of fleet management software. Directly talking to people helped me understand the pain points they had, gather context as well as analyze some of their workflows.
+
+Through talking to people, we came to realize two things:
+<ul>
+	<li>Fleet management solutions </li>
+	<li></li>
+</ul>
+
+My personal goal was to explore different ways as to how I can solve this problem, and then work with the engineers to build it.
 
 <!-- Findings showed me that
 There's this thing called 'code experience' which is the equivalent of
@@ -60,9 +62,23 @@ There's this thing called 'code experience' which is the equivalent of
 <h2>Solution</h2>
 We chose to leverage Google’s Material Design language because as a team we felt that it was more suitable for a product that’s meant to be used on multiple devices and platforms. It also gives us the comprehensiveness and flexibility we needed to be able to communicate depth and motion when necessary throughout the different elements and interactions we incorporated into the product. 
 
+<img src="../img/OpenDispatch_Android.png" alt="Open Dispatch Android" style="border:none;">
+
+<p class="description">From left to right: The jobs in progress list, the home feed, and the pre-inspection step which happens before users navigate the core functionalities of the app itself </p>
+
 <h2>Takeaways</h2>
 
-Taking a bit of a step back, one thing I'd mention is that the enterprise space isn't <i>sexy</i>. Pushing the value of design in an area with a lot of friction, whilst mostly being exposed to people designing in the consumer space who were getting much less resistance, was definitely challenging.
+Unfortunately the product never got to the final stages due to once again reasons that I can't disclose. The team and I, despite our anger and frustration with regards to what had happened, were still proud of what we had done. We saw it as an opportunity to sort of 'level up' and perhaps build upon what we had already done for other products. 
+
+<blockquote><h5>It was strange. Being exposed to failure this early on in my career was something that I never expected after graduation.</h5></blockquote>
+
+So really, what I can tell you is that we now have a better understanding of who we were actually building for. We had run some early task-oriented tests on prototypes we had built where individuals were around 65%-70% successful when we asked them to perform specific objectives within our product.
+
+We performed observations through SUS. We asked them to score the questionnaire from one to five that range from Strongly Agree to Strongly disagree, where the result were about the average. We also run interview with users and ask them to perform specific tasks, where the result was 70% success rate.
+
+If I had to take a bit of a step back, one thing I'd mention is that the B2B space is not <i>sexy</i>, it's not meant to be. 
+
+Pushing the value of design in an area with a lot of friction, whilst mostly being exposed to people designing in the consumer space who were getting much less resistance, was definitely challenging.
 
 
 
