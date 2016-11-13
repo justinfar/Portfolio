@@ -7,13 +7,12 @@ tags:
 - systems
 - identity
 - ux
-description: I realized that a few months ago, I had promised my father, that I would
-  brand his business to improve his presence, and well here we are.
+description: This was my Dad's birthday gift, he was pretty happy about it.
 image: jfupholstery.png
 layout: post
 color: "#1085F9"
 status: Early stages of development
-style: translateY(15px)
+style: translateY(20px)
 ---
 
 <style>

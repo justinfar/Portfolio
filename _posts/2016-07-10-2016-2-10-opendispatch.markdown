@@ -12,6 +12,7 @@ image: opendispatch.png
 layout: post
 color: "#02E16B"
 status: Me versus NDA
+style: translateY(-10px)
 ---
 
 This project took place between July 2016 and October 2016. I was a user experience designer making up a small team that consisted two senior engineers and an engineering intern. I was responsible for initial research, interaction design, visual design and front-end development. 
@@ -41,23 +42,20 @@ I believed that the collective mind is better than the singular mind when it com
 
 <h2>Getting to know our users </h2>
 
-We also made it a point to talk to people before we committed to building anything.I began the process by interviewing six participants to get an idea of how people use exisiting manifestations of fleet management software. Directly talking to people helped me understand the pain points they had, gather context as well as analyze some of their workflows.
+We also made it a point to talk to people before we committed to building anything. I began the process by interviewing six participants to get an idea of how people use exisiting manifestations of fleet management software. Directly talking to people helped me understand the pain points they had, gather context as well as analyze some of their workflows.
 
+<!-- 
 Through talking to people, we came to realize two things:
 <ul>
 	<li>Fleet management solutions </li>
 	<li></li>
 </ul>
 
-My personal goal was to explore different ways as to how I can solve this problem, and then work with the engineers to build it.
+My personal goal was to explore different ways as to how I can solve this problem, and then work with the engineers to build it. -->
 
 <!-- Findings showed me that
 There's this thing called 'code experience' which is the equivalent of
   empathy in the design world. -->
-
-<h2></h2>
-<h2></h2>
-<h2></h2>
 
 <h2>Solution</h2>
 We chose to leverage Google’s Material Design language because as a team we felt that it was more suitable for a product that’s meant to be used on multiple devices and platforms. It also gives us the comprehensiveness and flexibility we needed to be able to communicate depth and motion when necessary throughout the different elements and interactions we incorporated into the product. 
@@ -74,11 +72,12 @@ Unfortunately the product never got to the final stages due to once again reason
 
 So really, what I can tell you is that we now have a better understanding of who we were actually building for. We had run some early task-oriented tests on prototypes we had built where individuals were around 65%-70% successful when we asked them to perform specific objectives within our product.
 
-We performed observations through SUS. We asked them to score the questionnaire from one to five that range from Strongly Agree to Strongly disagree, where the result were about the average. We also run interview with users and ask them to perform specific tasks, where the result was 70% success rate.
+<!-- 
+We performed observations through SUS. We asked them to score the questionnaire from one to five that range from Strongly Agree to Strongly disagree, where the result were about the average. We also run interview with users and ask them to perform specific tasks, where the result was 70% success rate. -->
 
-If I had to take a bit of a step back, one thing I'd mention is that the B2B space is not <i>sexy</i>, it's not meant to be. 
+If I had to take a bit of a step back, one thing I'd mention is that the B2B space is not <i>sexy</i>, it's not meant to be. Pushing the value of design in an area with a lot of friction, whilst mostly being exposed to people designing in the consumer space who were getting much less resistance, was definitely challenging.
 
-Pushing the value of design in an area with a lot of friction, whilst mostly being exposed to people designing in the consumer space who were getting much less resistance, was definitely challenging.
+<br>
 
 
 

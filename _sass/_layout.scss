@@ -181,12 +181,12 @@ ul.socialicons {
     }
 
     @include media-query($on-palm) {       
-        font-size: 2.8em;
+        font-size: 2em;
         text-align: left;
     }
 }
 
-div.post-description {
+.post-description {
     padding: 10% 15%;
      @include media-query($on-palm) {
         padding: 5% 5%;
@@ -194,7 +194,7 @@ div.post-description {
 
      @include media-query($on-palm * 1.2) {
         padding: 10% 5%;
-
+        margin-bottom: 10px;
     }
    
 }

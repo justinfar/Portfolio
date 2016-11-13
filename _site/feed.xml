@@ -5,8 +5,8 @@
     <description>This is the portfolio of Justin Farrugia, a product designer based in Malta.</description>
     <link>http://www.justinfarrugia.com/</link>
     <atom:link href="http://www.justinfarrugia.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 11 Nov 2016 07:56:02 +0100</pubDate>
-    <lastBuildDate>Fri, 11 Nov 2016 07:56:02 +0100</lastBuildDate>
+    <pubDate>Sun, 13 Nov 2016 20:47:57 +0100</pubDate>
+    <lastBuildDate>Sun, 13 Nov 2016 20:47:57 +0100</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -187,23 +187,20 @@
 
 &lt;h2&gt;Getting to know our users &lt;/h2&gt;
 
-&lt;p&gt;We also made it a point to talk to people before we committed to building anything.I began the process by interviewing six participants to get an idea of how people use exisiting manifestations of fleet management software. Directly talking to people helped me understand the pain points they had, gather context as well as analyze some of their workflows.&lt;/p&gt;
+&lt;p&gt;We also made it a point to talk to people before we committed to building anything. I began the process by interviewing six participants to get an idea of how people use exisiting manifestations of fleet management software. Directly talking to people helped me understand the pain points they had, gather context as well as analyze some of their workflows.&lt;/p&gt;
 
-&lt;p&gt;Through talking to people, we came to realize two things:&lt;/p&gt;
+&lt;!-- 
+Through talking to people, we came to realize two things:
 &lt;ul&gt;
 	&lt;li&gt;Fleet management solutions &lt;/li&gt;
 	&lt;li&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;My personal goal was to explore different ways as to how I can solve this problem, and then work with the engineers to build it.&lt;/p&gt;
+My personal goal was to explore different ways as to how I can solve this problem, and then work with the engineers to build it. --&gt;
 
 &lt;!-- Findings showed me that
 There&#39;s this thing called &#39;code experience&#39; which is the equivalent of
   empathy in the design world. --&gt;
-
-&lt;h2&gt;&lt;/h2&gt;
-&lt;h2&gt;&lt;/h2&gt;
-&lt;h2&gt;&lt;/h2&gt;
 
 &lt;h2&gt;Solution&lt;/h2&gt;
 &lt;p&gt;We chose to leverage Google’s Material Design language because as a team we felt that it was more suitable for a product that’s meant to be used on multiple devices and platforms. It also gives us the comprehensiveness and flexibility we needed to be able to communicate depth and motion when necessary throughout the different elements and interactions we incorporated into the product.&lt;/p&gt;
@@ -220,11 +217,12 @@ There&#39;s this thing called &#39;code experience&#39; which is the equivalent 
 
 &lt;p&gt;So really, what I can tell you is that we now have a better understanding of who we were actually building for. We had run some early task-oriented tests on prototypes we had built where individuals were around 65%-70% successful when we asked them to perform specific objectives within our product.&lt;/p&gt;
 
-&lt;p&gt;We performed observations through SUS. We asked them to score the questionnaire from one to five that range from Strongly Agree to Strongly disagree, where the result were about the average. We also run interview with users and ask them to perform specific tasks, where the result was 70% success rate.&lt;/p&gt;
+&lt;!-- 
+We performed observations through SUS. We asked them to score the questionnaire from one to five that range from Strongly Agree to Strongly disagree, where the result were about the average. We also run interview with users and ask them to perform specific tasks, where the result was 70% success rate. --&gt;
 
-&lt;p&gt;If I had to take a bit of a step back, one thing I’d mention is that the B2B space is not &lt;i&gt;sexy&lt;/i&gt;, it’s not meant to be.&lt;/p&gt;
+&lt;p&gt;If I had to take a bit of a step back, one thing I’d mention is that the B2B space is not &lt;i&gt;sexy&lt;/i&gt;, it’s not meant to be. Pushing the value of design in an area with a lot of friction, whilst mostly being exposed to people designing in the consumer space who were getting much less resistance, was definitely challenging.&lt;/p&gt;
 
-&lt;p&gt;Pushing the value of design in an area with a lot of friction, whilst mostly being exposed to people designing in the consumer space who were getting much less resistance, was definitely challenging.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Sun, 10 Jul 2016 23:50:26 +0200</pubDate>
