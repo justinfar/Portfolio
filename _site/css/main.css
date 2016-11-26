@@ -6,7 +6,6 @@
 html {
   border-collapse: continue;
   padding: 0rem 0rem;
-  border-top: 12px solid #FEBB27;
   border-bottom: 12px solid #FEBB27;
   -webkit-text-size-adjust: auto;
   text-rendering: optimizeLegibility !important;
@@ -210,8 +209,6 @@ input {
     cursor: pointer; }
 
 blockquote {
-  border-left: 5px solid #FEBB27;
-  vertical-align: middle;
   background: #fbfbfb;
   margin: 1.3em 0px;
   font-size: 2.4rem;
