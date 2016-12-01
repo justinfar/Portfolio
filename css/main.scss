@@ -16,7 +16,7 @@ $spacing-unit:     30px;
 
 $text-color:       #3e3e3e;
 $background-color: white;
-$brand-color:      #FEBB27;
+$brand-color:      blue;
 
 $grey-color: #969696;
 $grey-color-light: lighten($grey-color, 35%);
@@ -68,6 +68,34 @@ $on-laptop:        800px;
 // html {
 //     @include color_class(red);
 // }
+
+// @each $member in thom, jonny, jus, phil {
+//     .bandmember.#{$member} {
+//         background: url("images/{#member}.png")
+//     }
+// }
+
+//  Mixins
+// @mixin box($size, $color, $display: block) {
+//     width: $size;
+//     height: $size;
+//     background $color;
+// }
+// a {
+//     @include box(10px, blue);
+// }
+
+// @mixin band($members...) {
+//     @each $member in $members {
+//     .bandmember.#{$member} {
+//         background: url("images/{#member}.png")
+//         }
+//     }
+// }
+
+// @include band( thom, jonny, colin, phil);
+// @include band( trent);
+
 
 // ==================================================================
 // Typography | Calling self-hosted fonts

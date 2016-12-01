@@ -6,7 +6,7 @@
 html {
   border-collapse: continue;
   padding: 0rem 0rem;
-  border-bottom: 12px solid #FEBB27;
+  border-bottom: 12px solid blue;
   -webkit-text-size-adjust: auto;
   text-rendering: optimizeLegibility !important;
   -webkit-font-smoothing: antialiased !important;
@@ -49,7 +49,7 @@ ul, ol, dl, figure {
   margin-bottom: 15px; }
 
 ::selection {
-  background-color: #FEBB27;
+  background-color: blue;
   opacity: .2;
   color: #3e3e3e; }
 
@@ -123,11 +123,11 @@ span {
   span.description {
     font-size: 16px; }
     span.description a {
-      background-color: #FEBB27; }
+      background-color: blue; }
   span.subscribe {
     color: #3e3e3e; }
   span.point {
-    background-color: #FEBB27; }
+    background-color: blue; }
 
 .intro {
   margin-bottom: 40px; }
@@ -139,7 +139,7 @@ span {
     z-index: -1;
     margin-top: -23px;
     height: 15px;
-    background: #FEBB27; }
+    background: blue; }
   .intro a[href="mailto:justinmfarrugia@gmail.com"]::after {
     content: 'justinmfarrugia@gmail.com';
     display: block;
@@ -148,7 +148,7 @@ span {
     z-index: -1;
     margin-top: -14px;
     height: 10px;
-    background: #FEBB27; }
+    background: blue; }
   .intro p {
     color: #969696; }
 
@@ -157,7 +157,7 @@ a {
   text-decoration: none; }
   a:hover {
     cursor: pointer;
-    color: #FEBB27;
+    color: blue;
     transition: 0.2s; }
   a.backhome {
     display: inline-block;
@@ -171,12 +171,12 @@ a {
     a.email ::after, a.email.twitter_nav ::after {
       width: auto;
       height: 12px;
-      color: #FEBB27; }
+      color: blue; }
     a.email.twitter_nav {
       font-family: "SFMedium", Helvetica, Arial, sans-serif;
       font-weight: lighter !important; }
       a.email.twitter_nav:hover {
-        color: #FEBB27;
+        color: blue;
         transition: 0.2s; }
     a.email:hover {
       cursor: pointer;
@@ -185,7 +185,7 @@ a {
         width: auto;
         height: 15px;
         transition: .2s;
-        color: #FEBB27; }
+        color: blue; }
 
 input {
   font-size: 1.09091rem;
@@ -212,7 +212,7 @@ blockquote {
   background: #fbfbfb;
   margin: 1.3em 0px;
   font-size: 2.4rem;
-  border-left: 8px solid #FEBB27; }
+  border-left: 8px solid blue; }
   @media screen and (max-width: 600px) {
     blockquote {
       font-size: 1.6em;
@@ -366,7 +366,7 @@ ul.socialicons {
     font-size: 2em;
     margin: 1em auto auto 0; }
     ul.socialicons li a i:hover {
-      color: #FEBB27;
+      color: blue;
       transition: 0.2s; }
     @media screen and (max-width: 600px) {
       ul.socialicons li {
@@ -401,7 +401,7 @@ ul.socialicons {
   margin: 0 auto;
   text-align: center;
   color: #3e3e3e;
-  background: white;
+  background: #e6e6ff;
   display: inline;
   font-family: "SFMedium", Helvetica, Arial, sans-serif; }
 

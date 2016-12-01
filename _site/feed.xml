@@ -5,8 +5,8 @@
     <description>This is the portfolio of Justin Farrugia, a product designer based in Malta.</description>
     <link>http://www.justinfarrugia.com/</link>
     <atom:link href="http://www.justinfarrugia.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 26 Nov 2016 20:43:35 +0100</pubDate>
-    <lastBuildDate>Sat, 26 Nov 2016 20:43:35 +0100</lastBuildDate>
+    <pubDate>Thu, 01 Dec 2016 10:47:52 +0100</pubDate>
+    <lastBuildDate>Thu, 01 Dec 2016 10:47:52 +0100</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -160,8 +160,55 @@
       </item>
     
       <item>
+        <title>Overhauling a booking engine for price transparency and a cleaner home.</title>
+        <description>&lt;style&gt;
+  p &gt; a {
+		color: #1085F9;
+		padding-bottom: 5px;
+		border-bottom: 1px solid #1085F9;
+	}
+
+	.box {
+		background-color: rgba(16, 133, 249, 0.1);
+		color: #1085F9;
+		padding: 30px;
+		border: 3px solid #1085F9;
+	}
+&lt;/style&gt;
+
+&lt;div class=&quot;box&quot;&gt;
+	I try to document my projects in depth as case studies, so it takes awhile to get these up and running. If you&#39;d like to see specific parts of this project, don&#39;t hesitate to &lt;a href=&quot;mailto:justinmfarrugia@gmail.com&quot; style=&quot;color: #1085F9;
+		padding-bottom: 5px;
+		border-bottom: 3px solid #1085F9;&quot;&gt;contact me &lt;/a&gt;.
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 10 Jul 2016 23:50:26 +0200</pubDate>
+        <link>http://www.justinfarrugia.com/briiz</link>
+        <guid isPermaLink="true">http://www.justinfarrugia.com/briiz</guid>
+        
+        <category>sprint</category>
+        
+        <category>payment</category>
+        
+        <category>flow</category>
+        
+        
+        <category>work</category>
+        
+      </item>
+    
+      <item>
         <title>Building a fleet management solution</title>
-        <description>&lt;p&gt;This project took place between July 2016 and October 2016. I was a junior user experience designer making up a small team that consisted two senior engineers and an engineering intern. I was responsible for initial research, experience design, visual design and some front-end development.&lt;/p&gt;
+        <description>&lt;style&gt;
+	img {
+		border: none;
+	}
+&lt;/style&gt;
+
+&lt;p&gt;This project took place between July 2016 and October 2016. I was a junior user experience designer making up a small team that consisted two senior engineers and an engineering intern. I was responsible for initial research, experience design, visual design and some front-end development.&lt;/p&gt;
 
 &lt;p&gt;Unfortunately, most of the work that will be shown here didn’t get shipped due to reasons that I can’t publicly disclose. What I can tell you however, is that this was one product that definitely needed some love.&lt;/p&gt;
 
@@ -169,21 +216,27 @@
 &lt;p&gt;Open Dispatch is a fleet management application designed to provide mobile teams such as technicians and drivers an intuitive and unobstructive experience with which to carry out their work. Fleet managers, back office managers and workshop operators are also able to view real-time updates of the progress made by field agents.
 &lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;../img/opendispatch_overview.png&quot; alt=&quot;Open Dispatch Overview&quot; style=&quot;border:none; text-align: left;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;../img/opendispatch_overview.png&quot; alt=&quot;Open Dispatch Overview&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;description&quot;&gt;An eagle&#39;s eye view of just a few of the final iterations that we had tested with a number of people. From Top to Bottom: Splashscreen, Sign-Up flow, Pre-Inspection Steps, Home, Jobs, Contacts&lt;/p&gt;
 
 &lt;h2&gt;How can we make mobile workers&#39; communication channels with the backoffice more clear?&lt;/h2&gt;
 
-&lt;p&gt;This was an early question we had asked ourselves. Productivity is critical for a mobile workforce to operate at an optimal level. Moreso, if the backoffice team and the field agents were not communicating well, then that in itself would be another problem.&lt;/p&gt;
+&lt;p&gt;This was an early problem-oriented question we had asked ourselves. Productivity is critical for a mobile workforce to operate at an optimal level. If the backoffice team and the field agents were not communicating well, then that in itself would be an issue.&lt;/p&gt;
 
-&lt;p&gt;Thus, the more connected a workforce is to the business, the more productive they become. This problem is critical to solve because if a workforce is not productive, then not only may there be considerable revenue decrease from the business end, but also business customers might opt to switch supplier.&lt;/p&gt;
+&lt;p&gt;Thus, the more connected a workforce is to the business, the more productive they become. This problem is important to solve because if a workforce is not productive, then not only may there be considerable revenue decrease from the business end, but business customers might also opt to switch supplier.&lt;/p&gt;
 
 &lt;h2&gt;Approach&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;../img/opendispatch_process.png&quot; alt=&quot;Design process I developed together with the team&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;description&quot;&gt;Here&#39;s a rough overview of the user-centred process I tried to push through, turns out it can never be &lt;i&gt;that&lt;/i&gt; linear&lt;/p&gt;
 
 &lt;p&gt;My lack of domain knowledge in this particular space meant that I needed to dive in, and immerse myself as thoroughly and as quickly as possible. Due to a very limited timeline, I had to resort to good old desk research. That basically translates to having twenty browser tabs open, research articles, blogs a plenty and whatever else I could get my hands on to inform both myself and the product decisions I would eventually make.&lt;/p&gt;
 
 &lt;p&gt;I believed that the collective mind is better than the singular mind when it comes to collecting, understanding and then synthesizing research. Sharing every last scrap of information we could find with each other, was essential, as it kind of helped us prepare mentally for the ideation process.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../img/CurrentIteration.png&quot; alt=&quot;Usability Test for current iteration&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;description&quot;&gt;We tried to find out current pain points so that we could see what was and wasn&#39;t working. As can be seen above there were definitely some problems that we needed to address. &lt;/p&gt;
 
 &lt;h2&gt;Getting to know our users &lt;/h2&gt;
 
@@ -211,13 +264,9 @@ There&#39;s this thing called &#39;code experience&#39; which is the equivalent 
 
 &lt;h2&gt;Takeaways&lt;/h2&gt;
 
-&lt;p&gt;Unfortunately the product never got to the final stages due to once again reasons that I can’t disclose. The team and I, despite our anger and frustration with regards to what had happened, were still proud of what we had done. We saw it as an opportunity to sort of ‘level up’ and perhaps build upon the foundation we had set ourselves up for.&lt;/p&gt;
+&lt;p&gt;Unfortunately our work never got shipped. The team and I, despite our anger and frustration with regards to what had happened, were still proud of what we had done. We saw it as an opportunity to sort of ‘level up’ and perhaps build upon the foundation we had set ourselves up for.&lt;/p&gt;
 
-&lt;blockquote&gt;&lt;h5&gt;It was strange. Being exposed to failure this early on in my career was something that I never expected after graduation.&lt;/h5&gt;&lt;/blockquote&gt;
-
-&lt;p&gt;So really, what I can tell you is that we now have a better understanding of who we were actually building for. We had run some early task-oriented tests on prototypes we had built where individuals were around 65%-70% successful when we asked them to perform specific objectives within our product.&lt;/p&gt;
-
-&lt;p&gt;Pushing the value of design in an area with a lot of friction, whilst mostly being exposed to people designing in the consumer space who were getting much less resistance, was definitely challenging.&lt;/p&gt;
+&lt;p&gt;It was strange. Being exposed to failure this early on in my career was something that I never expected after graduation. Pushing the value of design in an area with a lot of friction, whilst mostly being exposed to people designing in the consumer space who were getting much less resistance, was another challenge. But hey, what’s building a product without roadblocks?&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -274,54 +323,6 @@ h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure {
         
         
         <category>work</category>
-        
-      </item>
-    
-      <item>
-        <title>2016 2 10 Anchovy</title>
-        <description>&lt;!-- ---
-title: Redesigning Anchovyinc.com
-date: 2016-07-10 23:50:26 +02:00
-categories:
-- work
-tags:
-- ux
-- teambuilding
-description: Pretty early in my career to be doing this, but challenge accepted
-image: designexercises.png
-layout: post
-color: &quot;#80c3c3&quot;
-status: Another case study I&#39;m busy writing
-style: translateY(15px)
---- --&gt;
-
-&lt;style&gt;
-
-h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure {
-    margin-bottom: 15px !important; 
-    }
-
-	.box {
-		background-color: rgba(16, 133, 249, 0.1);
-		color: #FFCB26;
-		padding: 30px;
-		border: 3px solid #FFCB26;
-	}
-&lt;/style&gt;
-
-&lt;div class=&quot;box&quot;&gt;
-	I try to document my projects in depth as case studies, so it takes awhile to get these up and running. If you&#39;d like to see specific parts of this project, don&#39;t hesitate to &lt;a href=&quot;mailto:justinmfarrugia@gmail.com&quot; style=&quot;color: #FFCB26;
-		padding-bottom: 5px;
-		border-bottom: 3px solid #FFCB26;&quot;&gt;contact me &lt;/a&gt;.
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Sun, 10 Jul 2016 00:00:00 +0200</pubDate>
-        <link>http://www.justinfarrugia.com/2016-2-10-anchovy</link>
-        <guid isPermaLink="true">http://www.justinfarrugia.com/2016-2-10-anchovy</guid>
-        
         
       </item>
     
