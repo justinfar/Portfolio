@@ -43,7 +43,7 @@ Thus, the more connected a workforce is to the business, the more productive the
 <h2>Approach</h2>
 
 <img src="../img/opendispatch_process.png" alt="Design process I developed together with the team">
-<p class="description">Here's a rough overview of the user-centred process I tried to push through, turns out it can never be <i>that</i> linear</p>
+<p class="description">Here's a rough overview of the user-centred process I tried to push through, turns out it is never <i>that</i> linear</p>
 
 My lack of domain knowledge in this particular space meant that I needed to dive in, and immerse myself as thoroughly and as quickly as possible. Due to a very limited timeline, I had to resort to good old desk research. That basically translates to having twenty browser tabs open, research articles, blogs a plenty and whatever else I could get my hands on to inform both myself and the product decisions I would eventually make.
 

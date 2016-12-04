@@ -5,8 +5,8 @@
     <description>This is the portfolio of Justin Farrugia, a product designer based in Malta.</description>
     <link>http://www.justinfarrugia.com/</link>
     <atom:link href="http://www.justinfarrugia.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 01 Dec 2016 10:47:52 +0100</pubDate>
-    <lastBuildDate>Thu, 01 Dec 2016 10:47:52 +0100</lastBuildDate>
+    <pubDate>Sun, 04 Dec 2016 16:57:58 +0100</pubDate>
+    <lastBuildDate>Sun, 04 Dec 2016 16:57:58 +0100</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -160,47 +160,6 @@
       </item>
     
       <item>
-        <title>Overhauling a booking engine for price transparency and a cleaner home.</title>
-        <description>&lt;style&gt;
-  p &gt; a {
-		color: #1085F9;
-		padding-bottom: 5px;
-		border-bottom: 1px solid #1085F9;
-	}
-
-	.box {
-		background-color: rgba(16, 133, 249, 0.1);
-		color: #1085F9;
-		padding: 30px;
-		border: 3px solid #1085F9;
-	}
-&lt;/style&gt;
-
-&lt;div class=&quot;box&quot;&gt;
-	I try to document my projects in depth as case studies, so it takes awhile to get these up and running. If you&#39;d like to see specific parts of this project, don&#39;t hesitate to &lt;a href=&quot;mailto:justinmfarrugia@gmail.com&quot; style=&quot;color: #1085F9;
-		padding-bottom: 5px;
-		border-bottom: 3px solid #1085F9;&quot;&gt;contact me &lt;/a&gt;.
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Sun, 10 Jul 2016 23:50:26 +0200</pubDate>
-        <link>http://www.justinfarrugia.com/briiz</link>
-        <guid isPermaLink="true">http://www.justinfarrugia.com/briiz</guid>
-        
-        <category>sprint</category>
-        
-        <category>payment</category>
-        
-        <category>flow</category>
-        
-        
-        <category>work</category>
-        
-      </item>
-    
-      <item>
         <title>Building a fleet management solution</title>
         <description>&lt;style&gt;
 	img {
@@ -229,7 +188,7 @@
 &lt;h2&gt;Approach&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&quot;../img/opendispatch_process.png&quot; alt=&quot;Design process I developed together with the team&quot; /&gt;&lt;/p&gt;
-&lt;p class=&quot;description&quot;&gt;Here&#39;s a rough overview of the user-centred process I tried to push through, turns out it can never be &lt;i&gt;that&lt;/i&gt; linear&lt;/p&gt;
+&lt;p class=&quot;description&quot;&gt;Here&#39;s a rough overview of the user-centred process I tried to push through, turns out it is never &lt;i&gt;that&lt;/i&gt; linear&lt;/p&gt;
 
 &lt;p&gt;My lack of domain knowledge in this particular space meant that I needed to dive in, and immerse myself as thoroughly and as quickly as possible. Due to a very limited timeline, I had to resort to good old desk research. That basically translates to having twenty browser tabs open, research articles, blogs a plenty and whatever else I could get my hands on to inform both myself and the product decisions I would eventually make.&lt;/p&gt;
 
@@ -323,6 +282,56 @@ h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure {
         
         
         <category>work</category>
+        
+      </item>
+    
+      <item>
+        <title>Briiz</title>
+        <description>&lt;!-- ---
+title: &#39;Overhauling a booking engine for price transparency and a cleaner home.&#39;
+date: 2016-07-10 23:50:26 +02:00
+categories:
+- work
+tags:
+- sprint
+- payment
+- flow
+description: This was one of the many projects I worked on whilst I was at Anchovy, a digital marketing agency.
+image: Briiz_image.png
+layout: post
+color: &quot;#3296FF&quot;
+status: Early stages of development
+style: translateY(20px)
+--- --&gt;
+
+&lt;style&gt;
+  p &gt; a {
+		color: #1085F9;
+		padding-bottom: 5px;
+		border-bottom: 1px solid #1085F9;
+	}
+
+	.box {
+		background-color: rgba(16, 133, 249, 0.1);
+		color: #1085F9;
+		padding: 30px;
+		border: 3px solid #1085F9;
+	}
+&lt;/style&gt;
+
+&lt;div class=&quot;box&quot;&gt;
+	I try to document my projects in depth as case studies, so it takes awhile to get these up and running. If you&#39;d like to see specific parts of this project, don&#39;t hesitate to &lt;a href=&quot;mailto:justinmfarrugia@gmail.com&quot; style=&quot;color: #1085F9;
+		padding-bottom: 5px;
+		border-bottom: 3px solid #1085F9;&quot;&gt;contact me &lt;/a&gt;.
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 10 Jul 2016 00:00:00 +0200</pubDate>
+        <link>http://www.justinfarrugia.com/briiz</link>
+        <guid isPermaLink="true">http://www.justinfarrugia.com/briiz</guid>
+        
         
       </item>
     

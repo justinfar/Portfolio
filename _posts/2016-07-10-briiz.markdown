@@ -1,4 +1,4 @@
----
+<!-- ---
 title: 'Overhauling a booking engine for price transparency and a cleaner home.'
 date: 2016-07-10 23:50:26 +02:00
 categories:
@@ -13,7 +13,7 @@ layout: post
 color: "#3296FF"
 status: Early stages of development
 style: translateY(20px)
----
+--- -->
 
 <style>
   p > a {
