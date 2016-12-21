@@ -19,9 +19,13 @@ style: translateY(-10px)
 	img {
 		border: none;
 	}
+
+	h2 {
+		line-height: 1.5;
+	}
 </style>
 
-This project took place between July 2016 and October 2016. I was a junior user experience designer making up a small team that consisted two senior engineers and an engineering intern. I was responsible for initial research, experience design, visual design and some front-end development. 
+This project took place between July 2016 and October 2016. I was a user experience design intern making up a small team that consisted two senior engineers and an engineering intern. I was responsible for initial research, experience design, visual design and some front-end development. 
 
 Unfortunately, most of the work that will be shown here didn't get shipped due to reasons that I can't publicly disclose. What I can tell you however, is that this was one product that definitely needed some love.
 
@@ -35,43 +39,38 @@ Open Dispatch is a fleet management application designed to provide mobile teams
 
 <h2>How can we make mobile workers' communication channels with the backoffice more clear?</h2>
 
-This was an early problem-oriented question we had asked ourselves. Productivity is critical for a mobile workforce to operate at an optimal level. If the backoffice team and the field agents were not communicating well, then that in itself would be an issue. 
+This was <i>the</i> problem.  Productivity is critical for a mobile workforce to operate at an optimal level. If the backoffice team and the field agents were not communicating well, then that in itself would be a major headache. 
 
 Thus, the more connected a workforce is to the business, the more productive they become. This problem is important to solve because if a workforce is not productive, then not only may there be considerable revenue decrease from the business end, but business customers might also opt to switch supplier. 
 
+<h2>TL;DR (Here's what we did, sort of)</h2>
+
+<img src="../img/opendispatch_process.png" alt="Design process I developed together with the team">
+<p class="description">Here's a very rough overview of the user-centred process I thought we would naturally adopt, or so I thought. Turns out it can never be <i>that</i> linear</p>
 
 <h2>Approach</h2>
 
-<img src="../img/opendispatch_process.png" alt="Design process I developed together with the team">
-<p class="description">Here's a rough overview of the user-centred process I tried to push through, turns out it is never <i>that</i> linear</p>
-
 My lack of domain knowledge in this particular space meant that I needed to dive in, and immerse myself as thoroughly and as quickly as possible. Due to a very limited timeline, I had to resort to good old desk research. That basically translates to having twenty browser tabs open, research articles, blogs a plenty and whatever else I could get my hands on to inform both myself and the product decisions I would eventually make.
 
-I believed that the collective mind is better than the singular mind when it comes to collecting, understanding and then synthesizing research. Sharing every last scrap of information we could find with each other, was essential, as it kind of helped us prepare mentally for the ideation process.
-
 <img src="../img/CurrentIteration.png" alt="Usability Test for current iteration">
-<p class="description">We tried to find out current pain points so that we could see what was and wasn't working. As can be seen above there were definitely some problems that we needed to address. </p>
+<p class="description">We tried to find out current pain points within the existing solution, so that we could see what was and wasn't working. As can be seen above there were definitely some problems that we needed to address. </p>
+
+I believed that the collective mind is better than the singular mind when it comes to collecting, understanding and then synthesizing research. Sharing every last scrap of information we could find with each other, was essential, as it kind of helped us prepare mentally for the ideation process.
 
 
 <h2>Getting to know our users </h2>
 
 We also made it a point to talk to people before we committed to building anything. I began the process by interviewing six participants to get an idea of how people use exisiting manifestations of fleet management software. Directly talking to people helped me understand the pain points they had, gather context as well as analyze some of their workflows.
 
-<!-- 
-Through talking to people, we came to realize two things:
+Through talking to people, I came to realize a few things:
 <ul>
-	<li>Fleet management solutions </li>
+	<li>Members of the backoffice had different ways of how they would handle certain tasks with certain field workers, and as such there was no real consistency in procedure</li>
 	<li></li>
 </ul>
 
-My personal goal was to explore different ways as to how I can solve this problem, and then work with the engineers to build it. -->
-
-<!-- Findings showed me that
-There's this thing called 'code experience' which is the equivalent of
-  empathy in the design world. -->
 
 <h2>Solution</h2>
-We chose to leverage Google’s Material Design language because as a team we felt that it was more suitable for a product that’s meant to be used on multiple devices and platforms. It also gives us the comprehensiveness and flexibility we needed to be able to communicate depth and motion when necessary throughout the different elements and interactions we incorporated into the product. 
+We chose to leverage Google’s Material Design language because as a team we felt that it gives us the comprehensiveness and flexibility we needed, to be able to communicate depth and motion when necessary throughout the different elements and interactions we incorporated into the product. 
 
 <img src="../img/OpenDispatch_Android.png" alt="Open Dispatch Android" style="border:none;">
 
@@ -79,9 +78,11 @@ We chose to leverage Google’s Material Design language because as a team we fe
 
 <h2>Takeaways</h2>
 
-Unfortunately our work never got shipped. The team and I, despite our anger and frustration with regards to what had happened, were still proud of what we had done. We saw it as an opportunity to sort of 'level up' and perhaps build upon the foundation we had set ourselves up for. 
+Unfortunately our work never saw the light of day (unless you count the people we had asked to come in for testing). As a result of this I've learnt that industries such as this come with a different host of topics, areas and issues that will need to be considered when architecting a solution.
 
-It was strange. Being exposed to failure this early on in my career was something that I never expected after graduation. Pushing the value of design in an area with a lot of friction, whilst mostly being exposed to people designing in the consumer space who were getting much less resistance, was another challenge. But hey, what's building a product without roadblocks?
+It was strange. Being exposed to failure this early on in my career was something that I never expected after graduation.
+
+Pushing the value of design in an area with a lot of friction, whilst mostly being exposed to people designing in the consumer space who were getting much less resistance, was another challenge. But hey, what's building something without roadblocks?
 
 <br>
 

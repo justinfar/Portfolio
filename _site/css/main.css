@@ -301,8 +301,11 @@ pre {
     font-variant: small-caps;
     font-size: 0.84rem; }
 
-hr {
-  display: none; }
+.box {
+  background-color: #F5F5F5;
+  color: #191d1f;
+  padding: 30px;
+  border: 2px solid #E0E0E0; }
 
 .site-header {
   min-height: 56px;
@@ -471,3 +474,6 @@ ul.socialicons {
   div.post > div.row {
     max-height: 530px !important;
     overflow-y: hidden; } }
+
+hr {
+  display: none; }

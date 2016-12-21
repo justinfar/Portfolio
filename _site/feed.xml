@@ -5,8 +5,8 @@
     <description>This is the portfolio of Justin Farrugia, a product designer based in Malta.</description>
     <link>http://www.justinfarrugia.com/</link>
     <atom:link href="http://www.justinfarrugia.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 04 Dec 2016 16:57:58 +0100</pubDate>
-    <lastBuildDate>Sun, 04 Dec 2016 16:57:58 +0100</lastBuildDate>
+    <pubDate>Wed, 21 Dec 2016 09:20:18 +0100</pubDate>
+    <lastBuildDate>Wed, 21 Dec 2016 09:20:18 +0100</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -102,6 +102,16 @@
 &lt;/div&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2&gt;A necessary redesign? Pretty bold statement there.&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit possimus provident deleniti eaque cumque consequuntur ducimus numquam animi harum quos, facilis, quia repellendus quasi, non esse iste fugit dicta quod.&lt;/p&gt;
+
+&lt;p&gt;This being the industry that is, the team and I formulated a hypothesis people usually visit a museum website to see imagery therefore the ratio of information to visual imagery had to reflect that.&lt;/p&gt;
+
+&lt;p&gt;We &lt;em&gt;think&lt;/em&gt; travelers will trust listings more if we improve the visual experience for listings and better equip hosts to showcase their homes.&lt;/p&gt;
+
+&lt;p&gt;We will be successful if we can encourage more travelers to book rooms, and for them to feel more comfortable doing so without compromising the host experience. We are limited by the fact that our hosts are not expert curators (most don’t even have professional photos of their homes), so we‘re probably going to need to hire photographers for them at least.&lt;/p&gt;
+
 </description>
         <pubDate>Sun, 09 Oct 2016 00:00:00 +0200</pubDate>
         <link>http://www.justinfarrugia.com/industrialmuseum</link>
@@ -160,14 +170,61 @@
       </item>
     
       <item>
+        <title>Overhauling a booking engine for price transparency and a cleaner home.</title>
+        <description>&lt;style&gt;
+  p &gt; a {
+		color: #1085F9;
+		padding-bottom: 5px;
+		border-bottom: 1px solid #1085F9;
+	}
+&lt;/style&gt;
+
+&lt;p&gt;&lt;img src=&quot;../img/briiz_process_1.png&quot; alt=&quot;Briiz Process Sticky Notes&quot; /&gt;
+&lt;img src=&quot;../img/briiz_process_2.png&quot; alt=&quot;Briiz Process Sticky Notes&quot; /&gt;
+&lt;img src=&quot;../img/briiz_process_3.png&quot; alt=&quot;Briiz Process Sticky Notes&quot; /&gt;
+&lt;img src=&quot;../img/briiz_process_4.png&quot; alt=&quot;Briiz Process Sticky Notes&quot; /&gt;
+&lt;img src=&quot;../img/Briiz_Dribbble.png&quot; alt=&quot;Briiz Process Sticky Notes&quot; /&gt;
+&lt;img src=&quot;../img/BriizFeedback.png&quot; alt=&quot;Briiz Process Sticky Notes&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;box&quot;&gt;
+	I try to document my projects in depth as case studies, so it takes awhile to get these up and running. If you&#39;d like to see specific parts of this project, don&#39;t hesitate to &lt;a href=&quot;mailto:justinmfarrugia@gmail.com&quot; style=&quot;color: #1085F9;
+		padding-bottom: 5px;
+		border-bottom: 3px solid #1085F9;&quot;&gt;contact me &lt;/a&gt;.
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 10 Jul 2016 23:50:26 +0200</pubDate>
+        <link>http://www.justinfarrugia.com/briiz</link>
+        <guid isPermaLink="true">http://www.justinfarrugia.com/briiz</guid>
+        
+        <category>sprint</category>
+        
+        <category>payment</category>
+        
+        <category>flow</category>
+        
+        
+        <category>work</category>
+        
+      </item>
+    
+      <item>
         <title>Building a fleet management solution</title>
         <description>&lt;style&gt;
 	img {
 		border: none;
 	}
+
+	h2 {
+		line-height: 1.5;
+	}
 &lt;/style&gt;
 
-&lt;p&gt;This project took place between July 2016 and October 2016. I was a junior user experience designer making up a small team that consisted two senior engineers and an engineering intern. I was responsible for initial research, experience design, visual design and some front-end development.&lt;/p&gt;
+&lt;p&gt;This project took place between July 2016 and October 2016. I was a user experience design intern making up a small team that consisted two senior engineers and an engineering intern. I was responsible for initial research, experience design, visual design and some front-end development.&lt;/p&gt;
 
 &lt;p&gt;Unfortunately, most of the work that will be shown here didn’t get shipped due to reasons that I can’t publicly disclose. What I can tell you however, is that this was one product that definitely needed some love.&lt;/p&gt;
 
@@ -181,41 +238,36 @@
 
 &lt;h2&gt;How can we make mobile workers&#39; communication channels with the backoffice more clear?&lt;/h2&gt;
 
-&lt;p&gt;This was an early problem-oriented question we had asked ourselves. Productivity is critical for a mobile workforce to operate at an optimal level. If the backoffice team and the field agents were not communicating well, then that in itself would be an issue.&lt;/p&gt;
+&lt;p&gt;This was &lt;i&gt;the&lt;/i&gt; problem.  Productivity is critical for a mobile workforce to operate at an optimal level. If the backoffice team and the field agents were not communicating well, then that in itself would be a major headache.&lt;/p&gt;
 
 &lt;p&gt;Thus, the more connected a workforce is to the business, the more productive they become. This problem is important to solve because if a workforce is not productive, then not only may there be considerable revenue decrease from the business end, but business customers might also opt to switch supplier.&lt;/p&gt;
 
-&lt;h2&gt;Approach&lt;/h2&gt;
+&lt;h2&gt;TL;DR (Here&#39;s what we did, sort of)&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&quot;../img/opendispatch_process.png&quot; alt=&quot;Design process I developed together with the team&quot; /&gt;&lt;/p&gt;
-&lt;p class=&quot;description&quot;&gt;Here&#39;s a rough overview of the user-centred process I tried to push through, turns out it is never &lt;i&gt;that&lt;/i&gt; linear&lt;/p&gt;
+&lt;p class=&quot;description&quot;&gt;Here&#39;s a very rough overview of the user-centred process I thought we would naturally adopt, or so I thought. Turns out it can never be &lt;i&gt;that&lt;/i&gt; linear&lt;/p&gt;
+
+&lt;h2&gt;Approach&lt;/h2&gt;
 
 &lt;p&gt;My lack of domain knowledge in this particular space meant that I needed to dive in, and immerse myself as thoroughly and as quickly as possible. Due to a very limited timeline, I had to resort to good old desk research. That basically translates to having twenty browser tabs open, research articles, blogs a plenty and whatever else I could get my hands on to inform both myself and the product decisions I would eventually make.&lt;/p&gt;
 
-&lt;p&gt;I believed that the collective mind is better than the singular mind when it comes to collecting, understanding and then synthesizing research. Sharing every last scrap of information we could find with each other, was essential, as it kind of helped us prepare mentally for the ideation process.&lt;/p&gt;
-
 &lt;p&gt;&lt;img src=&quot;../img/CurrentIteration.png&quot; alt=&quot;Usability Test for current iteration&quot; /&gt;&lt;/p&gt;
-&lt;p class=&quot;description&quot;&gt;We tried to find out current pain points so that we could see what was and wasn&#39;t working. As can be seen above there were definitely some problems that we needed to address. &lt;/p&gt;
+&lt;p class=&quot;description&quot;&gt;We tried to find out current pain points within the existing solution, so that we could see what was and wasn&#39;t working. As can be seen above there were definitely some problems that we needed to address. &lt;/p&gt;
+
+&lt;p&gt;I believed that the collective mind is better than the singular mind when it comes to collecting, understanding and then synthesizing research. Sharing every last scrap of information we could find with each other, was essential, as it kind of helped us prepare mentally for the ideation process.&lt;/p&gt;
 
 &lt;h2&gt;Getting to know our users &lt;/h2&gt;
 
 &lt;p&gt;We also made it a point to talk to people before we committed to building anything. I began the process by interviewing six participants to get an idea of how people use exisiting manifestations of fleet management software. Directly talking to people helped me understand the pain points they had, gather context as well as analyze some of their workflows.&lt;/p&gt;
 
-&lt;!-- 
-Through talking to people, we came to realize two things:
+&lt;p&gt;Through talking to people, I came to realize a few things:&lt;/p&gt;
 &lt;ul&gt;
-	&lt;li&gt;Fleet management solutions &lt;/li&gt;
+	&lt;li&gt;Members of the backoffice had different ways of how they would handle certain tasks with certain field workers, and as such there was no real consistency in procedure&lt;/li&gt;
 	&lt;li&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-My personal goal was to explore different ways as to how I can solve this problem, and then work with the engineers to build it. --&gt;
-
-&lt;!-- Findings showed me that
-There&#39;s this thing called &#39;code experience&#39; which is the equivalent of
-  empathy in the design world. --&gt;
-
 &lt;h2&gt;Solution&lt;/h2&gt;
-&lt;p&gt;We chose to leverage Google’s Material Design language because as a team we felt that it was more suitable for a product that’s meant to be used on multiple devices and platforms. It also gives us the comprehensiveness and flexibility we needed to be able to communicate depth and motion when necessary throughout the different elements and interactions we incorporated into the product.&lt;/p&gt;
+&lt;p&gt;We chose to leverage Google’s Material Design language because as a team we felt that it gives us the comprehensiveness and flexibility we needed, to be able to communicate depth and motion when necessary throughout the different elements and interactions we incorporated into the product.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;../img/OpenDispatch_Android.png&quot; alt=&quot;Open Dispatch Android&quot; style=&quot;border:none;&quot; /&gt;&lt;/p&gt;
 
@@ -223,9 +275,11 @@ There&#39;s this thing called &#39;code experience&#39; which is the equivalent 
 
 &lt;h2&gt;Takeaways&lt;/h2&gt;
 
-&lt;p&gt;Unfortunately our work never got shipped. The team and I, despite our anger and frustration with regards to what had happened, were still proud of what we had done. We saw it as an opportunity to sort of ‘level up’ and perhaps build upon the foundation we had set ourselves up for.&lt;/p&gt;
+&lt;p&gt;Unfortunately our work never saw the light of day (unless you count the people we had asked to come in for testing). As a result of this I’ve learnt that industries such as this come with a different host of topics, areas and issues that will need to be considered when architecting a solution.&lt;/p&gt;
 
-&lt;p&gt;It was strange. Being exposed to failure this early on in my career was something that I never expected after graduation. Pushing the value of design in an area with a lot of friction, whilst mostly being exposed to people designing in the consumer space who were getting much less resistance, was another challenge. But hey, what’s building a product without roadblocks?&lt;/p&gt;
+&lt;p&gt;It was strange. Being exposed to failure this early on in my career was something that I never expected after graduation.&lt;/p&gt;
+
+&lt;p&gt;Pushing the value of design in an area with a lot of friction, whilst mostly being exposed to people designing in the consumer space who were getting much less resistance, was another challenge. But hey, what’s building something without roadblocks?&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -282,56 +336,6 @@ h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure {
         
         
         <category>work</category>
-        
-      </item>
-    
-      <item>
-        <title>Briiz</title>
-        <description>&lt;!-- ---
-title: &#39;Overhauling a booking engine for price transparency and a cleaner home.&#39;
-date: 2016-07-10 23:50:26 +02:00
-categories:
-- work
-tags:
-- sprint
-- payment
-- flow
-description: This was one of the many projects I worked on whilst I was at Anchovy, a digital marketing agency.
-image: Briiz_image.png
-layout: post
-color: &quot;#3296FF&quot;
-status: Early stages of development
-style: translateY(20px)
---- --&gt;
-
-&lt;style&gt;
-  p &gt; a {
-		color: #1085F9;
-		padding-bottom: 5px;
-		border-bottom: 1px solid #1085F9;
-	}
-
-	.box {
-		background-color: rgba(16, 133, 249, 0.1);
-		color: #1085F9;
-		padding: 30px;
-		border: 3px solid #1085F9;
-	}
-&lt;/style&gt;
-
-&lt;div class=&quot;box&quot;&gt;
-	I try to document my projects in depth as case studies, so it takes awhile to get these up and running. If you&#39;d like to see specific parts of this project, don&#39;t hesitate to &lt;a href=&quot;mailto:justinmfarrugia@gmail.com&quot; style=&quot;color: #1085F9;
-		padding-bottom: 5px;
-		border-bottom: 3px solid #1085F9;&quot;&gt;contact me &lt;/a&gt;.
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Sun, 10 Jul 2016 00:00:00 +0200</pubDate>
-        <link>http://www.justinfarrugia.com/briiz</link>
-        <guid isPermaLink="true">http://www.justinfarrugia.com/briiz</guid>
-        
         
       </item>
     
