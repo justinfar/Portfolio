@@ -11,7 +11,8 @@ description: This was my Dad's birthday gift, he was pretty happy about it.
 image: jfupholstery.png
 layout: post
 color: "#1085F9"
-status: Early stages of development
+link: http://www.jfupholstery.org
+linkdesc: Visit the site here →
 style: translateY(20px)
 ---
 

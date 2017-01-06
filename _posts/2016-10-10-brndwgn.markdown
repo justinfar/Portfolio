@@ -31,13 +31,13 @@ Not doing anything was holding me back tenfold. So, I grabbed my trusty pencil a
 
 As a self-starter myself, I really respected her drive and commitment as well as her courage. Naturally, I was influenced by her approach. So I went ahead and decided to do the same kind of thing to land that internship. So I built a website and well, <a class="post" href="http://justinmarkfarrugia.github.io/BRNDWGN_Application/">here it is.</a>
 
-<img class="box" src="img/BRNDWGN_site.png" alt="A one-pager I built for my application at BRNDWGN">
+<img src="img/BRNDWGN_site.png" alt="A one-pager I built for my application at BRNDWGN">
 
 <p class="description">A bit of a gimmick, but hey I had fun building it</p>
 
 Admittedly, that one-pager accompanied with a pretty boldly worded email took some courage. I mean it’s not like I knew these guys, I just heard the CEO (Hey Pete) speak at a local meetup and was like “Man these guys seem like they do great work”. Two days after finally pressing send, an  email from the Head of Creative showed up in my inbox. That fourth line was a bit heart-wrenching, but nevertheless I visited the office to have a chat, and was offered an internship. 
 
-<img class="box" src="img/BRNDWGNemail.png" alt="A one-pager I built for my application at BRNDWGN">
+<img  src="img/BRNDWGNemail.png" alt="A one-pager I built for my application at BRNDWGN">
 
 <p class="description">“Definitely one of the most original internship requests I’ve ever received”. Yep, nailed it.</p>
 
@@ -62,7 +62,7 @@ After a long day, I never went home to the feeling that I was not so great at us
 
 As a sort of thank you note to show my appreciation to the team for their support and their patience for when I had way too many questions lined up, I built a sort of blueprint for future wagoneers and/or new hires. You can check that out here. 
 
-<img class="box" src="img/THNKS.png" alt="Building a website to say thanks">
+<img  src="img/THNKS.png" alt="Building a website to say thanks">
 
 I'm in no way an authorative figure on design (yet). Naturally, I still have a lot to learn, but this internship was definitely a step in the right direction. As for the future? Well we'll see. Till then have a good day reader!
 

@@ -5,8 +5,8 @@
     <description>This is the portfolio of Justin Farrugia, a product designer based in Malta.</description>
     <link>http://www.justinfarrugia.com/</link>
     <atom:link href="http://www.justinfarrugia.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 21 Dec 2016 09:20:18 +0100</pubDate>
-    <lastBuildDate>Wed, 21 Dec 2016 09:20:18 +0100</lastBuildDate>
+    <pubDate>Mon, 02 Jan 2017 00:34:23 +0100</pubDate>
+    <lastBuildDate>Mon, 02 Jan 2017 00:34:23 +0100</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -236,16 +236,11 @@
 
 &lt;p class=&quot;description&quot;&gt;An eagle&#39;s eye view of just a few of the final iterations that we had tested with a number of people. From Top to Bottom: Splashscreen, Sign-Up flow, Pre-Inspection Steps, Home, Jobs, Contacts&lt;/p&gt;
 
-&lt;h2&gt;How can we make mobile workers&#39; communication channels with the backoffice more clear?&lt;/h2&gt;
+&lt;h2&gt;How can we reimagine Open Dispatch to field agents communication channels with the backoffice more clear?&lt;/h2&gt;
 
-&lt;p&gt;This was &lt;i&gt;the&lt;/i&gt; problem.  Productivity is critical for a mobile workforce to operate at an optimal level. If the backoffice team and the field agents were not communicating well, then that in itself would be a major headache.&lt;/p&gt;
+&lt;p&gt;This was &lt;i&gt;the&lt;/i&gt; problem.  Productivity is critical for a mobile workforce to operate at an optimal level. If the backoffice team and the field agents were not communicating well, then that in itself would be a major headache for the business.&lt;/p&gt;
 
 &lt;p&gt;Thus, the more connected a workforce is to the business, the more productive they become. This problem is important to solve because if a workforce is not productive, then not only may there be considerable revenue decrease from the business end, but business customers might also opt to switch supplier.&lt;/p&gt;
-
-&lt;h2&gt;TL;DR (Here&#39;s what we did, sort of)&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;../img/opendispatch_process.png&quot; alt=&quot;Design process I developed together with the team&quot; /&gt;&lt;/p&gt;
-&lt;p class=&quot;description&quot;&gt;Here&#39;s a very rough overview of the user-centred process I thought we would naturally adopt, or so I thought. Turns out it can never be &lt;i&gt;that&lt;/i&gt; linear&lt;/p&gt;
 
 &lt;h2&gt;Approach&lt;/h2&gt;
 
@@ -253,8 +248,6 @@
 
 &lt;p&gt;&lt;img src=&quot;../img/CurrentIteration.png&quot; alt=&quot;Usability Test for current iteration&quot; /&gt;&lt;/p&gt;
 &lt;p class=&quot;description&quot;&gt;We tried to find out current pain points within the existing solution, so that we could see what was and wasn&#39;t working. As can be seen above there were definitely some problems that we needed to address. &lt;/p&gt;
-
-&lt;p&gt;I believed that the collective mind is better than the singular mind when it comes to collecting, understanding and then synthesizing research. Sharing every last scrap of information we could find with each other, was essential, as it kind of helped us prepare mentally for the ideation process.&lt;/p&gt;
 
 &lt;h2&gt;Getting to know our users &lt;/h2&gt;
 
@@ -265,6 +258,15 @@
 	&lt;li&gt;Members of the backoffice had different ways of how they would handle certain tasks with certain field workers, and as such there was no real consistency in procedure&lt;/li&gt;
 	&lt;li&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;I believed that the collective mind is better than the singular mind when it comes to collecting, understanding and then synthesizing research. Sharing every last scrap of information we could find with each other, was essential, as it kind of helped us prepare mentally for the ideation process.&lt;/p&gt;
+
+&lt;h2&gt;Setting the Design Direction&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;../img/Opendispatch_1.png&quot; alt=&quot;Open Dispatch Sketches&quot; /&gt;
+&lt;img src=&quot;../img/Opendispatch_2.png&quot; alt=&quot;Open Dispatch Sketches&quot; /&gt;
+&lt;img src=&quot;../img/Opendispatch_3.png&quot; alt=&quot;Open Dispatch Sketches&quot; /&gt;
+&lt;img src=&quot;../img/Opendispatch_4.png&quot; alt=&quot;Open Dispatch Sketches&quot; /&gt;&lt;/p&gt;
 
 &lt;h2&gt;Solution&lt;/h2&gt;
 &lt;p&gt;We chose to leverage Google’s Material Design language because as a team we felt that it gives us the comprehensiveness and flexibility we needed, to be able to communicate depth and motion when necessary throughout the different elements and interactions we incorporated into the product.&lt;/p&gt;
@@ -277,9 +279,7 @@
 
 &lt;p&gt;Unfortunately our work never saw the light of day (unless you count the people we had asked to come in for testing). As a result of this I’ve learnt that industries such as this come with a different host of topics, areas and issues that will need to be considered when architecting a solution.&lt;/p&gt;
 
-&lt;p&gt;It was strange. Being exposed to failure this early on in my career was something that I never expected after graduation.&lt;/p&gt;
-
-&lt;p&gt;Pushing the value of design in an area with a lot of friction, whilst mostly being exposed to people designing in the consumer space who were getting much less resistance, was another challenge. But hey, what’s building something without roadblocks?&lt;/p&gt;
+&lt;p&gt;It was strange. Being exposed to failure this early on in my career was something that I never expected after graduation. Pushing the value of design in an area with a lot of friction, whilst mostly being exposed to people designing in the consumer space who were getting much less resistance, was another challenge. But hey, what’s building something without roadblocks?&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 

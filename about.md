@@ -42,7 +42,7 @@ layout: postdefault
  
 <p>I'm hoping that I can find a domain where I can put what I've learnt to the test and continue to pursue innovation for social good. I want to get my hands dirty and tackle problems that go beyond the usual applications sitting on our homescreen begging for our attention, tapping into our endless dopamine reserves.
 </p>
-<img class = "box" src="../img/Baby_Justin.jpg" alt="A younger version of Justin" 
+<img src="../img/Baby_Justin.jpg" alt="A younger version of Justin" 
         style="-webkit-filter: grayscale(100%); /* Chrome, Safari, Opera */
     filter: grayscale(100%);" >
 <p class="description">Always messing around with them computer thingies.</p>

@@ -33,20 +33,16 @@ Unfortunately, most of the work that will be shown here didn't get shipped due t
 Open Dispatch is a fleet management application designed to provide mobile teams such as technicians and drivers an intuitive and unobstructive experience with which to carry out their work. Fleet managers, back office managers and workshop operators are also able to view real-time updates of the progress made by field agents.
 <br>
 
-<img src="../img/opendispatch_overview.png" alt="Open Dispatch Overview">
+<img src="../img/opendispatch_overview.png" alt="Open Dispatch Overview"> 
 
 <p class="description">An eagle's eye view of just a few of the final iterations that we had tested with a number of people. From Top to Bottom: Splashscreen, Sign-Up flow, Pre-Inspection Steps, Home, Jobs, Contacts</p>
 
-<h2>How can we make mobile workers' communication channels with the backoffice more clear?</h2>
+<h2>How can we reimagine Open Dispatch to field agents communication channels with the backoffice more clear?</h2>
 
-This was <i>the</i> problem.  Productivity is critical for a mobile workforce to operate at an optimal level. If the backoffice team and the field agents were not communicating well, then that in itself would be a major headache. 
+This was <i>the</i> problem.  Productivity is critical for a mobile workforce to operate at an optimal level. If the backoffice team and the field agents were not communicating well, then that in itself would be a major headache for the business. 
 
 Thus, the more connected a workforce is to the business, the more productive they become. This problem is important to solve because if a workforce is not productive, then not only may there be considerable revenue decrease from the business end, but business customers might also opt to switch supplier. 
 
-<h2>TL;DR (Here's what we did, sort of)</h2>
-
-<img src="../img/opendispatch_process.png" alt="Design process I developed together with the team">
-<p class="description">Here's a very rough overview of the user-centred process I thought we would naturally adopt, or so I thought. Turns out it can never be <i>that</i> linear</p>
 
 <h2>Approach</h2>
 
@@ -54,9 +50,6 @@ My lack of domain knowledge in this particular space meant that I needed to dive
 
 <img src="../img/CurrentIteration.png" alt="Usability Test for current iteration">
 <p class="description">We tried to find out current pain points within the existing solution, so that we could see what was and wasn't working. As can be seen above there were definitely some problems that we needed to address. </p>
-
-I believed that the collective mind is better than the singular mind when it comes to collecting, understanding and then synthesizing research. Sharing every last scrap of information we could find with each other, was essential, as it kind of helped us prepare mentally for the ideation process.
-
 
 <h2>Getting to know our users </h2>
 
@@ -68,6 +61,14 @@ Through talking to people, I came to realize a few things:
 	<li></li>
 </ul>
 
+I believed that the collective mind is better than the singular mind when it comes to collecting, understanding and then synthesizing research. Sharing every last scrap of information we could find with each other, was essential, as it kind of helped us prepare mentally for the ideation process.
+
+<h2>Setting the Design Direction</h2>
+
+<img src="../img/Opendispatch_1.png" alt="Open Dispatch Sketches">
+<img src="../img/Opendispatch_2.png" alt="Open Dispatch Sketches">
+<img src="../img/Opendispatch_3.png" alt="Open Dispatch Sketches">
+<img src="../img/Opendispatch_4.png" alt="Open Dispatch Sketches">
 
 <h2>Solution</h2>
 We chose to leverage Google’s Material Design language because as a team we felt that it gives us the comprehensiveness and flexibility we needed, to be able to communicate depth and motion when necessary throughout the different elements and interactions we incorporated into the product. 
@@ -80,9 +81,7 @@ We chose to leverage Google’s Material Design language because as a team we fe
 
 Unfortunately our work never saw the light of day (unless you count the people we had asked to come in for testing). As a result of this I've learnt that industries such as this come with a different host of topics, areas and issues that will need to be considered when architecting a solution.
 
-It was strange. Being exposed to failure this early on in my career was something that I never expected after graduation.
-
-Pushing the value of design in an area with a lot of friction, whilst mostly being exposed to people designing in the consumer space who were getting much less resistance, was another challenge. But hey, what's building something without roadblocks?
+It was strange. Being exposed to failure this early on in my career was something that I never expected after graduation. Pushing the value of design in an area with a lot of friction, whilst mostly being exposed to people designing in the consumer space who were getting much less resistance, was another challenge. But hey, what's building something without roadblocks?
 
 <br>
 
