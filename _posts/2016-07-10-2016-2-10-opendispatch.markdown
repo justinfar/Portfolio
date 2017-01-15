@@ -25,6 +25,14 @@ style: translateY(-10px)
 	}
 </style>
 
+
+<div class="box">
+	As you might notice this case study is not finished yet. I try to document my projects in depth as case studies, so it takes awhile to get these up and running. If you'd like to see specific parts of this project, don't hesitate to <a href="mailto:justinmfarrugia@gmail.com" style="color: #02E16B;
+		padding-bottom: 5px;
+		border-bottom: 3px solid #02E16B;">contact me </a>.
+</div>
+
+<br>
 This project took place between July 2016 and October 2016. I was a user experience design intern making up a small team that consisted two senior engineers and an engineering intern. I was responsible for initial research, experience design, visual design and some front-end development. 
 
 Unfortunately, most of the work that will be shown here didn't get shipped due to reasons that I can't publicly disclose. What I can tell you however, is that this was one product that definitely needed some love.
@@ -85,6 +93,8 @@ Unfortunately our work never saw the light of day (unless you count the people w
 It was strange. Being exposed to failure this early on in my career was something that I never expected after graduation. Pushing the value of design in an area with a lot of friction, whilst mostly being exposed to people designing in the consumer space who were getting much less resistance, was another challenge. But hey, what's building something without roadblocks?
 
 <br>
+
+
 
 
 
