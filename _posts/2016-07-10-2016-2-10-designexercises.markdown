@@ -22,7 +22,7 @@ h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure {
     }
 
 	.box {
-		background-color: rgba(16, 133, 249, 0.1);
+		background-color: #f5f5f5;
 		color: #FFCB26;
 		padding: 30px;
 		border: 3px solid #FFCB26;

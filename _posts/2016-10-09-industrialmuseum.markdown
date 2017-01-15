@@ -43,12 +43,8 @@ style: translateY(15px)
 
 
 <h2>A necessary redesign? Pretty bold statement there.</h2>
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit possimus provident deleniti eaque cumque consequuntur ducimus numquam animi harum quos, facilis, quia repellendus quasi, non esse iste fugit dicta quod.
 
 This being the industry that is, the team and I formulated a hypothesis people usually visit a museum website to see imagery therefore the ratio of information to visual imagery had to reflect that.
 
-We *think* travelers will trust listings more if we improve the visual experience for listings and better equip hosts to showcase their homes.
-
-We will be successful if we can encourage more travelers to book rooms, and for them to feel more comfortable doing so without compromising the host experience. We are limited by the fact that our hosts are not expert curators (most don’t even have professional photos of their homes), so we‘re probably going to need to hire photographers for them at least.
 
 
