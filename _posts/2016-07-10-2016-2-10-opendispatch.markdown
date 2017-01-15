@@ -59,7 +59,6 @@ Through talking to people, I came to realize a few things:
 <ul>
 	<li>Members of the backoffice had different ways of how they would handle certain tasks with certain field workers, and as such there was no real consistency in procedure</li>
 	<li>Sometimes tasks were too ill-informed to be fully completed. This was true for both sides of the coin, as field workers sometimes didn’t have enough information or might have missed a step when marking a job as completed.</li>
-	<li>Sometimes tasks were too ill-informed to be fully completed. This was true for both sides of the coin, as field workers sometimes didn’t have enough information or might have missed a step when marking a job as completed.</li>
 	<li>This led to backoffice staff misperceiving task completion and having to make calls which made them less productive or responsive to procedure/emergency related calls. </li>
 </ul>
 
