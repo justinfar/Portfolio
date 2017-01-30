@@ -32,10 +32,10 @@ layout: default
                                 <li class="tag">{{ tag }}</li>
                                 {% endfor %}
                             </ul>
-                            <h2 class="title">
+                            <h2 class="title" style="color: {{ post.title--color }};">
                     {{ post.title }}
                 </h2>
-                            <p style="color: white;">{{ post.description }}</p>
+                            <p style="color: {{ post.postdesc--color }} white;">{{ post.description }}</p>
 
                             <!-- Read More -->
                             {% if post.status %}

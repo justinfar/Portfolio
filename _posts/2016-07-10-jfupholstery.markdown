@@ -1,16 +1,18 @@
 ---
-title: 'How a simple website turned into an entire system: Building my dad a presence.'
+title: 'A simple website for my dad: Building a thoughtful & intentional presence.'
 date: 2016-07-10 23:50:26 +02:00
 categories:
 - work
 tags:
-- systems
+- development
 - identity
 - ux
 description: This was my Dad's birthday gift, he was pretty happy about it.
 image: jfupholstery.png
 layout: post
-color: "#1085F9"
+color: "#FBFBFB"
+title--color: "#1085F9"
+postdesc--color: "#191d1f"
 link: http://www.jfupholstery.org
 linkdesc: Visit the site here →
 style: translateY(20px)
