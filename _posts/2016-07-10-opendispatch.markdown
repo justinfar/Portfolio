@@ -52,7 +52,7 @@ role: Product Design and Prototyping
 
 <section class="feature__context" style="margin-bottom: -70px; background-color:#02E16B;">
 <div class="wrapper">
-<div class="col-sm-12 col-md-7 white">
+<div class="col-sm-8 white">
 <h2>
 	How can we make mobile workers’ communication channels with the backoffice more clear?
 </h2>
@@ -76,7 +76,7 @@ role: Product Design and Prototyping
 
 <section class="feature__context">
 <div class="wrapper">
-<div class="col-sm-12 col-md-7">
+<div class="col-sm-8">
 <h2 style="color: #23E16C;">A frictionless and helpful task flow designed for productivity</h2>
 Productivity is critical for a mobile workforce to operate at an optimal level. If the backoffice team and the field agents were not communicating well, then that in itself would be a major headache. <strong>Thus, the more connected a workforce is to the business, the more productive they become.</strong>
 
@@ -109,7 +109,7 @@ Productivity is critical for a mobile workforce to operate at an optimal level. 
 
 <section class="feature__context">
 <div class="wrapper">
-<div class="col-sm-12 col-md-7">
+<div class="col-sm-8">
 	<h2 style="color: #23E16C;">
 		Understanding the people and the space 
 	</h2>
@@ -150,7 +150,7 @@ Productivity is critical for a mobile workforce to operate at an optimal level. 
 
 <section class="feature__context">
 <div class="wrapper">
-<div class="col-sm-12 col-md-7">
+<div class="col-sm-8">
 <h2 style="color: #23E16C;">Ideation</h2>
 <p>One thing that we agreed on is that we knew that whatever we put out there, we weren’t going to get it right the first try. And we were okay with that. That said, we were going to try our darndest to build something that could give us value when testing.</p>
 

@@ -63,7 +63,7 @@ role: Product Design, Strategy and Testing
 </article>
 </div>
 </div>
-<img src="img/briiz_process_2.png" alt="Some Pink Sticky Notes" style="margin-top: -60px; border: none;">
+<img src="img/briiz_process_2.png" alt="Some Pink Sticky Notes" style="margin-top: -60px; border: none; width: 100%;">
 <div class="wrapper">
 <figcaption>Sticky notes that made sense when we were writing them down, but now look back in disarray thinking “why did we even consider that”. All part of the process.</figcaption>
 </div>
@@ -190,6 +190,9 @@ We needed to humanize the research and have something or rather, someone, we can
 
 </div>
 </div>
+
+<div class="wrapper">
+
 <div class="col-sm-4">
 	<iframe src="//giphy.com/embed/xTiN0xEVxS3nNYqF5m" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 </div>
@@ -202,6 +205,9 @@ We needed to humanize the research and have something or rather, someone, we can
 <div class="col-sm-">
 	<iframe src="//giphy.com/embed/xTiN0Cb4PfiZbYkmQg" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 </div>
+
+</div>
+
 <div class="wrapper">
 <figcaption>We ended up using UserTesting.com to find and recruit participants that fit our criteria and whilst looking at these tests, we were just casually headbanging against the desk asking each other “how did we miss that?" and feeling so sorry for the people that had to go through the iterations.</figcaption>
 </div>
