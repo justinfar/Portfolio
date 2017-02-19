@@ -29,10 +29,9 @@ role: Research, Testing, Content Strategy, User Experience, Interface Design, Fr
 </style>
 
 <div class="col-xs-4">
-
 <iframe src="//giphy.com/embed/l0HeaYLJ1dyKSuhBm" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-<figcaption>You can visit the live site <a href="http://www.jfupholstery.org">here</a>.</figcaption>
 </div>
+<figcaption>You can visit the live site <a href="http://www.jfupholstery.org">here</a>.</figcaption>
 
 <h2>Cool, new sideproject. So, what’s the problem?</h2>
 
