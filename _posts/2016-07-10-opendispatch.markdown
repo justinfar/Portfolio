@@ -14,7 +14,6 @@ layout: post
 color: "#02E16B"
 title--color: "#FFF"
 accent: "#02E16B"
-status: Me versus NDA
 style: translateY(-5px)
 context: This project took place between July 2016 and October 2016. I was a user experience design intern making up a small team that consisted two senior engineers and an engineering intern. I was responsible for initial research, experience design, visual design and some front-end development. <br /><br />Unfortunately, most of the work that will be shown here didn’t get shipped due to reasons that I can’t go too much into detail in. What I can tell you however, is that this was one product that definitely needed some love.
 team: Mark Emerson, Allan Gauci, Alessio Palmigiano, Myself
