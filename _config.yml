@@ -1,4 +1,12 @@
-name: Your New Jekyll Site
+title: Justin Farrugia | Designer
+email: justinmfarrugia@gmail.com
+description: This is the portfolio of Justin Farrugia, a product designer based in Malta.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://www.justinfarrugia.com" # the base hostname & protocol for your site
+twitter_username: justinmfarrugia
+github_username:  justinmarkfarrugia
+permalink: "/:title"
 markdown: redcarpet
 highlighter: rouge # or pygments or null
 exclude: ["node_modules", "gulpfile.js", "package.json"]
+
