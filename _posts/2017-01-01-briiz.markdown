@@ -63,7 +63,7 @@ role: Product Design, Strategy and Testing
 </article>
 </div>
 </div>
-<img src="img/briiz_process_2.png" alt="Some Pink Sticky Notes" style="margin-top: -60px; border: none; width: 100%;">
+<img src="img/briiz_process_2.png" alt="Some Pink Sticky Notes" style="width: 100%; margin-top: -60px; border: none;">
 <div class="wrapper">
 <figcaption>Sticky notes that made sense when we were writing them down, but now look back in disarray thinking “why did we even consider that”. All part of the process.</figcaption>
 </div>
@@ -151,7 +151,7 @@ We needed to humanize the research and have something or rather, someone, we can
 </div>
 </div>
 <img src="img/briiz_solution1.png" alt="Briiz Solutions" style="border: none; width: 100%;" style="margin-top: -30px;">
-<img src="img/briiz_solution2.png" alt="Briiz Solutionst" style="border: none; width: 100%;">
+<img src="img/briiz_solution2.png" alt="Briiz Solutions" style="border: none; width: 100%;">
 <div class="post wrapper">
 <div class="col-sm-8">
 <article class="post-content">
