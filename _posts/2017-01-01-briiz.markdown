@@ -12,7 +12,6 @@ image: Briiz_image.png
 permalink: briiz.html
 layout: post
 color: "#3296FF"
-status: Early stages of development
 title--color: "#FFF"
 accent: "#3296FF"
 context: During my time at Anchovy, a digital marketing agency in Malta, I had the opportunity to work on Briiz, a startup aiming to disrupt the local cleaning space. With the company scaling way faster than initially expected, the booking engine that was being used had outgrown its usefulness. It wasn’t a Briiz (see what I did there?).
