@@ -1,0 +1,147 @@
+.post-list {
+    padding-left: 0;
+    margin: 0 !important;
+    list-style: none;
+}
+
+.post-meta {
+    font-size: $base-font-size;;
+    color: $text-color;
+    font-family: $base-font-family;
+}
+
+.post-link {
+    display: block;
+    font-size: 24px;
+}
+
+.post-title {
+    font-size: $headings-size;
+    line-height: 1.2;
+    padding: 100px 0;
+    letter-spacing: -1.8px;
+    text-align: left;
+
+    @include media-query($on-laptop) {
+        font-size: 36px;
+        margin-top: 25px;
+    }
+
+    @include media-query($on-palm) {       
+        font-size: 2em;
+        text-align: left;
+        padding: 50px 0;
+    }
+}
+
+.post-description {
+    padding: 10% 0;
+    font-family: $base-font-family;
+     @include media-query($on-palm) {
+        padding: 5% 5%;
+    }
+
+     @include media-query($on-palm * 1.2) {
+        padding: 10% 0 5%;
+        margin-bottom: 10px;
+    }
+   
+}
+
+.post-desc {
+    padding-right: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+div.morework {
+    @include media-query($on-palm * 0.8) {
+        margin: 10px auto;
+    }
+   
+}
+
+.post-image {
+    img {
+        border: none;
+        margin: 0;
+        padding-top: 5%;
+        transform: translate(0px,30px);
+    @include media-query($on-palm) {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }    
+    }
+
+    div & {
+        @include media-query($on-palm) {
+        padding-left: 10px;
+        padding-right: 10px;
+        }
+
+        @include media-query($on-palm * 1.3) {
+        padding-left: 25px;
+        padding-right: 25px;
+        margin-top: -55px;
+        }
+
+    }
+}
+
+.post-content {
+    // margin-bottom: $spacing-unit;
+
+    h2 {
+        font-size: 32px;
+
+        @include media-query($on-laptop) {
+            font-size: 28px;
+        }
+    }
+
+    h3 {
+        font-size: 26px;
+
+        @include media-query($on-laptop) {
+            font-size: 22px;
+        }
+    }
+
+    h4 {
+        font-size: 20px;
+
+        @include media-query($on-laptop) {
+            font-size: 18px;
+        }
+    }
+}
+
+div.post {
+    > div.row {
+            @include media-query($on-laptop) {
+                max-height: 530px !important;
+                overflow-y: hidden;
+            }
+        } 
+}
+
+hr {
+    display: none;
+}
+
+// Post-Specific 
+
+.hero__header {
+    padding-bottom: 30px;
+    text-align: center;
+    border-bottom: 1px solid lighten($text-color, 70%);
+}
+
+.feature__context {
+    background-color: $secondary-grey;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    margin-bottom: 60px;
+}

@@ -1,0 +1,23 @@
+// @mixin link_style {
+//     &:hover {
+//         cursor: pointer;
+//         color: $text-color !important;
+//         &::after {
+//             width: auto;
+//             height: 15px;
+//             transition: .2s;
+//             color: $brand-color;
+//         }
+//     }
+// }
+
+@mixin media-query($device) {
+    @media screen and (max-width: $device) {
+    }
+}
+
+@mixin media-query($device) {
+    @media screen and (max-width: $device) {
+        @content;
+    }
+}

@@ -1,19 +1,12 @@
 <header class="site-header">
     <div class="wrapper">
-        <!-- 
-    <nav class="site-nav row">
-        <ul>
-            <li><a href="/" {% if page.url == "/" %} class="active" {% endif %}>Home</a></li>
-            <li><a href="/blog.html" {% if page.url == "/blog.html" %} class="active" {% endif %}>Blog</a></li>
-        </ul>
-    </nav> -->
         <nav class="site-nav row" {% if page.url=="/" %} style="border-bottom: none;"{% endif %}>
             <div class="col-xs-6 start-xs">
-                <a href="{{ site.baseurl }}/" {% if page.url=="/" %} class="hidden" {% else %} class="backhome" {% endif %}> ← Back to Work</a>
+                <a href="{{ site.baseurl }}/" {% if page.url=="/" %} class="hidden" {% elsif post.layout == post %} class="backhome white" {% else %} class="backhome" {% endif %}> Back to Work</a>
             </div>
-            <div class="col-xs-6 end-xs">
+            <div class="col-xs-6 end-xs hidden-sm-down hidden-sm">
                 <a href="#" class="menu-icon end-lg end-sm">
-                    <a href="https://twitter.com/justinmfarrugia" class="twitter_nav">@justinmfarrugia</a>
+                    <a href="https://twitter.com/justinmfarrugia" class="twitter_nav" {% if post.layout == post %} style="color: white;" {% elsif post.description contains "Dad" %} style="color:{{ post.title--color }}" {% endif %}>@justinmfarrugia</a>
                 </a>
             </div>
         </nav>

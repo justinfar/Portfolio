@@ -1,0 +1,60 @@
+// Typography
+@import  	"typography/typography";
+@import 	"media";
+@import 	"lists";
+@import 	"layout";
+@import 	"forms";
+@import 	"misc";
+@import 	"header";
+@import 	"footer";
+@import 	"post";
+
+// General
+html {
+     border-collapse: continue;
+     padding: 0rem 0rem;
+     border-bottom: 12px solid $brand-color;
+}
+
+@include media-query($on-palm) {
+    .wrapper {
+        padding-right: $spacing-unit / 2;
+        padding-left: $spacing-unit / 2;
+    }
+}
+
+::selection {
+    background-color: $brand-color;
+    opacity: .2;
+    color: $text-color;
+}
+
+.intro {
+        margin-bottom: 40px;
+            h2::after {
+                content: 'DESIGNER';
+                display: block;
+                color: transparent !important;
+                position: absolute;
+                z-index: -1;
+                margin-top: -23px;
+                height: 15px;
+                background: $brand-color;
+            }
+        & a[href="mailto:justinmfarrugia@gmail.com"]{
+            font-weight: $bold;
+            font-family: MaisonNeue;
+            // content: 'justinmfarrugia@gmail.com';
+            // display: block;
+            // color: transparent !important;
+            // position: absolute;
+            // z-index: -1;
+            // margin-top: -14px;
+            // height: 10px;
+            // background: $brand-color;
+        }
+
+        p {
+            color: $grey-color;
+        }
+    }

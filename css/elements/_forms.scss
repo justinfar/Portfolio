@@ -1,0 +1,61 @@
+section {
+    h3 {
+        font-weight: normal;
+        line-height: 1.2;
+    }
+    &.subscribe {
+        background-color: $text-color;
+        padding: 4% 0px;
+        h3, label, span {
+            color: white;
+        }
+    }
+}
+
+#mc_embed_signup {
+    clear: left;
+    width: 100%;
+}
+
+input {
+    font-size: $base-font-size / 1.1;
+    font-family: $base-font-family;
+    background: #FBFBFB;
+    border-radius: 2px;
+    display: inline-block;
+    padding: 10px;
+    margin: 0 5px;
+    max-width: 180px;
+    
+    &[type="text"], &[type="email"], &[type="button"] {
+        @include media-query($on-palm) {  
+            display: block;
+            margin: 15px auto;
+        }
+    }
+
+    &::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+        font-family: $headings-font-family;
+    }
+
+    &:not(.button) {
+        border: 1px solid #F0F0F0;
+    }
+
+    &.button {
+        background: $brand-color;
+        height: 47px;
+        text-align: center;
+        margin: 0 auto;
+        padding: 0 3%;
+        font-family: $headings-font-family;
+        border: none;
+        color: white;
+        border-radius: 2px;
+        &:hover {
+            background: darken($brand-color, 10%);
+            transition: 0.4s;
+            cursor: pointer;
+        }
+    }
+}

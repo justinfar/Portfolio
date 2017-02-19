@@ -1,0 +1,47 @@
+h1, h2, h3, h4, h5, h6 {
+    font-weight: $heading-font-weight;
+    font-family: $headings-font-family;
+}
+
+h1{
+    font-size: $headings-size;
+    margin: 0;    
+    &.nameintro {
+        margin-bottom: -20px;
+        font-weight: 500;
+        ::after {
+            content: '(f-aa-r-oo-j-uh)';
+            font-size: .35em;
+            margin-left: 10px;
+        }
+     @include media-query($on-palm) {
+        line-height: 1.1;
+        font-size: 3em;
+        margin-bottom: 2%;
+        transition: .2s;
+    }
+    }
+
+    @extend .nameintro;
+}
+
+h2 {
+    font-size: 30px;
+    line-height: 1.5;
+
+    @include media-query($on-palm) {
+        padding-bottom: 25px;
+    }
+
+    &.title {
+        font-weight: normal;
+        line-height: 1.3;
+
+        @include media-query($on-palm) {
+            padding: 10px 0 20px;
+            font-size: 115%;
+        }
+    }
+
+}
+

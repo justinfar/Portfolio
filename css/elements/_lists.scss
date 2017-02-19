@@ -1,0 +1,33 @@
+li {
+    > ul,
+    > ol {
+         margin-bottom: 0;
+    }
+
+    // &.project{
+    //     max-height: 500px;
+    // }
+    
+}
+
+ul {
+    & .tags{
+        padding-left: 0 !important; //Overriding browser agent stylesheet
+        color: #191d1f; 
+        opacity: 0.6;        
+    }
+}
+
+.tags li {
+    padding: 2px 15px 5px 0px;
+    position: relative;
+    display: inline-block;
+    font-variant: small-caps;
+    font-size: $small-font-size *1.3;
+    font-family: $headings-font-family;
+    &:before {
+        content: "#";
+        font-variant: small-caps;
+        font-size: $small-font-size;
+    }
+}

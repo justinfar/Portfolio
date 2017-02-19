@@ -1,0 +1,25 @@
+.site-header {
+    min-height: 56px;
+    // Positioning context for the mobile navigation icon
+    position: relative;
+    font-size: 15px;
+    padding-top: 30px;
+}
+
+.site-nav {
+    font-family: MaisonNeue;
+    // float: right;
+    line-height: 56px;
+    margin-top: 1.5em;
+
+    .menu-icon {
+        display: none;
+    }
+
+    &.row {
+        border-bottom: 1px solid #f3f3f3;
+        @include media-query($on-palm) {       
+            border: none;
+        }
+    }
+}

@@ -3,71 +3,74 @@ layout: default
 ---
 
 <div class="home">
-    <div class="row intro">
-        <div class="col-xs-12">
-            <h1>Justin Farrugia</h1>
-            <h2>DESIGNER</h2>
-            <span class="page-heading"></span>
+<!-- Intro -->
+    <section class="intro">
+        <div class="row intro">
+            <div class="col-xs-12">
+                <h1 class="nameintro">Justin Farrugia</h1>
+            </div>
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <p>
+                    I’m a designer, I like to dabble in code and want to help people. I'm fascinated by design systems, and am currently looking for mentors to further my learning. Learn more about me <a href="/about.html">here</a>.
+                </p>
+                <a class="email" href="mailto:justinmfarrugia@gmail.com">justinmfarrugia@gmail.com</a>
+                <!-- <span class="caption">You can also use this <a href="/contact">contact form.</a></span> -->
+            </div>
         </div>
-        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-            <p>
-                I’m a designer working at <a href="http://www.anchovyinc.com">Anchovy</a>, a digital marketing agency based in the sunny island of Malta. Experience design is my cup of tea but I'm comfortable dabbling around in code. <span>I'm busy writing case studies for the projects below, but would love to hear from you if you want to build something awesome together.</span> You can get in touch via this email.
-            </p>
-            <a class="email" href="mailto:justinmfarrugia@gmail.com">justinmfarrugia@gmail.com</a>
-            <span><a href="../../about.html">About me →</a></span>
-        </div>
-    </div>
-    <hr>
-    <!-- Post List -->
-    <div class="post">
-        <ul class="post-list">
-            <!-- ============================================= -->
-            {% for post in site.categories.work %}
-            <li class="project">
-                <div class="row" style="background-color: {{ post.color }}; color: white; border-radius: 2px; overflow-y: hidden;">
-                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12" style="display: flex; align-items: center; justify-content: center;">
-                        <div class="post-description">
-                            <ul class="tags" style="color: #191d1f; opacity: 0.6;">
-                                {% for tag in post.tags %}
-                                <li class="tag">{{ tag }}</li>
-                                {% endfor %}
-                            </ul>
-                            <h2 class="title" style="color: {{ post.title--color }};">
-                    {{ post.title }}
-                </h2>
-                            <p style="color: {{ post.postdesc--color }} white;">{{ post.description }}</p>
+    </section>
+<!-- Post List -->
+</div>
 
-                            <!-- Read More -->
-                            {% if post.status %}
-                            <p style="color: #191d1f; opacity: 0.6;">{{ post.status }}</p>
-                            {% elsif post.link %}
-                            <a href="{{ post.link }}" style="color: #191d1f; opacity: 0.6;">{{ post.linkdesc }}</a>
-                            {% else %}
-                            <a class="readmore" href="{{ post.url | prepend: site.baseurl }}" style="color: #191d1f; opacity: 0.6;">Read Case Study </a> 
-                            {% endif %}
+</div> <!-- Close Wrapper -->
 
-                           <!--  {% case condition %}
-                                {% when post.status == true %}
-                                <p style="color: #191d1f; opacity: 0.6;">{{ post.status }}</p>
-                                {% when post.link == true  %}
-                                <a href="{{ post.link }}" style="color: #191d1f; opacity: 0.6;">{{ post.status }}</a>
-                                {% else %}
-                                <a class="readmore" href="{{ post.url | prepend: site.baseurl }}" style="color: #191d1f; opacity: 0.6;">Read Case Study </a>
-                            {% endcase %} -->
-
+    <section class="work ">
+        <div class="post">
+            <ul class="post-list">
+                <!-- ============================================= -->
+                {% for post in site.categories.work %}
+                <li class="project">
+                    <div class="row" style="background-color: {{ post.color }}; color: white; overflow-y: hidden;">
+                        <div class="wrapper">
+                            <div class="row">
+                                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 post-desc">
+                                    <div class="post-description">
+                                        <ul class="tags">
+                                            {% for tag in post.tags %}
+                                            <li class="tag">{{ tag }}</li>
+                                            {% endfor %}
+                                        </ul>
+                                        <h2 class="title" style="color: {{ post.title--color }};">{{ post.title }}</h2>
+                                        <p style="color: {{ post.postdesc--color }} white;">{{ post.description }}</p>
+                                        <!-- Read More -->
+                                        {% if post.status %}
+                                        <p style="color: #191d1f; opacity: 0.6;">{{ post.status }}</p>
+                                        {% elsif post.link %}
+                                        <a class="readmore" href="{{ post.link }}">{{ post.linkdesc }}</a> {% else %}
+                                        <a class="readmore" href="{{ post.url | prepend: site.baseurl }}">Read Case Study </a> {% endif %}
+                                        <!--  {% case condition %}
+                                            {% when post.status == true %}
+                                            <p style="color: #191d1f; opacity: 0.6;">{{ post.status }}</p>
+                                            {% when post.link == true  %}
+                                            <a href="{{ post.link }}" style="color: #191d1f; opacity: 0.6;">{{ post.status }}</a>
+                                            {% else %}
+                                            <a class="readmore" href="{{ post.url | prepend: site.baseurl }}" style="color: #191d1f; opacity: 0.6;">Read Case Study </a>
+                                        {% endcase %} -->
+                                    </div>
+                                </div>
+                                <!-- Image -->
+                                <div class="offset-md-1 col-lg-5 col-md-5 col-sm-5 col-xs-12 post-image">
+                                    <a href="{{ post.url | prepend: site.baseurl }}"><img src="/img/{{ post.image }}" style="margin: 0; transform: {{ post.style }};">
+                                    </a>
+                                </div>
+                            </div>
                         </div>
                     </div>
-                    <!-- Image -->
-                    <div class="col-lg-5 col-md-5 col-sm-5 post-image" style="display: flex; align-items: center; justify-content: center; ">
-                        <a href="{{ post.url | prepend: site.baseurl }}"><img src="/img/{{ post.image }}" style="margin: 0; transform: {{ post.style }};">
-                        </a>
-                    </div>
-                </div>
-            </li>
-            {% endfor %}
-        </ul>
-    </div>
-</div>
+                </li>
+                {% endfor %}
+            </ul>
+        </div>
+    </section>
+
 
 
 

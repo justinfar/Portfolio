@@ -1,0 +1,388 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#FEBB27" />
+  <title>Overhauling a booking engine for price transparency and a cleaner home.</title>
+  <meta name="description" content="First time in a sprint. Mistakes were made, debates were had and many a sticky notes were used profusely.">
+  <meta name="author" content="Justin Farrugia">
+  <meta name="keywords" content="HTML,CSS,JavaScript,Design,UX Design,Product Design,Malta,Web Designer,Developer,Freelance">
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/flexboxgrid/6.3.1/flexboxgrid.min.css" type="text/css" >
+  <link rel="stylesheet" href="/css/main.min.css">
+  <link rel="canonical" href="/briiz.html">
+  <link rel="alternate" type="application/rss+xml" title="" href="/feed.xml">
+  <script src="https://use.fontawesome.com/1c8add0ba0.js"></script>
+  
+<!-- Hotjar Tracking Code for www.justinfarrugia.com -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:322245,hjsv:5};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+
+<!-- Google Analytics Tracking for www.justinfarrugia.com -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-89949794-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+</head>
+
+
+<!-- Hero Section -->
+    <section class="hero__header"     style="background: #3296FF; margin-top: 0;"      >
+    <!-- Header Section -->    
+        <header class="site-header">
+    <div class="wrapper">
+        <nav class="site-nav row" >
+            <div class="col-xs-6 start-xs">
+                <a href="/"  class="backhome white" > Back to Work</a>
+            </div>
+            <div class="col-xs-6 end-xs hidden-sm-down hidden-sm">
+                <a href="#" class="menu-icon end-lg end-sm">
+                    <a href="https://twitter.com/justinmfarrugia" class="twitter_nav"  style="color: white;" >@justinmfarrugia</a>
+                </a>
+            </div>
+        </nav>
+    </div>
+</header>
+
+
+
+            <header class="post-header wrapper">
+                <div class="col-lg-7 col-md-9 col-sm-12">
+                    <h1 class="post-title" itemprop="name headline"     style="color: white;"      >Overhauling a booking engine for price transparency and a cleaner home.</h1>
+                </div>
+            </header>
+        
+    </section>
+
+<!-- Hero Section -->
+<section class="feature__context">
+<div class="wrapper">
+    
+    
+        <div class="row">
+    
+            <div class="col-sm-7">
+                <h2     style="color: #3296FF;"      >Some context and a problem</h2>
+                        <p>During my time at Anchovy, a digital marketing agency in Malta, I had the opportunity to work on Briiz, a startup aiming to disrupt the local cleaning space. With the company scaling way faster than initially expected, the booking engine that was being used had outgrown its usefulness. It wasn’t a Briiz (see what I did there?).</p>            
+            </div>
+
+            <div class="col-sm-4 col-sm-offset-1">
+            <h2     style="color: #3296FF;"      >Team</h2>
+               <p>Marvin Eilander, Jimmy Jansen van't Land, Myself</p>  
+                        
+            <h2     style="color: #3296FF;"      ">Role</h2>
+               <p>Product Design, Strategy and Testing</p>  
+           </div>
+        </div>
+    
+    
+</div>
+</section>
+
+<div class="post wrapper">
+<!-- Content Section -->
+<div class="col-sm-8">
+    <article class="post-content" itemprop="articleBody">
+        <!-- Image Section -->
+
+<p></article>
+</div>
+</div>
+<img src="img/briiz_overview.png" alt="Some of the final iterations of the booking engine" style="border: none; width: 100%;">
+<div class="wrapper">
+<figcaption>First time in a sprint. Mistakes were made, debates were had and many a sticky notes were used profusely.</figcaption>
+</div>
+<div class="post wrapper">
+<div class="col-sm-8">
+<article class="post-content"></p>
+
+<h2>What really is<em> the</em> problem?</h2>
+
+<p>Before we huddled up and decided to dive in, we tried to channel our inquistive selves and put on our detective hats. Why was this a problem? Was this really worth solving? What’s the goal here? Who are we designing for? What do they really need? Let’s hypothesize. </p>
+
+<p>Well, previously, people who wanted to have their house cleaned would complete a form. Unsurprisingly this didn’t address most of the concerns people had which through listening in on customer service calls, and asking questions were <strong style="color: #1085F9;">Price transparency</strong> and <strong style="color: #1085F9;">Possession Safety</strong>. This problem was critical to solve not just for the sake of scale, but also to credibilize the experience and more importantly, tend to existing painpoints.</p>
+
+<!-- ////////////////// -->
+
+<!-- Hypothesis -->
+
+<p></article>
+</div>
+</div></p>
+
+<section class="feature__context" style="background-color: #3296FF;">
+<div class="wrapper">
+<div class="col-sm-8">
+<h2 class="white">How can we design a booking engine, that gives people peace of mind whilst also letting them know what they’re paying for?</h2>
+<p class="white">Having this statement gave us a clear motive, a tension to resolve. Naturally, the goal now was to explore (and exhaust) as many iterations and ways as we could to try and solve this problem.</p>
+</div>
+</div>
+</section>
+
+<p></div>
+<div class="post wrapper">
+<div class="col-sm-8">
+<article class="post-content"></p>
+
+<!-- Image Section -->
+
+<p></article>
+</div>
+</div>
+<img src="img/briiz_process_2.png" alt="Some Pink Sticky Notes" style="margin-top: -60px; border: none;">
+<div class="wrapper">
+<figcaption>Sticky notes that made sense when we were writing them down, but now look back in disarray thinking “why did we even consider that”. All part of the process.</figcaption>
+</div>
+<div class="post wrapper">
+<div class="col-sm-8">
+<article class="post-content"></p>
+
+<!-- ////////////////// -->
+
+<h2>The Approach</h2>
+
+<p>We made it a point that we weren’t going to reinvent the wheel, because frankly that’s counter intuitive. We wanted to get an idea, to audit what was out there and know what the expectations were for this type of experience.</p>
+
+<p><img src="img/briiz_competition.png" alt="Briiz Process Sticky Notes" style="border: none;">
+<figcaption>We weren’t just looking at direct competition, we figured we could also learn from other people that had similar goals but perhaps a different service.</figcaption></p>
+
+<p>Following up on the qualitative data we had gathered along with the other stuff that we had found, we decided to build some personas. Now personas sometimes focus on attributes not on causality, so we needed to make sure of two things.   
+<ul>
+    <li>That this didn’t happen</li>
+    <li>To turn what we’ve found into a point of reference</li>
+</ul></p>
+
+<p>We needed to humanize the research and have something or rather, someone, we can bring into discussions.</p>
+
+<p><img src="img/briiz__personas.png" alt="An example of personas" class="center m-45" style="border: none;"></p>
+
+<p>The stakeholders in this space included a diverse group of people. Looking at the existing user base we found that there were certain causes which led people to seek for such a service. Being time-poor (career-oriented), owning a mid-sized home or townhouse, reasonably mid-to-high income and having a child/children were amongst some of the causes.</p>
+
+<p>I wanted to make sure that the team got a good sense of the actual steps that people have to go through to accomplish their goal. So, we visualized it and took down notes based on what we hypothesized was getting in the way, and what could be done to help them progress.</p>
+
+<div class="box">
+    Bored with all these words? Let’s go <a href="#goodstuff" style="color: #3296FF;">see the good stuff</a> shall we?
+</div>
+
+<p>This helped us prevent any scope creep and also, more importantly, stay focused on who we’re designing for and know what kind of value (if any) a specific feature could deliver at a particular step.</p>
+
+<p><img src="img/briiz_process4.png" alt="Briiz Process Sticky Notes"></p>
+
+<figcaption>This was basically the guiding light for our sprint, we minimized it, added steps, removed them, added them again and just debated for hours at a time as to what was actually needed from both the business & the person seeking the service.</figcaption>
+
+<p>This very roughly drawn customer journey map helped us see where the actual painpoints were in the previous manifestation of the interface. As the caption states, there was a lot of debate as to whether a step should be taken down completely or not.   </p>
+
+<p>For example, Jimmy and I had agreed that ‘Entering a ZIP code’, as a first step, didn’t really give enough context to the service and felt like we were asking for too much and giving too little in return. It was Marvin who pointed out the technological constraint we had since the ZIP Code determined if a service can be offered or not. </p>
+
+<!-- Use Cases -->
+
+<p></article>
+</div>
+</div></p>
+
+<section class="feature__context">
+<div class="wrapper">
+<div class="col-sm-12 col-md-7">
+    <h2 style="color: #3296FF;">
+        Defining context of use 
+    </h2>
+<p>Not everyone shares our excitement about the company. To the people out there, outside the bubble, Briiz was just another startup that wanted your hard-earned money. We got that, and as such we wanted to explore people’s story as if it were ours.</p>
+
+<p>Seeing as it was pretty much the most comprehensive, I’ll talk about the home cleaning service. We categorized the scenarios in which the service is likely to be used in three scenarios: 
+</p>
+
+<p>That basically translates to having twenty browser tabs open, chat logs, complaints, quick semi-structured interviews, research articles, blogs a plenty and whatever else I could get my hands on to inform both myself and the product decisions I would eventually make.</p>
+
+<ul>
+    <li><strong>Emergency cleaning</strong> - Service likely to be used for the same day or the next day, where it’s important to provide the service as soon as possible, because it’s very likely that they will need this service immediately (Minimum of 4 hours in advance) 
+    </li>
+    <li><strong>Non-emergency cleaning</strong> - Service likely to be used to the next day or the upcoming week, where there is not necessarily a rush for the service to be provided immediately. 
+    </li>
+    <li><strong>Recurring cleaning </strong>- Service likely to be used weekly / biweekly. Most often there will be a fixed day every week/two weeks when this cleaning will occur.</li>
+</ul>
+</div>
+</div>
+</section>
+
+<p></div>
+<div class="post wrapper">
+<div class="col-sm-8">
+<article class="post-content"></p>
+
+<h2>Solution</h2>
+
+<p>We iterated intensely with the time that we had for the booking engine form. In the end, we decided to go with the iterations shown below. </p>
+
+<!-- Image Section -->
+
+<p></article>
+</div>
+</div>
+<img src="img/briiz_solution1.png" alt="Briiz Solutions" style="border: none; width: 100%;" style="margin-top: -30px;">
+<img src="img/briiz_solution2.png" alt="Briiz Solutionst" style="border: none; width: 100%;">
+<div class="post wrapper">
+<div class="col-sm-8">
+<article class="post-content"></p>
+
+<p>Things could have got real messy here. I used the traditional approach which is to start building symbols and chuck everything the team had done at the end of the day, into one file named ‘BriizMasterFile.sketch’. This had its pros and cons, but hey it worked for the time we had. </p>
+
+<!-- Image Section -->
+
+<p></article>
+</div>
+</div>
+<img src="img/briiz__sketches.png" alt="Briiz Solutions" style="border: none; width: 100%;" style="margin-top: -30px;">
+<figcaption>These are just a few of the sketches that we had done where we challenged ourselves to come up with as many solutions as possible in short periods of time like 10 minutes or 15 at most. Constraining ourselves actually turned out enhancing our output and explore directions which we didn’t think were conceivable.</figcaption></p>
+
+<p><img src="/img/briiz__userflows.png" alt="Briiz User Flows" style="border: none; width: 100%;" class="m-20">
+<figcaption>This mess over here is basically an overview view of what we did and the steps involved for each of the four services. A clearer version of this can be seen in the <a href="https://invis.io/M5AISUUQX" style="color:#3296FF;">Invision prototype</a> which we used to test with people. </figcaption></p>
+
+<div class="post wrapper">
+<div class="col-sm-8">
+<article class="post-content">
+
+<!-- ---------- -->
+
+</article>
+</div>
+
+<p></div></p>
+
+<section class="feature__context">
+<div class="wrapper">
+<div class="col-sm-8">
+    <h2 style="color: #3296FF;">
+        Testing/Finding out how wrong we were 
+    </h2>
+<p>We weren’t totally wrong as the heading implies. Just listening to some of the feedback, and looking at how people went through sections of the product however, just gave us that gut feeling of “Wow, how did we miss that?” or “Did we really do that?” or my personal favourite “We forgot the most important thing, stop all the tests for an hour.” We used Invision & UserTesting.com to protyotype and record user tests.</p>
+
+
+</div>
+</div>
+<div class="col-sm-4">
+    <iframe src="//giphy.com/embed/xTiN0xEVxS3nNYqF5m" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+</div>
+<div class="col-sm-4">
+    <iframe src="//giphy.com/embed/l3q2AwY4oba6wgV9K" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+</div>
+<div class="col-sm-4">
+    <iframe src="//giphy.com/embed/d3mlNSCf8GfkBR60" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+</div>
+<div class="col-sm-">
+    <iframe src="//giphy.com/embed/xTiN0Cb4PfiZbYkmQg" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+</div>
+<div class="wrapper">
+<figcaption>We ended up using UserTesting.com to find and recruit participants that fit our criteria and whilst looking at these tests, we were just casually headbanging against the desk asking each other “how did we miss that?" and feeling so sorry for the people that had to go through the iterations.</figcaption>
+</div>
+</div>
+</section>
+
+<p></div>
+<div class="post wrapper">
+<div class="col-sm-8">
+<article class="post-content"></p>
+
+<!-- ------------------ -->
+
+<h2>Takeaways and what's next</h2>
+
+<p>The reality is, I’m a designer at heart and as a rule of thumb, I’m pretty much dissatisfied with everything. I can nitpick everything that I’ve done in this project and call out what was done poorly and what could have been done better. So this section could really be a case study on its own.   I’m not going to lie this project was hard. It was hard because it was the first time we had been in a sprint and my knowledge on how to conduct one mostly came from the Sprint book and the accompanying articles.</p>
+
+<p>Looking back there’s definitely a number of things I would change, namely the way we conducted research. We did talk to people, but the general feeling was that they were too close to the product itself to be truly unbiased sources.   So one fundamental thing we would have done differently is to talk to people early and often. I think we could have also realized that we may have found better insights through more extensive research had we not spent too much time on crafting hi-fidelity prototypes. </p>
+
+<p>Even though they delivered value, perhaps we had to strike a balance between fidelity and the value of insights. The ratio was (research: prototyping) more like a 45:55 rather than a 65:35 (or even a 70:30) which is how I would have preferred it.  The project itself is still in development. Hopefully, we can get a chance to address some of the feedback that we got in the latter stages of the sprint. </p>
+
+<p><br></p>
+
+    </article>
+</div>    
+
+<!-- Next Section -->
+    <section id="more-work" class="row">
+        
+        <div class="center-xs col-lg-8 col-md-8 col-sm-8 col-xs-10 morework" style="text-align: center; margin: 0 auto;">
+            <a class="equalize" href="/jfupholstery.html" title="next Post: A simple website for my dad: Building a thoughtful & intentional presence.">
+                <div>
+                    <h4 class="center title" style="padding-bottom: 15px; border-bottom: 1px solid #f3f3f3;"> Up Next</h4>
+                    <h4> A simple website for my dad: Building a thoughtful & intentional presence.</h4>
+                </div>
+            </a>
+        </div>
+    </section>
+</div>
+
+    <section class="subscribe">
+    <div class="row center-xs">
+        <div class="col-xs-12 col-md-8 col-sm-8 col-lg-10">
+            <!-- Begin MailChimp Signup Form -->
+            <!-- <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css"> -->
+            <div id="mc_embed_signup">
+                <div class="wrapper">
+                    <form action="//justinfarrugia.us12.list-manage.com/subscribe/post?u=eb5d1bf658acdb72fef228d58&amp;id=ce5443d7fd" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+                        <div id="mc_embed_signup_scroll">
+                            <h3><label for="mce-EMAIL">Want to hear more from me? Be sure to subscribe.</label></h3>
+                            <input type="text" value="" name="FNAME" class="" id="mce-FNAME" placeholder="Your Full Name" required>
+                            <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Your Email" required>
+                            <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+
+                            <div style="position: absolute; left: -5000px;" aria-hidden="true">
+                                <input type="text" name="b_eb5d1bf658acdb72fef228d58_ce5443d7fd" tabindex="-1" value="">
+                            </div>
+                            <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
+                               
+                        </div>
+                    </form>
+                </div> 
+            </div>
+            <!--End mc_embed_signup-->
+            <span class="caption">I don’t send spam. Ever. Rest assured.</span>
+        </div>
+    </div>
+</section>
+<footer class="site-footer">
+    <div class="wrapper">
+        <div class="footer-col-wrapper">
+            <div class="row center-xs">
+                <div class="col-xs-12 col-md-8 col-sm-8 col-lg-8">
+                    <span class="description">You can reach me via email at <a href="mailto:justinmfarrugia@gmail.com">justinmfarrugia@gmail.com</a> <br>or be a hip millennial and tweet me at <a href="https://twitter.com/justinmfarrugia">@justinmfarrugia</a></span>
+                </div>
+            </div>
+            <!--             <a class="center email" href="mailto:justinmfarrugia@gmail.com">justinmfarrugia@gmail.com</a> -->
+            <ul class="socialicons">
+                <li><a href="https://twitter.com/justinmfarrugia"><i class="fa fa-twitter" ></i></a></li>
+                <li><a href="https://medium.com/@JustinFarrugia"><i class="fa fa-medium" ></i></a></li>
+                <li><a href="https://dribbble.com/justinfarrugia"><i class="fa fa-dribbble" ></i></a></li>
+                <li><a href="https://github.com/justinmarkfarrugia"><i class="fa fa-github" ></i></a></li>
+            </ul>
+        </div>
+        <div class="row center-xs">
+            <div class="col-xs-12 col-md-8 col-sm-8 col-lg-8">
+                <span class="description">&copy; 2017 Justin Farrugia</span>
+            </div>
+        </div>
+        <a href="/"><img src="../img/footer.svg" class="footericon" alt="Footer Illustration"></a>
+    </div>
+</footer>
+
+
+
+</html>
+
+
+

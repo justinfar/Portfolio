@@ -1,11 +1,8 @@
 ---
 title: Greetings web traveller!
 permalink: "/about"
-layout: postdefault
+layout: unique
 ---
-
-<h1 class="post-title" style="margin-bottom: 30px">Greetings web traveller</h1>
-
 <article >
         <p>
         <script language="JavaScript"> 
@@ -40,12 +37,15 @@ layout: postdefault
 </h5>
 </blockquote>
  
-<p>I'm hoping that I can find a domain where I can put what I've learnt to the test and continue to pursue innovation for social good. I want to get my hands dirty and tackle problems that go beyond the usual applications sitting on our homescreen begging for our attention, tapping into our endless dopamine reserves.
+<p>I care about climate change, access to government services and education. I'm hoping that I can find (or found) a domain where I can put what I've learnt to the test and continue to pursue innovation for social good. I want to get my hands dirty and tackle problems that go beyond the usual applications sitting on our homescreen begging for our attention, tapping into our endless dopamine reserves.
 </p>
-<img src="../img/Baby_Justin.jpg" alt="A younger version of Justin" 
+<img src="../img/Baby_Justin.jpg" alt="A younger version of me next to a workstation" 
         style="-webkit-filter: grayscale(100%); /* Chrome, Safari, Opera */
     filter: grayscale(100%);" >
-<p class="description">Always messing around with them computer thingies.</p>
+
+<div class="col-lg-12">
+    <figcaption>Always messing around with them computer thingies.</figcaption>
+</div>
 
  <p>In essence, the thing that I do is to help people identify problems within a product so that we can work cohesively towards the creation of a personalized experience. I spend my time researching, talking to people and asking a bunch of questions so that I can fully immerse myself into the problem space. Once I feel I'm able to offer credible solutions I move on to prototyping and testing. I think I'd describe my approach as more instinct based rather than a template I can use as a fallback. I'd like to think that a process should be adaptive rather than prescriptive.
 </p>

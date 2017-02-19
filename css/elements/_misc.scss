@@ -1,0 +1,96 @@
+.site-title {
+    display: none;
+}
+
+.box {
+        color: $text-color;
+        padding: 30px;
+        background: #F9F9F9;
+        border: 1px solid #E6E6E6;
+        border-radius: 2px;
+        font-family: $base-font-family;
+}
+
+.icon {
+    > svg {
+        display: inline-block;
+        width: 16px;
+        height: 16px;
+        vertical-align: middle;
+    }
+}
+
+.page-content {
+    padding: $spacing-unit 0 0 0;
+}
+
+.center {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.morework, #more-work{
+    margin-bottom: 30px;
+}
+
+.hidden-sm-down {
+    display: inline;
+    @include media-query($on-palm) {
+        display: none;
+    }
+}
+
+.results {
+    display: inline-block;
+    margin: 20px 5%;
+    text-align: center;
+    line-height: 1;
+     @include media-query($on-palm *1.2) {
+        margin: 10px auto 20px;
+        text-align: center;
+        width: 100%;
+    }
+}
+
+.white {
+    color: white;
+}
+
+.transparent {
+    opacity: 0.5;
+}
+
+.mb-0 {
+    margin-bottom: 0;
+}
+
+.m-45 {
+    margin: 45px 0;
+}
+
+.m-20 {
+    margin: 20px 0;
+}
+
+.m-0 {
+    margin: 0;
+    display: inline-block;
+}
+
+.giphy-embed {
+    width: 600px;
+    height: 450px;
+    @include media-query($on-palm) {
+        width: 300px;
+        height: 250px;
+    }
+}
+
+.prototype {
+    @extend .giphy-embed;
+    width: 360px;
+    height: 650px;
+    @include media-query($on-palm) {
+        display: none;
+    }
+}

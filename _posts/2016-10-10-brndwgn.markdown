@@ -9,9 +9,14 @@ tags:
 - ux
 description: Being a wagoneer, and learning to design with intention, data and empathy.
 image: BRNDWGN_Browser.png
+permalink: brndwgn.html
 layout: post
 color: "#F29FC4"
-style: translateY(10px)
+title--color: "#FFF"
+accent: "#F29FC4"
+context: When BRNDWGN had launched their internship program along with the redesign of their new site, I was telling myself day in day out that I was going to apply. I must have written about six drafts before I decided to remotely do anything. <br /><br />What if? was the question that always preceeded some pointless conclusion of why I should hold off from pressing send. Why the hesitation? Well, you see BRNDWGN is THE place to be if you are a creative in Malta. I was always telling myself 'You have to do [insert sideproject here] before they can even consider you'. While I still maintain this train of thought, it still felt like I was somewhat at odds with myself. And then I realized something pretty important.
+team: Kris, Glenn, Sian and Andre who were my mentors along with the rest of the WGN team
+role: User Experience Design and Interface Design
 ---
 
 <style>
@@ -20,26 +25,21 @@ style: translateY(10px)
 	}
 </style>
 
-
-When BRNDWGN had launched their internship program along with the redesign of their new site, I was telling myself day in day out that I was going to apply. I must have written about six drafts before I decided to remotely do anything. "What if?" was the question that always preceeded some pointless conclusion of why I should hold off from pressing send.
-
-Why the hesitation? Well, you see BRNDWGN was (and still is) THE place to be if you were a creative in Malta. I was always telling myself: "You have to do [insert sideproject here] before they can even consider you". While I still maintain this train of thought, it still felt like I was somewhat at odds with myself. And then I realized something pretty important.
-
 <h2>Doing something about it.</h2>
 
 Not doing anything was holding me back tenfold. So, I grabbed my trusty pencil and pad, and started sketching ideas. I had read about Nina Muffleh some time ago, who went above and beyond by building a website so that she could land a position at Airbnb and get recruiters talking. 
 
 As a self-starter myself, I really respected her drive and commitment as well as her courage. Naturally, I was influenced by her approach. So I went ahead and decided to do the same kind of thing to land that internship. So I built a website and well, <a class="post" href="http://justinmarkfarrugia.github.io/BRNDWGN_Application/">here it is.</a>
 
-<img src="img/BRNDWGN_site.png" alt="A one-pager I built for my application at BRNDWGN">
+<iframe src="//giphy.com/embed/l3q2HoNATvOp5TvoY" width="600" height="400" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
-<p class="description">A bit of a gimmick, but hey I had fun building it</p>
+<figcaption>Here's the one pager in all its glory, was pretty cool making this. What wasn't cool was the number of illustrations I discarded :(</figcaption>
 
 Admittedly, that one-pager accompanied with a pretty boldly worded email took some courage. I mean it’s not like I knew these guys, I just heard the CEO (Hey Pete) speak at a local meetup and was like “Man these guys seem like they do great work”. Two days after finally pressing send, an  email from the Head of Creative showed up in my inbox. That fourth line was a bit heart-wrenching, but nevertheless I visited the office to have a chat, and was offered an internship. 
 
 <img src="img/BRNDWGNemail.png" alt="A one-pager I built for my application at BRNDWGN">
 
-<p class="description">“Definitely one of the most original internship requests I’ve ever received”. Yep, nailed it.</p>
+<figcaption>"One of the most original internship requests I've ever received." Yep, nailed it.</figcaption>
 
 <h2>What I took away</h2>
 

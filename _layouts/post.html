@@ -1,36 +1,70 @@
----
-layout: postdefault
----
+<!DOCTYPE html>
+<html>
+{% include head.html %}
 
-<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-    <header class="post-header">
-        <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
-        <p class="post-meta">
-            <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
-    </header>
-    <div class="post-content" itemprop="articleBody">
-        {{ content }}
-    </div>
-    <section id="more-work" class="row" style="margin-bottom: 30px;">
-        <!-- {% if page.previous %} {% assign previous = page.previous %} {% else %} {% assign previous = site.posts[0] %} {% endif %}
-        <div class="col-lg-5 col-md-5 col-sm-5 col-xs-12 morework">
-            <a class="equalize" href="{{site.baseurl}}{{previous.url}}" title="Previous Post: {{previous.title}}">
-                <div>
-                    <h4 class="start-xs title"> ← Previous Project </h4>
-                    <h4 class="start-xs"> {{previous.title}} </h4>
+<!-- Hero Section -->
+    <section class="hero__header" {% for post in site.categories.work %} {% if page.title == post.title %} style="background: {{ post.accent }}; margin-top: 0;" {% endif %} {% endfor %}>
+    <!-- Header Section -->    
+        {% include header.html %}
+
+            <header class="post-header wrapper">
+                <div class="col-lg-7 col-md-9 col-sm-12">
+                    <h1 class="post-title" itemprop="name headline" {% for post in site.categories.work %} {% if page.title == post.title %} style="color: white;" {% endif %} {% endfor %}>{{ page.title }}</h1>
                 </div>
-            </a>
-        </div> -->
+            </header>
+        
+    </section>
+
+<!-- Hero Section -->
+<section class="feature__context">
+<div class="wrapper">
+    
+    
+        <div class="row">
+    
+            <div class="col-sm-7">
+                <h2 {% for post in site.categories.work %} {% if page.title == post.title %} style="color: {{ post.accent }};" {% endif %} {% endfor %}>Some context and a problem</h2>
+                        <p>{{ page.context }}</p>            
+            </div>
+
+            <div class="col-sm-4 col-sm-offset-1">
+            <h2 {% for post in site.categories.work %} {% if page.title == post.title %} style="color: {{ post.accent }};" {% endif %} {% endfor %}>Team</h2>
+               <p>{{ page.team }}</p>  
+                        
+            <h2 {% for post in site.categories.work %} {% if page.title == post.title %} style="color: {{ post.accent }};" {% endif %} {% endfor %}">Role</h2>
+               <p>{{ page.role }}</p>  
+           </div>
+        </div>
+    
+    
+</div>
+</section>
+
+<div class="post wrapper">
+<!-- Content Section -->
+<div class="col-sm-8">
+    <article class="post-content" itemprop="articleBody">
+        {{ content }}
+    </article>
+</div>    
+
+<!-- Next Section -->
+    <section id="more-work" class="row">
         {% if page.next %} {% assign next = page.next %} {% else %} {% assign last lastPostIndex = site.posts | size | minus: 1 %} {% assign next = site.posts[lastPostIndex] %} {% endif %}
         <div class="center-xs col-lg-8 col-md-8 col-sm-8 col-xs-10 morework" style="text-align: center; margin: 0 auto;">
             <a class="equalize" href="{{site.baseurl}}{{next.url}}" title="next Post: {{next.title}}">
                 <div>
-                    <h4 class="center title" style="padding-bottom: 15px; border-bottom: 1px solid #f3f3f3;"> Next Project →</h4>
+                    <h4 class="center title" style="padding-bottom: 15px; border-bottom: 1px solid #f3f3f3;"> Up Next</h4>
                     <h4> {{next.title}}</h4>
                 </div>
             </a>
         </div>
     </section>
-</article>
+</div>
+
+    {% include footer.html %}
+
+</html>
+
 
 
