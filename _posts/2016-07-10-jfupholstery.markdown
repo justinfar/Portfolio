@@ -15,15 +15,13 @@ color: "#FBFBFB"
 title--color: "#1085F9"
 accent: "#1085F9"
 postdesc--color: "#191d1f"
-link: http://www.jfupholstery.org
-linkdesc: Visit the site here
 context: My father is self-taught in his craft, like myself. This made him approach each and every project with plenty of fire in his belly. Always ready to take on the world, solving problems no matter how much it drains him. Working until the early hours of the morning, stitching drapes and sewing fabrics, day in day out.<br /><br />I realized that some time ago, I had promised my father, that I would help him out to improve his presence. Granted that his business influence and networking is done mostly through word-of-mouth. He felt however, that having a presence online could distinguish his already established ‘brand’ from the competition.
 team: Dad, Myself
 role: Research, Testing, Content Strategy, User Experience, Interface Design, Front-End Development
 ---
 
 <style>
-  p > a {
+  figcaption > a {
 		color: #1085F9;
 		padding-bottom: 5px;
 		border-bottom: 1px solid #1085F9;
@@ -33,7 +31,7 @@ role: Research, Testing, Content Strategy, User Experience, Interface Design, Fr
 <div class="col-xs-4">
 
 <iframe src="//giphy.com/embed/l0HeaYLJ1dyKSuhBm" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-
+<figcaption>You can visit the live site <a href="http://www.jfupholstery.org">here</a>.</figcaption>
 </div>
 
 <h2>Cool, new sideproject. So, what’s the problem?</h2>
