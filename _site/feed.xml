@@ -1,0 +1,756 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Justin Farrugia | Designer</title>
+    <description>This is the portfolio of Justin Farrugia, a product designer based in Malta.</description>
+    <link>http://www.justinfarrugia.com/</link>
+    <atom:link href="http://www.justinfarrugia.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 26 Feb 2017 18:29:59 +0100</pubDate>
+    <lastBuildDate>Sun, 26 Feb 2017 18:29:59 +0100</lastBuildDate>
+    <generator>Jekyll v3.4.0</generator>
+    
+      <item>
+        <title>A simple website for my dad: Building a thoughtful &amp; intentional presence.</title>
+        <description>&lt;style&gt;
+  figcaption &gt; a {
+        color: #1085F9;
+        padding-bottom: 5px;
+        border-bottom: 1px solid #1085F9;
+    }
+&lt;/style&gt;
+
+&lt;div class=&quot;col-xs-4&quot;&gt;
+
+&lt;iframe src=&quot;//giphy.com/embed/l0HeaYLJ1dyKSuhBm&quot; frameBorder=&quot;0&quot; class=&quot;giphy-embed&quot; allowFullScreen&gt;&lt;/iframe&gt;
+&lt;figcaption&gt;You can visit the live site &lt;a href=&quot;http://www.jfupholstery.org&quot;&gt;here&lt;/a&gt;.&lt;/figcaption&gt;
+&lt;/div&gt;
+
+&lt;h2&gt;Cool, new sideproject. So, what’s the problem?&lt;/h2&gt;
+
+&lt;p&gt;So it turns out “I need a website” aren’t exactly trigger words that get me going and building something. I love building, but I also love asking. So what I did is rather than peppering my Dad with questions, is just asking him why a couple of times which resulted to a clear business goal. He wanted higher quality clientele so that he can land long-term projects rather than just short week-long reupholstery gigs.&lt;br /&gt;&lt;br /&gt; Being intimately familiar with someone allows you to get to to the root cause quicker than you would usually do with someone with a title like “Marketing Manager” or some other C-Level executive whose bottom line sometimes seems solely to turn a profit through awareness or engagement without knowing why they want those things in the first place.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;img/johnf.png&quot; alt=&quot;A picture of my Dad&quot;&gt;
+&lt;figcaption&gt;The champ, deep in thought.&lt;/figcaption&gt;&lt;/p&gt;
+
+&lt;!-- Hypothesis Section --&gt;
+
+&lt;!-- Closing Divs --&gt;
+
+&lt;p&gt;&lt;/article&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/p&gt;
+
+&lt;section class=&quot;feature__context&quot;&gt;
+    &lt;div class=&quot;wrapper&quot;&gt;
+        &lt;div class=&quot;col-sm-12 col-md-7&quot;&gt;
+
+&lt;h2 style=&quot;color: #1085F9; margin-bottom: 10px;&quot;&gt; Talking to people IRL&lt;/h2&gt;
+I was helping one my dad’s clients since he wasn’t at the garage, and me being a tad nosey, I just had to ask the guy whose sofa I was carrying some probing questions. Lets call him Jack.
+&lt;br /&gt;&lt;br /&gt;
+&lt;strong&gt;Me&lt;/strong&gt;: “So where’d you find my dad?”
+&lt;br /&gt;
+&lt;strong&gt;Jack&lt;/strong&gt;: “Oh my assistant found him in a phone directory.”  
+&lt;br /&gt;
+&lt;strong&gt;Me&lt;/strong&gt;:  “Did it take long to find someone?”
+&lt;br /&gt;
+&lt;strong&gt;Jack&lt;/strong&gt;: “Well, sort of.”
+&lt;br /&gt;
+&lt;strong&gt;Me&lt;/strong&gt;:  “Why?”
+&lt;br /&gt;
+&lt;strong&gt;Jack&lt;/strong&gt;: “Well there’s plenty of upholstery shops in the phone directory, and it’s hard to tell whose credible and has done good work, and who doesn’t fit the bill by simply looking at an address and a name.”
+&lt;br /&gt;
+&lt;strong&gt;Me&lt;/strong&gt;: &lt;em&gt;*Remaining silent*&lt;/em&gt; (I’ve found that sometimes being able to shut up and listen can be a skill)
+&lt;br /&gt;
+&lt;strong&gt;Jack&lt;/strong&gt;:  “Another thing was that it was pretty hard to tell who does what. I called up other shops but some were specifcally marine only, so they couldn’t help me out.”
+&lt;br /&gt;
+&lt;strong&gt;Me&lt;/strong&gt;: “That must have taken some time.”
+&lt;br /&gt;
+&lt;strong&gt;Jack&lt;/strong&gt;:  “It did. Finding names wasn’t an issue really. It was more who to trust that took some time. I mean at the end of the day it’s my furniture and I wouldn’t like for it to be ruined.”
+&lt;br /&gt;
+&lt;strong&gt;Me&lt;/strong&gt;: “What could have been better for you when trying to find someone? Was there something you would have done to ease the process?”
+&lt;br /&gt;
+&lt;strong&gt;Jack&lt;/strong&gt;:  “Well I don’t know really perhaps something to show me the work that your Dad’s been doing or has done. I mean I don’t really trust reputation that much because it’s not rare that you try to work with someone who only has nice things said about them but turns out isn’t the right fit.”
+&lt;br /&gt;
+&lt;br /&gt;
+Goldmine. This interview alone cemented the importance to go out and talk to people. I eventually asked some more people a similar set of questions to the ones shown above. The process itself actually confirmed some initial assumptions that I had before heading into this project.
+&lt;br /&gt;
+&lt;br /&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/section&gt;
+
+&lt;!-- Opening Divs --&gt;
+
+&lt;div class=&quot;post wrapper&quot;&gt;
+&lt;div class=&quot;col-sm-8&quot;&gt;
+&lt;article class=&quot;post-content&quot;&gt;
+
+&lt;h2&gt;How can I design and build a website that is findable, accessible and credible?&lt;/h2&gt;
+
+Now that I got a clearer picture of what needed to be done it was up to me to do go out and do it. But before that happens, I needed to set myself a set of design principles, based on the research I’ve done, that I was going to operate with.
+
+&lt;!-- Image Section --&gt;
+&lt;/article&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;/div&gt;
+&lt;img src=&quot;img/jfupholstery_stickies.png&quot; alt=&quot;Some research notes from this project&quot; style=&quot;border: none; width: 100%;&quot;&gt;
+&lt;div class=&quot;wrapper&quot;&gt;
+&lt;figcaption&gt;Yes I know it’s a personal project, can’t help but document and note down stuff though. Think the most important part of researching is not actually how you go about collecting it, but how you go about deriving meaning.&lt;/figcaption&gt;
+&lt;/div&gt;
+&lt;div class=&quot;post wrapper&quot;&gt;
+&lt;div class=&quot;col-sm-8&quot;&gt;
+&lt;article class=&quot;post-content&quot;&gt;&lt;/p&gt;
+
+&lt;h2&gt;What I found&lt;/h2&gt;
+
+&lt;p&gt;Now my Dad’s clientele was pretty varied. I couldn’t just say that I’m designing for ‘people who need/want to reupholster their furnitures, that’d be too broad of an audience group. I had to consider different types of clients too. &lt;/p&gt;
+
+&lt;ul&gt;
+    &lt;li&gt;Large jobs from clients expecting quality work with a deadline&lt;/li&gt;
+    &lt;li&gt;Small sentimental jobs where clients are more involved but less time constrained &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Regardless of the person seeking upholstery service however, the painpoints were almost ubiquitous. &lt;/p&gt;
+
+&lt;ul&gt;
+    &lt;li&gt;Finding experienced upholsterers who are thrutful about the quality of their workmanship&lt;/li&gt;
+    &lt;li&gt;Finding specialized upholsterers that did a specific jobs (marine, aviation, auomotive, commercial)&lt;/li&gt;
+    &lt;li&gt;Unsure of expectations and specifications to hand off to upholsterer, and thus might need to be helped out&lt;/li&gt;
+    &lt;li&gt;Unsure about how pricing works especially if its a new client&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;So all this (and more) gave me a better picture. &lt;span style=&quot;color: #1085F9; &quot;&gt;Finding a credible trustworthy upholsterer and then communicating what you need is more difficult and time-consuming than it needs to be.&lt;/span&gt;&lt;/p&gt;
+
+&lt;h2&gt;Sketching and Ideating&lt;/h2&gt;
+
+&lt;p&gt;Now that I had a hypothesis, I needed to generate ideas to be able to test its validity (or invalidity). Here I had to think big and wide, be generative and not confine myself to one direction. I made it a point to document what I’ve learnt from my research and keep it handy as a point of reference.&lt;/p&gt;
+
+&lt;!-- Image Section --&gt;
+
+&lt;p&gt;&lt;/article&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;img src=&quot;img/jfupholstery_ideation.png&quot; alt=&quot;Some sketches and ideas from this project&quot; style=&quot;width: 100%;&quot;&gt;
+&lt;div class=&quot;wrapper&quot;&gt;
+&lt;figcaption&gt;Turns out using paper (dotgrid) encouraged my dad to pop by and give me feedback. Using pencil and paper, unconciously, removed that ‘alienation’ one creates when using software like Illustrator or Sketch for wireframing. Paper, being a more universal medium gets more people involved.&lt;/figcaption&gt;
+&lt;/div&gt;
+&lt;div class=&quot;post wrapper&quot;&gt;
+&lt;div class=&quot;col-sm-8&quot;&gt;
+&lt;article class=&quot;post-content&quot;&gt;&lt;/p&gt;
+
+&lt;h2&gt;Building with continuous feedback&lt;/h2&gt;
+
+&lt;p&gt;Even though sometimes I like the solitude whenever I’m building something, I did appreciate the different perspective my father brought to the table whenever he used to pop by my room. Even when I showed him a skeleton of the site itself, he had some valuable input. &lt;/p&gt;
+
+&lt;p&gt;One such example is when he recommended I include the companies he’s worked with. I thought testimonials alone did the trick and didn’t want to make people scroll further, but he argued that there could be an added sense of legitimacy and professionalism to his brand. Even though it was a rudimentary design decision, it was an example of why you shouldn&amp;#39;t build alone. I used the following technologies: Gulp, Wordpress, SCSS, Understrap (Underscores + Boostrap) and Browsersync.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;img/jfupholstery_facebook.png&quot; alt=&quot;The Facebook post that meant making it public&quot; style=&quot;border: none;&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;I hate to admit it, but I’m a perfectionist. Many creators are. This was a big step for me personally. Posting statuses on social networks isn’t something I usually do, you’d most likely find me talking in a FB Group or a Slack Chat to other designers. It was time to get out of the bubble and see what other people’s opinions were. If anything, I was still going to get back to this at some point. (Need to work on accessibility, image delivery and maybe some animation for better visual feedback.)&lt;/p&gt;
+
+&lt;h2&gt;The Results&lt;/h2&gt;
+
+&lt;p&gt;With a bit of help from the interwebs and a friend who worked in marketing, I did as much as I could (and knew) to make sure that the code I wrote was semantic and that the site itself was being pushed through the right channels where it can be targeted towards the people that need it the most.
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;results&quot;&gt;
+    &lt;h1 style=&quot;color:#1085F9&quot;&gt;5 to 12&lt;/h1&gt;
+    &lt;h3&gt;phonecalls daily&lt;/h3&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;results&quot;&gt;
+    &lt;h1 style=&quot;color:#1085F9&quot;&gt;14 to 23&lt;/h1&gt;
+    &lt;h3&gt;new fb messages daily&lt;/h3&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;box&quot;&gt;
+    Need more metrics? Don’t we all. Just let me know what you need by getting in touch via email &lt;a href=&quot;mailto:justinmfarrugia@gmail.com&quot; style=&quot;color: #1085F9;padding-bottom: 5px;&quot;&gt;justinmfarrugia@gmail.com&lt;/a&gt;.
+&lt;/div&gt;
+
+&lt;!-- Takeaways Section --&gt;
+
+&lt;!-- Closing Divs --&gt;
+
+&lt;p&gt;&lt;/article&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/p&gt;
+
+&lt;section class=&quot;feature__context&quot; style=&quot;margin-bottom: 0;&quot;&gt;
+    &lt;div class=&quot;wrapper&quot;&gt;
+        &lt;div class=&quot;col-sm-12 col-md-7&quot;&gt;
+&lt;h2&gt;Takeaways&lt;/h2&gt;
+There’s always something you learn (hopefully) from every project. From this one it wasn’t how to firefight Wordpress (even though I forgot to backup the site at one point and had to rebuild it again). What I learnt was even a relatively small site (5-6 pages) can teach you so much.  
+&lt;br /&gt;
+&lt;br /&gt;
+I learnt that shipping early was beneficial, seeking feedback continously (even when the project is barebones) is essential and most of all that research should be a &lt;strong&gt;continuous input&lt;/strong&gt; rather than that thing you do at the beginning and completely forget about later on.    
+&lt;br /&gt;
+&lt;br /&gt; 
+
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/section&gt;
+
+&lt;!-- Opening Divs --&gt;
+
+&lt;p&gt;&lt;div class=&quot;post wrapper&quot;&gt;
+&lt;div class=&quot;col-sm-8&quot;&gt;
+&lt;article class=&quot;post-content&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 02 Jan 2017 22:50:26 +0100</pubDate>
+        <link>http://www.justinfarrugia.com/jfupholstery.html</link>
+        <guid isPermaLink="true">http://www.justinfarrugia.com/jfupholstery.html</guid>
+        
+        <category>development</category>
+        
+        <category>identity</category>
+        
+        <category>ux</category>
+        
+        
+        <category>work</category>
+        
+      </item>
+    
+      <item>
+        <title>Overhauling a booking engine for price transparency and a cleaner home.</title>
+        <description>&lt;!-- Image Section --&gt;
+
+&lt;p&gt;&lt;/article&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;img src=&quot;img/briiz_overview.png&quot; alt=&quot;Some of the final iterations of the booking engine&quot; style=&quot;border: none; width: 100%;&quot;&gt;
+&lt;div class=&quot;wrapper&quot;&gt;
+&lt;figcaption&gt;First time in a sprint. Mistakes were made, debates were had and many a sticky notes were used profusely.&lt;/figcaption&gt;
+&lt;/div&gt;
+&lt;div class=&quot;post wrapper&quot;&gt;
+&lt;div class=&quot;col-sm-8&quot;&gt;
+&lt;article class=&quot;post-content&quot;&gt;&lt;/p&gt;
+
+&lt;h2&gt;What really is&lt;em&gt; the&lt;/em&gt; problem?&lt;/h2&gt;
+
+&lt;p&gt;Before we huddled up and decided to dive in, we tried to channel our inquistive selves and put on our detective hats. Why was this a problem? Was this really worth solving? What’s the goal here? Who are we designing for? What do they really need? Let’s hypothesize. &lt;/p&gt;
+
+&lt;p&gt;Well, previously, people who wanted to have their house cleaned would complete a form. Unsurprisingly this didn’t address most of the concerns people had which through listening in on customer service calls, and asking questions were &lt;strong style=&quot;color: #1085F9;&quot;&gt;Price transparency&lt;/strong&gt; and &lt;strong style=&quot;color: #1085F9;&quot;&gt;Possession Safety&lt;/strong&gt;. This problem was critical to solve not just for the sake of scale, but also to credibilize the experience and more importantly, tend to existing painpoints.&lt;/p&gt;
+
+&lt;!-- ////////////////// --&gt;
+
+&lt;!-- Hypothesis --&gt;
+
+&lt;p&gt;&lt;/article&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/p&gt;
+
+&lt;section class=&quot;feature__context&quot; style=&quot;background-color: #3296FF;&quot;&gt;
+&lt;div class=&quot;wrapper&quot;&gt;
+&lt;div class=&quot;col-sm-8&quot;&gt;
+&lt;h2 class=&quot;white&quot;&gt;How can we design a booking engine, that gives people peace of mind whilst also letting them know what they’re paying for?&lt;/h2&gt;
+&lt;p class=&quot;white&quot;&gt;Having this statement gave us a clear motive, a tension to resolve. Naturally, the goal now was to explore (and exhaust) as many iterations and ways as we could to try and solve this problem.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;
+
+&lt;p&gt;&lt;/div&gt;
+&lt;div class=&quot;post wrapper&quot;&gt;
+&lt;div class=&quot;col-sm-8&quot;&gt;
+&lt;article class=&quot;post-content&quot;&gt;&lt;/p&gt;
+
+&lt;!-- Image Section --&gt;
+
+&lt;p&gt;&lt;/article&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;img src=&quot;img/briiz_process_2.png&quot; alt=&quot;Some Pink Sticky Notes&quot; style=&quot;width: 100%; margin-top: -60px; border: none;&quot;&gt;
+&lt;div class=&quot;wrapper&quot;&gt;
+&lt;figcaption&gt;Sticky notes that made sense when we were writing them down, but now look back in disarray thinking “why did we even consider that”. All part of the process.&lt;/figcaption&gt;
+&lt;/div&gt;
+&lt;div class=&quot;post wrapper&quot;&gt;
+&lt;div class=&quot;col-sm-8&quot;&gt;
+&lt;article class=&quot;post-content&quot;&gt;&lt;/p&gt;
+
+&lt;!-- ////////////////// --&gt;
+
+&lt;h2&gt;The Approach&lt;/h2&gt;
+
+&lt;p&gt;We made it a point that we weren’t going to reinvent the wheel, because frankly that’s counter intuitive. We wanted to get an idea, to audit what was out there and know what the expectations were for this type of experience.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;img/briiz_competition.png&quot; alt=&quot;Briiz Process Sticky Notes&quot; style=&quot;border: none;&quot;&gt;
+&lt;figcaption&gt;We weren’t just looking at direct competition, we figured we could also learn from other people that had similar goals but perhaps a different service.&lt;/figcaption&gt;&lt;/p&gt;
+
+&lt;p&gt;Following up on the qualitative data we had gathered along with the other stuff that we had found, we decided to build some personas. Now personas sometimes focus on attributes not on causality, so we needed to make sure of two things.   
+&lt;ul&gt;
+    &lt;li&gt;That this didn’t happen&lt;/li&gt;
+    &lt;li&gt;To turn what we’ve found into a point of reference&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;
+
+&lt;p&gt;We needed to humanize the research and have something or rather, someone, we can bring into discussions.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;img/briiz__personas.png&quot; alt=&quot;An example of personas&quot; class=&quot;center m-45&quot; style=&quot;border: none;&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;The stakeholders in this space included a diverse group of people. Looking at the existing user base we found that there were certain causes which led people to seek for such a service. Being time-poor (career-oriented), owning a mid-sized home or townhouse, reasonably mid-to-high income and having a child/children were amongst some of the causes.&lt;/p&gt;
+
+&lt;p&gt;I wanted to make sure that the team got a good sense of the actual steps that people have to go through to accomplish their goal. So, we visualized it and took down notes based on what we hypothesized was getting in the way, and what could be done to help them progress.&lt;/p&gt;
+
+&lt;div class=&quot;box&quot;&gt;
+    Bored with all these words? Let’s go &lt;a href=&quot;#goodstuff&quot; style=&quot;color: #3296FF;&quot;&gt;see the good stuff&lt;/a&gt; shall we?
+&lt;/div&gt;
+
+&lt;p&gt;This helped us prevent any scope creep and also, more importantly, stay focused on who we’re designing for and know what kind of value (if any) a specific feature could deliver at a particular step.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;img/briiz_process4.png&quot; alt=&quot;Briiz Process Sticky Notes&quot;&gt;&lt;/p&gt;
+
+&lt;figcaption&gt;This was basically the guiding light for our sprint, we minimized it, added steps, removed them, added them again and just debated for hours at a time as to what was actually needed from both the business &amp; the person seeking the service.&lt;/figcaption&gt;
+
+&lt;p&gt;This very roughly drawn customer journey map helped us see where the actual painpoints were in the previous manifestation of the interface. As the caption states, there was a lot of debate as to whether a step should be taken down completely or not.   &lt;/p&gt;
+
+&lt;p&gt;For example, Jimmy and I had agreed that ‘Entering a ZIP code’, as a first step, didn’t really give enough context to the service and felt like we were asking for too much and giving too little in return. It was Marvin who pointed out the technological constraint we had since the ZIP Code determined if a service can be offered or not. &lt;/p&gt;
+
+&lt;!-- Use Cases --&gt;
+
+&lt;p&gt;&lt;/article&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/p&gt;
+
+&lt;section class=&quot;feature__context&quot;&gt;
+&lt;div class=&quot;wrapper&quot;&gt;
+&lt;div class=&quot;col-sm-12 col-md-7&quot;&gt;
+    &lt;h2 style=&quot;color: #3296FF;&quot;&gt;
+        Defining context of use 
+    &lt;/h2&gt;
+&lt;p&gt;Not everyone shares our excitement about the company. To the people out there, outside the bubble, Briiz was just another startup that wanted your hard-earned money. We got that, and as such we wanted to explore people’s story as if it were ours.&lt;/p&gt;
+
+&lt;p&gt;Seeing as it was pretty much the most comprehensive, I’ll talk about the home cleaning service. We categorized the scenarios in which the service is likely to be used in three scenarios: 
+&lt;/p&gt;
+
+&lt;p&gt;That basically translates to having twenty browser tabs open, chat logs, complaints, quick semi-structured interviews, research articles, blogs a plenty and whatever else I could get my hands on to inform both myself and the product decisions I would eventually make.&lt;/p&gt;
+
+&lt;ul&gt;
+    &lt;li&gt;&lt;strong&gt;Emergency cleaning&lt;/strong&gt; - Service likely to be used for the same day or the next day, where it’s important to provide the service as soon as possible, because it’s very likely that they will need this service immediately (Minimum of 4 hours in advance) 
+    &lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;Non-emergency cleaning&lt;/strong&gt; - Service likely to be used to the next day or the upcoming week, where there is not necessarily a rush for the service to be provided immediately. 
+    &lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;Recurring cleaning &lt;/strong&gt;- Service likely to be used weekly / biweekly. Most often there will be a fixed day every week/two weeks when this cleaning will occur.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;
+
+&lt;p&gt;&lt;/div&gt;
+&lt;div class=&quot;post wrapper&quot;&gt;
+&lt;div class=&quot;col-sm-8&quot;&gt;
+&lt;article class=&quot;post-content&quot;&gt;&lt;/p&gt;
+
+&lt;h2&gt;Solution&lt;/h2&gt;
+
+&lt;p&gt;We iterated intensely with the time that we had for the booking engine form. In the end, we decided to go with the iterations shown below. &lt;/p&gt;
+
+&lt;!-- Image Section --&gt;
+
+&lt;p&gt;&lt;/article&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;img src=&quot;img/briiz_solution1.png&quot; alt=&quot;Briiz Solutions&quot; style=&quot;border: none; width: 100%;&quot; style=&quot;margin-top: -30px;&quot;&gt;
+&lt;img src=&quot;img/briiz_solution2.png&quot; alt=&quot;Briiz Solutions&quot; style=&quot;border: none; width: 100%;&quot;&gt;
+&lt;div class=&quot;post wrapper&quot;&gt;
+&lt;div class=&quot;col-sm-8&quot;&gt;
+&lt;article class=&quot;post-content&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Things could have got real messy here. I used the traditional approach which is to start building symbols and chuck everything the team had done at the end of the day, into one file named ‘BriizMasterFile.sketch’. This had its pros and cons, but hey it worked for the time we had. &lt;/p&gt;
+
+&lt;!-- Image Section --&gt;
+
+&lt;p&gt;&lt;/article&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;img src=&quot;img/briiz__sketches.png&quot; alt=&quot;Briiz Solutions&quot; style=&quot;border: none; width: 100%;&quot; style=&quot;margin-top: -30px;&quot;&gt;
+&lt;figcaption&gt;These are just a few of the sketches that we had done where we challenged ourselves to come up with as many solutions as possible in short periods of time like 10 minutes or 15 at most. Constraining ourselves actually turned out enhancing our output and explore directions which we didn’t think were conceivable.&lt;/figcaption&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/briiz__userflows.png&quot; alt=&quot;Briiz User Flows&quot; style=&quot;border: none; width: 100%;&quot; class=&quot;m-20&quot;&gt;
+&lt;figcaption&gt;This mess over here is basically an overview view of what we did and the steps involved for each of the four services. A clearer version of this can be seen in the &lt;a href=&quot;https://invis.io/M5AISUUQX&quot; style=&quot;color:#3296FF;&quot;&gt;Invision prototype&lt;/a&gt; which we used to test with people. &lt;/figcaption&gt;&lt;/p&gt;
+
+&lt;div class=&quot;post wrapper&quot;&gt;
+&lt;div class=&quot;col-sm-8&quot;&gt;
+&lt;article class=&quot;post-content&quot;&gt;
+
+&lt;!-- ---------- --&gt;
+
+&lt;/article&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;/div&gt;&lt;/p&gt;
+
+&lt;section class=&quot;feature__context&quot;&gt;
+&lt;div class=&quot;wrapper&quot;&gt;
+&lt;div class=&quot;col-sm-8&quot;&gt;
+    &lt;h2 style=&quot;color: #3296FF;&quot;&gt;
+        Testing/Finding out how wrong we were 
+    &lt;/h2&gt;
+&lt;p&gt;We weren’t totally wrong as the heading implies. Just listening to some of the feedback, and looking at how people went through sections of the product however, just gave us that gut feeling of “Wow, how did we miss that?” or “Did we really do that?” or my personal favourite “We forgot the most important thing, stop all the tests for an hour.” We used Invision &amp; UserTesting.com to protyotype and record user tests.&lt;/p&gt;
+
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;wrapper&quot;&gt;
+
+&lt;div class=&quot;col-sm-4&quot;&gt;
+    &lt;iframe src=&quot;//giphy.com/embed/xTiN0xEVxS3nNYqF5m&quot; frameBorder=&quot;0&quot; class=&quot;giphy-embed&quot; allowFullScreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-sm-4&quot;&gt;
+    &lt;iframe src=&quot;//giphy.com/embed/l3q2AwY4oba6wgV9K&quot; frameBorder=&quot;0&quot; class=&quot;giphy-embed&quot; allowFullScreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-sm-4&quot;&gt;
+    &lt;iframe src=&quot;//giphy.com/embed/d3mlNSCf8GfkBR60&quot; frameBorder=&quot;0&quot; class=&quot;giphy-embed&quot; allowFullScreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-sm-&quot;&gt;
+    &lt;iframe src=&quot;//giphy.com/embed/xTiN0Cb4PfiZbYkmQg&quot; frameBorder=&quot;0&quot; class=&quot;giphy-embed&quot; allowFullScreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;wrapper&quot;&gt;
+&lt;figcaption&gt;We ended up using UserTesting.com to find and recruit participants that fit our criteria and whilst looking at these tests, we were just casually headbanging against the desk asking each other “how did we miss that?&quot; and feeling so sorry for the people that had to go through the iterations.&lt;/figcaption&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;
+
+&lt;p&gt;&lt;/div&gt;
+&lt;div class=&quot;post wrapper&quot;&gt;
+&lt;div class=&quot;col-sm-8&quot;&gt;
+&lt;article class=&quot;post-content&quot;&gt;&lt;/p&gt;
+
+&lt;!-- ------------------ --&gt;
+
+&lt;h2&gt;Takeaways and what's next&lt;/h2&gt;
+
+&lt;p&gt;The reality is, I’m a designer at heart and as a rule of thumb, I’m pretty much dissatisfied with everything. I can nitpick everything that I’ve done in this project and call out what was done poorly and what could have been done better. So this section could really be a case study on its own.   I’m not going to lie this project was hard. It was hard because it was the first time we had been in a sprint and my knowledge on how to conduct one mostly came from the Sprint book and the accompanying articles.&lt;/p&gt;
+
+&lt;p&gt;Looking back there’s definitely a number of things I would change, namely the way we conducted research. We did talk to people, but the general feeling was that they were too close to the product itself to be truly unbiased sources.   So one fundamental thing we would have done differently is to talk to people early and often. I think we could have also realized that we may have found better insights through more extensive research had we not spent too much time on crafting hi-fidelity prototypes. &lt;/p&gt;
+
+&lt;p&gt;Even though they delivered value, perhaps we had to strike a balance between fidelity and the value of insights. The ratio was (research: prototyping) more like a 45:55 rather than a 65:35 (or even a 70:30) which is how I would have preferred it.  The project itself is still in development. Hopefully, we can get a chance to address some of the feedback that we got in the latter stages of the sprint. &lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 01 Jan 2017 22:50:26 +0100</pubDate>
+        <link>http://www.justinfarrugia.com/briiz.html</link>
+        <guid isPermaLink="true">http://www.justinfarrugia.com/briiz.html</guid>
+        
+        <category>sprint</category>
+        
+        <category>payment</category>
+        
+        <category>flow</category>
+        
+        
+        <category>work</category>
+        
+      </item>
+    
+      <item>
+        <title>Building a fleet management solution that never shipped</title>
+        <description>&lt;style&gt;
+    img {
+        border: none;
+    }
+&lt;/style&gt;
+
+&lt;h2&gt;Overview&lt;/h2&gt;
+
+&lt;p&gt;Open Dispatch is a fleet management application designed to provide mobile teams such as technicians and drivers an intuitive and unobstructive experience with which to carry out their work. Fleet managers, back office managers and workshop operators are also able to view real-time updates of the progress made by field agents. &lt;/p&gt;
+
+&lt;p&gt;&lt;/article&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;img/opendispatch_all.png&quot; alt=&quot;Some research notes from this project&quot; style=&quot;border: none; width: 100%;&quot;&gt;
+&lt;div class=&quot;wrapper&quot;&gt;
+&lt;figcaption&gt;Some iterations showing steps to be taken during a task confirmation. Yes I can see you over there looking disappointingly at that Lorem Ipsum placeholder text.&lt;/figcaption&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/div&gt;
+&lt;div class=&quot;post wrapper&quot;&gt;
+&lt;div class=&quot;col-sm-8&quot;&gt;
+&lt;article class=&quot;post-content&quot;&gt;&lt;/p&gt;
+
+&lt;!-- Problem --&gt;
+
+&lt;p&gt;&lt;/article&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/p&gt;
+
+&lt;section class=&quot;feature__context&quot; style=&quot;margin-bottom: -70px; background-color:#02E16B;&quot;&gt;
+&lt;div class=&quot;wrapper&quot;&gt;
+&lt;div class=&quot;col-sm-8 white&quot;&gt;
+&lt;h2&gt;
+    How can we make mobile workers’ communication channels with the backoffice more clear?
+&lt;/h2&gt;
+&lt;p class=&quot;white&quot;&gt;As it stood, the mobile application that was being used was built in such a way that it needed to support specific PDA devices. Now that the client was using Android phones, it was decided that the product team needed to address the painpoints of the previous experience whilst also translate the experience onto the Android ecosystem.&lt;/p&gt;
+&lt;br /&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;
+
+&lt;p&gt;&lt;/div&gt;
+&lt;div class=&quot;post wrapper&quot;&gt;
+&lt;div class=&quot;col-sm-8&quot;&gt;
+&lt;article class=&quot;post-content&quot;&gt;&lt;/p&gt;
+
+&lt;!-- ////////////////// --&gt;
+
+&lt;!-- Hypothesis --&gt;
+
+&lt;p&gt;&lt;/article&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/p&gt;
+
+&lt;section class=&quot;feature__context&quot;&gt;
+&lt;div class=&quot;wrapper&quot;&gt;
+&lt;div class=&quot;col-sm-8&quot;&gt;
+&lt;h2 style=&quot;color: #23E16C;&quot;&gt;A frictionless and helpful task flow designed for productivity&lt;/h2&gt;
+Productivity is critical for a mobile workforce to operate at an optimal level. If the backoffice team and the field agents were not communicating well, then that in itself would be a major headache. &lt;strong&gt;Thus, the more connected a workforce is to the business, the more productive they become.&lt;/strong&gt;
+
+&lt;p&gt;We knew that most of our efforts needed to go towards the task flow, because that’s where field workers need to get their work done. Thus, by improving the experience of the task flow, we can better address the issues faced by both backoffice staff and field agents.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;
+
+&lt;p&gt;&lt;/div&gt;
+&lt;div class=&quot;post wrapper&quot;&gt;
+&lt;div class=&quot;col-sm-8&quot;&gt;
+&lt;article class=&quot;post-content&quot;&gt;&lt;/p&gt;
+
+&lt;!-- ////////////////// --&gt;
+
+&lt;h2&gt;The fundamental 'why'&lt;/h2&gt;
+
+&lt;p&gt;Naturally we weren’t just designing and building this application for the sake of having a newer version. The fundamental ‘why?’ was much more than needing a ‘refresh’.   There was an amalgamation of painpoints that needed to be addressed, however they had all seemingly stemmed from one underlying problem — &lt;strong&gt;task handling&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;We had to start from somewhere. To reach our goal we knew task completion time would be something that we’d need to measure and refer to. One thing we also needed to constantly remember was — management and stakeholder buy-in. &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;img/taskfinished.png&quot; alt=&quot;Some research notes from this project&quot; style=&quot;border: none; width: 100%;&quot;&gt;
+&lt;div class=&quot;wrapper&quot;&gt;
+&lt;figcaption&gt;We tried to find out current pain points within the existing solution, so that we could see what was and wasn&amp;#39;t working. As can be seen above there were definitely some problems that we needed to address.&lt;/figcaption&gt;&lt;/p&gt;
+
+&lt;!-- People --&gt;
+
+&lt;p&gt;&lt;/article&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/p&gt;
+
+&lt;section class=&quot;feature__context&quot;&gt;
+&lt;div class=&quot;wrapper&quot;&gt;
+&lt;div class=&quot;col-sm-8&quot;&gt;
+    &lt;h2 style=&quot;color: #23E16C;&quot;&gt;
+        Understanding the people and the space 
+    &lt;/h2&gt;
+&lt;p&gt;My lack of domain knowledge in this particular space meant that I needed to dive in, and immerse myself as thoroughly and as quickly as possible. Due to a very limited timeline, I had to resort to good old desk research and adhoc interviews. &lt;/p&gt;
+
+&lt;p&gt;That basically translates to having twenty browser tabs open, chat logs, complaints, quick semi-structured interviews, research articles, blogs a plenty and whatever else I could get my hands on to inform both myself and the product decisions I would eventually make.&lt;/p&gt;
+
+&lt;p&gt;Looking at what other people had done such as OneFleet and TookanApp had really set a benchmark that we had to reach (and hopefully someday exceed), even though there was a lot of work ahead. &lt;/p&gt;
+
+&lt;p&gt;I believed that the collective mind is better than the singular mind when it comes to collecting, understanding and then synthesizing research. Sharing every last scrap of information we could find with each other, was essential, as it kind of helped us prepare mentally for the ideation process. &lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;
+
+&lt;p&gt;&lt;/div&gt;
+&lt;div class=&quot;post wrapper&quot;&gt;
+&lt;div class=&quot;col-sm-8&quot;&gt;
+&lt;article class=&quot;post-content&quot;&gt;&lt;/p&gt;
+
+&lt;h2&gt;Findings&lt;/h2&gt;
+
+&lt;p&gt; We found out through interviews with both field workers and the backoffice, that sometimes tasks were too ill-informed to be fully completed or even comprehended. This was true for both sides of the coin, as field workers sometimes didn’t have enough information or might have missed a step when marking a job as completed.&lt;/p&gt;
+
+&lt;div class=&quot;box&quot;&gt;
+    Had enough of me talking? Well I really like to go into depth, but if you don’t feel like reading the rest of this it’s cool. Let’s go &lt;a href=&quot;#goodstuff&quot; style=&quot;color: #02E16B;&quot;&gt;see the good stuff&lt;/a&gt; shall we?.
+&lt;/div&gt;
+
+&lt;p&gt;This led to backoffice staff misperceiving whether a task had been completed or not, having to make calls which as a result made them less productive and also less likely to be responsive to emergency calls. &lt;/p&gt;
+
+&lt;p&gt;Naturally this back and forth resulted in a growing frustration which we had to tend to. This problem is important to solve because if a workforce is not productive, then not only may there be considerable revenue decrease from the business end, but business customers might also opt to switch supplier. &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;img/opendispatch_userflow.png&quot; alt=&quot;Some research notes from this project&quot; style=&quot;border: none; width: 100%;&quot;&gt;
+&lt;figcaption&gt;This may look chatoic, but trust me this was controlled chaos. By referring to this user flow for task completion we knew where our focus had to go and what glaring painpoints we had to immediately address.&lt;/figcaption&gt;&lt;/p&gt;
+
+&lt;!-- Ideation --&gt;
+
+&lt;p&gt;&lt;/article&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/p&gt;
+
+&lt;section class=&quot;feature__context&quot;&gt;
+&lt;div class=&quot;wrapper&quot;&gt;
+&lt;div class=&quot;col-sm-8&quot;&gt;
+&lt;h2 style=&quot;color: #23E16C;&quot;&gt;Ideation&lt;/h2&gt;
+&lt;p&gt;One thing that we agreed on is that we knew that whatever we put out there, we weren’t going to get it right the first try. And we were okay with that. That said, we were going to try our darndest to build something that could give us value when testing.&lt;/p&gt;
+
+&lt;p&gt;Knowing that our end-users (I prefer &lt;em&gt;people&lt;/em&gt;) were sometimes going to be on the road or in motion when interacting with the product, I needed to keep in mind Fitt’s law — the larger the target, the less time needed to tap it.   Whilst sketching I asked myself &lt;strong&gt;three questions&lt;/strong&gt;: 
+&lt;ul&gt;
+    &lt;li&gt;Who is this for?&lt;/li&gt;
+    &lt;li&gt;What value will this deliver&lt;/li&gt;
+    &lt;li&gt;Where do I go from here?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+
+&lt;p&gt;We knew that most of our efforts needed to go towards the task flow, because that’s where field workers need to get their work done. Thus, by improving the experience of the task flow, we can better address the issues faced by both backoffice staff and field agents.&lt;/p&gt;
+&lt;/div&gt;
+&lt;img src=&quot;img/opendispatch_sketches.png&quot; alt=&quot;Some sketches from Open Dispatch&quot; style=&quot;width: 100%; margin: 0 auto;&quot;&gt;
+&lt;figcaption&gt;My sketching skills aren’t the best,  but they were enough to communicate  my intentions with the engineering team.&lt;/figcaption&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;
+
+&lt;p&gt;&lt;/div&gt;
+&lt;div class=&quot;post wrapper&quot;&gt;
+&lt;div class=&quot;col-sm-8&quot;&gt;
+&lt;article class=&quot;post-content&quot;&gt;&lt;/p&gt;
+
+&lt;!-- ////////////////// --&gt;
+
+&lt;h2 id=&quot;goodstuff&quot;&gt;Solution and Design Decisions&lt;/h2&gt;
+
+&lt;p&gt;We chose to leverage Google’s Material Design language because as a team we felt that it gives us the comprehensiveness and flexibility we needed, to be able to communicate depth and motion when necessary throughout the different elements and interactions we incorporated into the product.&lt;/p&gt;
+
+&lt;p&gt;&lt;/div&gt;
+&lt;h4 class=&quot;transparent mb-0&quot;&gt;Navigation to a task&lt;/h4&gt;
+&lt;img src=&quot;img/opendispatch_solution1.png&quot; alt=&quot;Some sketches from Open Dispatch&quot; style=&quot;width: 100%;&quot; class=&quot;m-45&quot;&gt;
+&lt;div class=&quot;col-sm-8&quot;&gt;
+&lt;p&gt;One thing I had to make sure of in these views was to show only the necessary information, and nothing else. I didn’t want for the field workers to take too much time in parsing the screen and to get started by navigating to their destination. &lt;/p&gt;
+&lt;/div&gt;
+&lt;h4 class=&quot;transparent mb-0&quot;&gt;Taskflow (Iteration 1)&lt;/h4&gt;
+&lt;img src=&quot;img/taskflow_iteration1.png&quot; alt=&quot;Some sketches from Open Dispatch&quot; style=&quot;width: 100%;&quot; class=&quot;m-45&quot;&gt;
+&lt;div class=&quot;col-sm-8&quot;&gt;
+&lt;p&gt;For the actual task flow, there were two iterations. The first of which you can see above, which took up the entirety of the screen and made use of the stepper component in the material guidelines. I felt that this was less congested, simpler and more flexible if more difficult task items were to be introduced. &lt;/p&gt; 
+&lt;/div&gt;
+&lt;h4 class=&quot;transparent mb-0&quot;&gt;Taskflow (Iteration 2)&lt;/h4&gt;
+&lt;img src=&quot;img/taskflow_iteration2.png&quot; alt=&quot;Some sketches from Open Dispatch&quot; style=&quot;width: 100%;&quot; class=&quot;m-45&quot;&gt;
+&lt;div class=&quot;col-sm-8&quot;&gt;
+&lt;p&gt;In this iteration I was thinking, why not keep it progressive and more gradual rather than taking you to a completely different view? After all, it was task completion time that was amongst the defining metrics to success. &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;By keeping everything on one screen, seperating the sub-tasks into logically ordered steps, there was a sense of coherence. One thing I had to compromise on however, was the lightweightedness of the first solution.&lt;/p&gt;
+
+&lt;!-- Prototyping --&gt;
+
+&lt;p&gt;&lt;/article&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/p&gt;
+
+&lt;section class=&quot;feature__context&quot;&gt;
+&lt;div class=&quot;wrapper&quot;&gt;
+&lt;div class=&quot;col-sm-8 col-xs-12&quot;&gt;
+    &lt;h2 style=&quot;color: #23E16C;&quot;&gt;
+        Prototyping
+    &lt;/h2&gt;
+&lt;p&gt;Tight deadlines hadn’t allowed me enough space to prototype microinteractions, but that didn’t stop me from stitching a few static mockups together in Marvel and validating my ideas. They were far from perfect, but hey I guess that’s why they’re called prototypes.&lt;/p&gt;
+
+&lt;p&gt;An interesting discussion that arose from seeing these two iterations side by side was pereceived time to complete versus actual time to complete. When we tested the iterations side by side and looked at how field agents were responding to both, we noticed that there was a small hint of frustration with the first direction even though it took slightly less time to complete.  &lt;/p&gt;
+
+&lt;iframe src=&quot;https://marvelapp.com/1e1ia78?emb=1&quot; allowTransparency=&quot;true&quot; frameborder=&quot;0&quot; class=&quot;center prototype &quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;One field worker told me that even though it was pretty straightforward, it still felt it was “a bit long-winded”. The reaction was mixed, but the team and I had deliberated that it was better if we valued how people felt since the time to complete was negligible. Even though half a second counts in this business, a happier worker is a more productive and proactive worker. Had I more time I would have used something like Framer or Principle to communicate more complex interactions, but deadlines and all that you know. &lt;/p&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;
+
+&lt;p&gt;&lt;/div&gt;
+&lt;div class=&quot;post wrapper&quot;&gt;
+&lt;div class=&quot;col-sm-8&quot;&gt;
+&lt;article class=&quot;post-content&quot;&gt;&lt;/p&gt;
+
+&lt;!-- ////////////////// --&gt;
+
+&lt;h2&gt;Takeaways&lt;/h2&gt;
+
+&lt;p&gt;Unfortunately our work never saw the light of day (unless you count the people we had asked to come in for testing) because the plug was pulled on this product.   As a result of this I’ve learnt that industries such as this come with a different host of topics, areas and issues that will need to be considered when architecting a solution. It was strange. &lt;/p&gt;
+
+&lt;p&gt;Being exposed to failure this early on in my career was something that I never expected after graduation.   Pushing the value of design in an area with a lot of friction, whilst mostly being exposed to people designing in the consumer space who were getting much less resistance, was another challenge. But hey, what’s building something without roadblocks?&lt;/p&gt;
+
+&lt;p&gt;    &lt;/p&gt;
+</description>
+        <pubDate>Sat, 10 Dec 2016 22:50:26 +0100</pubDate>
+        <link>http://www.justinfarrugia.com/opendispatch.html</link>
+        <guid isPermaLink="true">http://www.justinfarrugia.com/opendispatch.html</guid>
+        
+        <category>mobile</category>
+        
+        <category>product</category>
+        
+        <category>ux</category>
+        
+        
+        <category>work</category>
+        
+      </item>
+    
+      <item>
+        <title>Intentionality and Empathy: What I learnt from my first design internship</title>
+        <description>&lt;style&gt;
+  p &gt; a {
+        color: #EB7EAC;
+    }
+&lt;/style&gt;
+
+&lt;h2&gt;Doing something about it.&lt;/h2&gt;
+
+&lt;p&gt;Not doing anything was holding me back tenfold. So, I grabbed my trusty pencil and pad, and started sketching ideas. I had read about Nina Muffleh some time ago, who went above and beyond by building a website so that she could land a position at Airbnb and get recruiters talking. &lt;/p&gt;
+
+&lt;p&gt;As a self-starter myself, I really respected her drive and commitment as well as her courage. Naturally, I was influenced by her approach. So I went ahead and decided to do the same kind of thing to land that internship. So I built a website and well, &lt;a class=&quot;post&quot; href=&quot;http://justinmarkfarrugia.github.io/BRNDWGN_Application/&quot;&gt;here it is.&lt;/a&gt;&lt;/p&gt;
+
+&lt;iframe src=&quot;//giphy.com/embed/l3q2HoNATvOp5TvoY&quot; width=&quot;600&quot; height=&quot;400&quot; frameBorder=&quot;0&quot; class=&quot;giphy-embed&quot; allowFullScreen&gt;&lt;/iframe&gt;
+
+&lt;figcaption&gt;Here's the one pager in all its glory, was pretty cool making this. What wasn't cool was the number of illustrations I discarded :(&lt;/figcaption&gt;
+
+&lt;p&gt;Admittedly, that one-pager accompanied with a pretty boldly worded email took some courage. I mean it’s not like I knew these guys, I just heard the CEO (Hey Pete) speak at a local meetup and was like “Man these guys seem like they do great work”. Two days after finally pressing send, an  email from the Head of Creative showed up in my inbox. That fourth line was a bit heart-wrenching, but nevertheless I visited the office to have a chat, and was offered an internship. &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;img/BRNDWGNemail.png&quot; alt=&quot;A one-pager I built for my application at BRNDWGN&quot;&gt;&lt;/p&gt;
+
+&lt;figcaption&gt;&quot;One of the most original internship requests I've ever received.&quot; Yep, nailed it.&lt;/figcaption&gt;
+
+&lt;h2&gt;What I took away&lt;/h2&gt;
+
+&lt;p&gt;Like many interns on their first day, I had that weird blend of contrasting emotions namely fear, occasional arrogance and a willingness to impress. Throughout my time at the wagon I was exposed to a set of briefs which had to be tackled differently as opposed to how I built stuff alone in my room at my desk.&lt;/p&gt;
+
+&lt;p&gt;One of my very first briefs was to design and build a banner advert that promoted the company’s 10 year anniversary. At first I wasn’t sure that what I was doing, was really UX work per-se. It seemed like a trivial task handed off to an intern, but boy was I wrong. &lt;/p&gt;
+
+&lt;p&gt;&lt;hr&gt;&lt;/p&gt;
+
+&lt;p&gt;As an adblock user, I had brought up the ‘why are we actually doing this’ several times and backed up my argument with some numbers about ad viewability and click through rates. &lt;span class=&quot;point&quot;&gt; One thing I fundamentally forgot however was &lt;strong&gt;the user&lt;/strong&gt; &lt;/span&gt;. The person I would be designing for, probably wouldn’t be aware of ad blocking software.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;point&quot;&gt;Another thing I learnt was designing with &lt;strong&gt;intentionality&lt;/strong&gt;, especially when I worked on one particular landing page that went through several iterations.&lt;/span&gt; Apart from knowing my audience, setting a success criteria and looking out for conversion metrics, the thing that I needed to be mindful of &lt;span class=&quot;point&quot;&gt; was ultimately, the &lt;strong&gt;purpose&lt;/strong&gt; &lt;/span&gt;. If I knew the why when I was tasked with building something, then I could tackle the problem better.&lt;/p&gt;
+
+&lt;p&gt;After a long day, I never went home to the feeling that I was not so great at using that one tool that almost everyone in the office was so good with. Instead, I sort of kept a log at the back of my mind &lt;span class=&quot;point&quot;&gt;with the conversations I would have had&lt;/span&gt; during a critique or a brainstorming session. &lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;point&quot;&gt;Better soft skills, an open mind, and collaboration&lt;/span&gt; were a necessity if I was to do well. The most important lesson of all though was that design was a &lt;strong&gt;team sport&lt;/strong&gt;, whenever there were more heads involved, great products usually followed.&lt;/p&gt;
+
+&lt;h2&gt;A parting gift&lt;/h2&gt;
+
+&lt;p&gt;As a sort of thank you note to show my appreciation to the team for their support and their patience for when I had way too many questions lined up, I built a sort of blueprint for future wagoneers and/or new hires. You can check that out here. &lt;/p&gt;
+
+&lt;p&gt;&lt;img  src=&quot;img/THNKS.png&quot; alt=&quot;Building a website to say thanks&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;I&amp;#39;m in no way an authorative figure on design (yet). Naturally, I still have a lot to learn, but this internship was definitely a step in the right direction. As for the future? Well we&amp;#39;ll see. Till then have a good day reader!&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 10 Oct 2016 00:00:00 +0200</pubDate>
+        <link>http://www.justinfarrugia.com/brndwgn.html</link>
+        <guid isPermaLink="true">http://www.justinfarrugia.com/brndwgn.html</guid>
+        
+        <category>lessons</category>
+        
+        <category>internship</category>
+        
+        <category>ux</category>
+        
+        
+        <category>work</category>
+        
+      </item>
+    
+  </channel>
+</rss>
