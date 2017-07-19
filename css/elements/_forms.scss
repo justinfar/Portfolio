@@ -26,9 +26,9 @@ input {
     padding: 10px;
     margin: 0 5px;
     max-width: 180px;
-    
+
     &[type="text"], &[type="email"], &[type="button"] {
-        @include media-query($on-palm) {  
+        @include media-query($on-palm) {
             display: block;
             margin: 15px auto;
         }

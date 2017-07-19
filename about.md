@@ -51,7 +51,7 @@ layout: unique
 </p>
 <blockquote>
     <h5>
-        My admittidely sometimes child-like inquisitiveness forces me to be overly-introspective and ask why every single time. It helps, it really does.
+        My admittedly sometimes child-like inquisitiveness forces me to be overly-introspective and ask why every single time. It helps, it really does.
     </h5>
      
 </blockquote>
