@@ -6,7 +6,7 @@ url: "http://www.justinfarrugia.com" # the base hostname & protocol for your sit
 twitter_username: justinmfarrugia
 github_username:  justinmarkfarrugia
 permalink: "/:title"
-markdown: redcarpet
+markdown: kramdown
 highlighter: rouge # or pygments or null
 exclude: ["node_modules", "gulpfile.js", "package.json"]
 
