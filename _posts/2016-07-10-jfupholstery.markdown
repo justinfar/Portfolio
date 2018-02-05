@@ -40,15 +40,11 @@ So it turns out “I need a website” aren’t exactly trigger words that get m
 <img src="img/johnf.png" alt="A picture of my Dad">
 <figcaption>The champ, deep in thought.</figcaption>
 
+
 <!-- Hypothesis Section -->
 <!-- Closing Divs -->
-</article>
-</div>
-</div>
 
-<section class="feature__context">
-	<div class="wrapper">
-		<div class="col-sm-12 col-md-7">
+
 
 <h2 style="color: #1085F9; margin-bottom: 10px;"> Talking to people IRL</h2>
 I was helping one my dad’s clients since he wasn’t at the garage, and me being a tad nosey, I just had to ask the guy whose sofa I was carrying some probing questions. Lets call him Jack.
@@ -81,30 +77,22 @@ I was helping one my dad’s clients since he wasn’t at the garage, and me bei
 Goldmine. This interview alone cemented the importance to go out and talk to people. I eventually asked some more people a similar set of questions to the ones shown above. The process itself actually confirmed some initial assumptions that I had before heading into this project.
 <br />
 <br />
-		</div>
-	</div>
-</section>
+		
 
 <!-- Opening Divs -->
-<div class="post wrapper">
-<div class="col-sm-8">
-<article class="post-content">
+
 
 <h2>How can I design and build a website that is findable, accessible and credible?</h2>
 
 Now that I got a clearer picture of what needed to be done it was up to me to do go out and do it. But before that happens, I needed to set myself a set of design principles, based on the research I’ve done, that I was going to operate with.
 
 <!-- Image Section -->
-</article>
-</div>
-</div>
+
 <img src="img/jfupholstery_stickies.png" alt="Some research notes from this project" style="border: none; width: 100%;">
 <div class="wrapper">
 <figcaption>Yes I know it’s a personal project, can’t help but document and note down stuff though. Think the most important part of researching is not actually how you go about collecting it, but how you go about deriving meaning.</figcaption>
 </div>
-<div class="post wrapper">
-<div class="col-sm-8">
-<article class="post-content">
+
 
 <h2>What I found</h2>
 
@@ -131,16 +119,12 @@ So all this (and more) gave me a better picture. <span style="color: #1085F9; ">
 Now that I had a hypothesis, I needed to generate ideas to be able to test its validity (or invalidity). Here I had to think big and wide, be generative and not confine myself to one direction. I made it a point to document what I’ve learnt from my research and keep it handy as a point of reference.
 
 <!-- Image Section -->
-</article>
-</div>
-</div>
+
 <img src="img/jfupholstery_ideation.png" alt="Some sketches and ideas from this project" style="width: 100%;">
 <div class="wrapper">
 <figcaption>Turns out using paper (dotgrid) encouraged my dad to pop by and give me feedback. Using pencil and paper, unconciously, removed that ‘alienation’ one creates when using software like Illustrator or Sketch for wireframing. Paper, being a more universal medium gets more people involved.</figcaption>
 </div>
-<div class="post wrapper">
-<div class="col-sm-8">
-<article class="post-content">
+
 
 <h2>Building with continuous feedback</h2>
 
@@ -167,19 +151,11 @@ With a bit of help from the interwebs and a friend who worked in marketing, I di
 </div>
 
 
-<div class="box">
-	Need more metrics? Don’t we all. Just let me know what you need by getting in touch via email <a href="mailto:justinmfarrugia@gmail.com" style="color: #1085F9;padding-bottom: 5px;">justinmfarrugia@gmail.com</a>.
-</div>
-
 <!-- Takeaways Section -->
 <!-- Closing Divs -->
-</article>
-</div>
-</div>
 
-<section class="feature__context" style="margin-bottom: 0;">
-	<div class="wrapper">
-		<div class="col-sm-12 col-md-7">
+
+
 <h2>Takeaways</h2>
 There’s always something you learn (hopefully) from every project. From this one it wasn’t how to firefight Wordpress (even though I forgot to backup the site at one point and had to rebuild it again). What I learnt was even a relatively small site (5-6 pages) can teach you so much.  
 <br />
@@ -187,17 +163,4 @@ There’s always something you learn (hopefully) from every project. From this o
 I learnt that shipping early was beneficial, seeking feedback continously (even when the project is barebones) is essential and most of all that research should be a <strong>continuous input</strong> rather than that thing you do at the beginning and completely forget about later on.    
 <br />
 <br /> 
-
-		</div>
-	</div>
-</section>
-
-<!-- Opening Divs -->
-<div class="post wrapper">
-<div class="col-sm-8">
-<article class="post-content">
-
-<br>
-
-
 
