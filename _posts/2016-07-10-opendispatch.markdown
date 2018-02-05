@@ -30,13 +30,9 @@ role: Product Design and Prototyping
 
 <p>Open Dispatch is a fleet management application designed to provide mobile teams such as technicians and drivers an intuitive and unobstructive experience with which to carry out their work. Fleet managers, back office managers and workshop operators are also able to view real-time updates of the progress made by field agents. </p>
 
-</article>
-</div>
-</div>
-
 <img src="img/opendispatch_all.png" alt="Some research notes from this project" style="border: none; width: 100%;">
 <div class="wrapper">
-<figcaption>Some iterations showing steps to be taken during a task confirmation. Yes I can see you over there looking disappointingly at that Lorem Ipsum placeholder text.</figcaption>
+<figcaption>Some iterations showing steps to be taken during a task confirmation. Yes I can see you looking disappointingly at that Lorem Ipsum placeholder text.</figcaption>
 
 </div>
 <div class="post wrapper">
@@ -45,9 +41,7 @@ role: Product Design and Prototyping
 
 
 <!-- Problem -->
-</article>
-</div>
-</div>
+
 
 <section class="feature__context" style="margin-bottom: -70px; background-color:#02E16B;">
 <div class="wrapper">
@@ -69,9 +63,6 @@ role: Product Design and Prototyping
 <!-- ////////////////// -->
 
 <!-- Hypothesis -->
-</article>
-</div>
-</div>
 
 <section class="feature__context">
 <div class="wrapper">
@@ -102,9 +93,6 @@ Productivity is critical for a mobile workforce to operate at an optimal level. 
 <figcaption>We tried to find out current pain points within the existing solution, so that we could see what was and wasn't working. As can be seen above there were definitely some problems that we needed to address.</figcaption>
 
 <!-- People -->
-</article>
-</div>
-</div>
 
 <section class="feature__context">
 <div class="wrapper">
@@ -143,9 +131,6 @@ Productivity is critical for a mobile workforce to operate at an optimal level. 
 <figcaption>This may look chatoic, but trust me this was controlled chaos. By referring to this user flow for task completion we knew where our focus had to go and what glaring painpoints we had to immediately address.</figcaption>
 
 <!-- Ideation -->
-</article>
-</div>
-</div>
 
 <section class="feature__context">
 <div class="wrapper">
@@ -198,9 +183,6 @@ Productivity is critical for a mobile workforce to operate at an optimal level. 
 <p>By keeping everything on one screen, seperating the sub-tasks into logically ordered steps, there was a sense of coherence. One thing I had to compromise on however, was the lightweightedness of the first solution.</p>
 
 <!-- Prototyping -->
-</article>
-</div>
-</div>
 
 <section class="feature__context">
 <div class="wrapper">
@@ -231,9 +213,4 @@ Productivity is critical for a mobile workforce to operate at an optimal level. 
 <h2>Takeaways</h2>
 <p>Unfortunately our work never saw the light of day (unless you count the people we had asked to come in for testing) because the plug was pulled on this product.   As a result of this I’ve learnt that industries such as this come with a different host of topics, areas and issues that will need to be considered when architecting a solution. It was strange. </p>
 
-<p>Being exposed to failure this early on in my career was something that I never expected after graduation.   Pushing the value of design in an area with a lot of friction, whilst mostly being exposed to people designing in the consumer space who were getting much less resistance, was another challenge. But hey, what’s building something without roadblocks?</p>
-
-
-
-
-     
+<p>Being exposed to failure this early on in my career was something that I never expected after graduation.   Pushing the value of design in an area with a lot of friction, whilst mostly being exposed to people designing in the consumer space who were getting much less resistance, was another challenge. But hey, what’s building something without roadblocks?</p> 
