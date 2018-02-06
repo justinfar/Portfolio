@@ -1,17 +1,17 @@
 // Font Families
-$base-font-family: "SourceSerifPro", Georgia, serif;
-$body-font-family: "SourceSerifPro", Georgia, serif;
+$base-font-family: "Graphik", Georgia, serif;
+$body-font-family: "Graphik", Georgia, serif;
 
-$headings-font-family: "MaisonNeue", Helvetica, sans-serif;
-$captions-font-family: "SFMedium", Helvetica, sans-serif;
+$headings-font-family: "Graphik", Helvetica, sans-serif;
+$captions-font-family: "Graphik", Helvetica, sans-serif;
 
 // Weights
 $normal: normal;
-$bold: bold;
+$bold: 600;
 $medium: 500;
 
 //Span
-$span-font-family: "SFMedium", Helvetica, sans-serif;
+$span-font-family: "Graphik", Helvetica, sans-serif;
 
 // Heading
 $headings-size:    50px;
@@ -19,7 +19,7 @@ $heading-font-weight: 500;
 
 // Base
 $base-font-size:   1.35rem;
-$base-font-weight: 500;
+$base-font-weight: 400;
 
 // Small
 $small-font-size:  $base-font-size * 0.675;

@@ -14,32 +14,22 @@ html {
 // Typography | Calling self-hosted fonts
 
 @font-face {
-    font-family: SFMedium;
-    src: url(../../fonts/SFMedium.ttf);
-}
-
-@font-face {
-    font-family: SFRegular;
-    font-family: normal;
-    src: url(../../fonts/SFRegular.ttf);
-}
-
-@font-face {
-    font-family: SourceSerifPro;
+    font-family: Graphik;
     font-weight: normal;
-    src: url(../../fonts/sourceserifproregular.ttf);
+    src: url(../../fonts/Graphik-Regularttf);
 }
 
 @font-face {
-    font-family: SourceSerifPro;
-    font-weight: bold;
-    src: url(../../fonts/sourceserifprosemibold.ttf);
+    font-family: GraphikLight;
+    font-weight: lighter;
+    src: url(../../fonts/Graphik-Light.ttf);
 }
 
+
 @font-face {
-    font-family: MaisonNeue;
-    font-weight: bold;
-    src: url(../../fonts/maisonneuedemi.ttf);
+    font-family: GraphikMedium;
+    font-weight: 500;
+    src: url(../../fonts/Graphik-Medium.ttf);
 }
 
 @import  "copy";

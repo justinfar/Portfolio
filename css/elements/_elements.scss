@@ -42,8 +42,8 @@ html {
                 background: $brand-color;
             }
         & a[href="mailto:justinmfarrugia@gmail.com"]{
-            font-weight: $bold;
-            font-family: MaisonNeue;
+            font-weight: $medium;
+            font-family: $body-font-family;
             // content: 'justinmfarrugia@gmail.com';
             // display: block;
             // color: transparent !important;

@@ -21,7 +21,7 @@ a {
 
     &.readmore {
         font-family: $headings-font-family;
-        font-weight: normal;
+        font-weight: 500;
         font-size: $base-font-size * .9;
         color: $text-color;
         opacity: 0.8;
@@ -46,8 +46,7 @@ a {
         display: block;
         margin: 20px 0;
         font-size: $base-font-size;
-        font-family: $headings-font-family;
-        font-weight: bold;
+        font-family: $body-font-family;
     }
 
     &.twitter_nav {
