@@ -1,11 +1,16 @@
-h1, h2, h3, h4, h5, h6 {
+h2, h3, h4, h5, h6 {
     font-weight: $medium;
     font-family: $headings-font-family;
 }
 
 h1{
     font-size: $headings-size;
-    margin: 0;    
+    margin: 0;
+
+    &.post-title {
+        font-weight: $medium;
+    }
+    
     &.nameintro {
         margin-bottom: -20px;
         font-weight: 500;

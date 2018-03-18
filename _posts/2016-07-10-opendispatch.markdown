@@ -1,5 +1,5 @@
 ---
-title: Building a fleet management solution that never shipped
+title: Building a fleet management solution 
 date: 2016-12-10 23:50:26 +02:00
 categories:
 - work
@@ -7,7 +7,7 @@ tags:
 - mobile
 - product
 - ux
-description: As the title implies, this didn't ship, but I still wrote about it because despite not being able to see it out there in the wild, it was still a learning experience.
+description: Building a product to bridge the gap & improve communication between field agents and the backoffice.
 image: opendispatch.png
 permalink: opendispatch.html
 layout: post
