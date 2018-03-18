@@ -1,17 +1,19 @@
-// Font Families
-$base-font-family: "Graphik", Georgia, serif;
-$body-font-family: "Graphik", Georgia, serif;
+@import url('https://fonts.googleapis.com/css?family=Hind+Vadodara:400,500,600,700');
 
-$headings-font-family: "Graphik", Helvetica, sans-serif;
-$captions-font-family: "Graphik", Helvetica, sans-serif;
+// Font Families
+$base-font-family: 'Hind Vadodara', Helvetica, sans-serif;
+$body-font-family: 'Hind Vadodara', Helvetica, sans-serif;
+$headings-font-family: 'Hind Vadodara', Helvetica, sans-serif;
+$captions-font-family: 'Hind Vadodara', Helvetica, sans-serif;
+
 
 // Weights
-$normal: normal;
+$normal: 400;
 $bold: 600;
 $medium: 500;
 
 //Span
-$span-font-family: "Graphik", Helvetica, sans-serif;
+$span-font-family: 'Hind Vadodara', Helvetica, sans-serif;
 
 // Heading
 $headings-size:    50px;
